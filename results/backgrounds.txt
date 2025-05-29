@@ -1,0 +1,194 @@
+Background
+Top 20(917 games):
+{"count":32,"share":9.907120743034056,"item":"fighter"},
+{"count":28,"share":8.6687306501548,"item":"alchemist"},
+{"count":21,"share":6.5015479876160995,"item":"forgewright"},
+{"count":21,"share":6.5015479876160995,"item":"monk"},
+{"count":19,"share":5.88235294117647,"item":"earth elementalist"},
+{"count":18,"share":5.572755417956656,"item":"shapeshifter"},
+{"count":17,"share":5.263157894736842,"item":"gladiator"},
+{"count":17,"share":5.263157894736842,"item":"reaver"},
+{"count":16,"share":4.953560371517028,"item":"conjurer"},
+{"count":11,"share":3.4055727554179565,"item":"hunter"},
+{"count":11,"share":3.4055727554179565,"item":"ice elementalist"},
+{"count":10,"share":3.0959752321981426,"item":"cinder acolyte"},
+{"count":9,"share":2.786377708978328,"item":"warper"},
+{"count":9,"share":2.786377708978328,"item":"enchanter"},
+{"count":9,"share":2.786377708978328,"item":"brigand"},
+{"count":9,"share":2.786377708978328,"item":"artificer"},
+{"count":8,"share":2.476780185758514,"item":"wanderer"},
+{"count":8,"share":2.476780185758514,"item":"air elementalist"},
+{"count":8,"share":2.476780185758514,"item":"hedge wizard"},
+{"count":7,"share":2.1671826625387,"item":"chaos knight"},
+{"count":7,"share":2.1671826625387,"item":"fire elementalist"},
+{"count":7,"share":2.1671826625387,"item":"berserker"},
+{"count":6,"share":1.8575851393188854,"item":"necromancer"},
+{"count":6,"share":1.8575851393188854,"item":"delver"},
+{"count":6,"share":1.8575851393188854,"item":"hexslinger"},
+{"count":3,"share":0.9287925696594427,"item":"summoner"},
+
+Top 50(917 games):
+{"count":72,"share":12.7208480565371,"item":"fighter"},
+{"count":39,"share":6.890459363957597,"item":"shapeshifter"},
+{"count":36,"share":6.36042402826855,"item":"alchemist"},
+{"count":31,"share":5.477031802120141,"item":"forgewright"},
+{"count":30,"share":5.30035335689046,"item":"reaver"},
+{"count":29,"share":5.123674911660777,"item":"earth elementalist"},
+{"count":28,"share":4.946996466431095,"item":"monk"},
+{"count":28,"share":4.946996466431095,"item":"gladiator"},
+{"count":26,"share":4.593639575971731,"item":"conjurer"},
+{"count":20,"share":3.53356890459364,"item":"hunter"},
+{"count":19,"share":3.356890459363958,"item":"cinder acolyte"},
+{"count":18,"share":3.180212014134275,"item":"brigand"},
+{"count":18,"share":3.180212014134275,"item":"berserker"},
+{"count":17,"share":3.0035335689045937,"item":"air elementalist"},
+{"count":17,"share":3.0035335689045937,"item":"ice elementalist"},
+{"count":16,"share":2.8268551236749118,"item":"wanderer"},
+{"count":15,"share":2.65017667844523,"item":"hedge wizard"},
+{"count":15,"share":2.65017667844523,"item":"artificer"},
+{"count":14,"share":2.4734982332155475,"item":"fire elementalist"},
+{"count":13,"share":2.2968197879858656,"item":"delver"},
+{"count":12,"share":2.1201413427561837,"item":"warper"},
+{"count":12,"share":2.1201413427561837,"item":"chaos knight"},
+{"count":12,"share":2.1201413427561837,"item":"enchanter"},
+{"count":11,"share":1.9434628975265018,"item":"necromancer"},
+{"count":11,"share":1.9434628975265018,"item":"hexslinger"},
+{"count":7,"share":1.2367491166077738,"item":"summoner"},
+
+Top 200(917 games):
+{"count":145,"share":12.854609929078014,"item":"fighter"},
+{"count":73,"share":6.471631205673758,"item":"shapeshifter"},
+{"count":68,"share":6.028368794326241,"item":"earth elementalist"},
+{"count":67,"share":5.939716312056738,"item":"gladiator"},
+{"count":65,"share":5.76241134751773,"item":"alchemist"},
+{"count":65,"share":5.76241134751773,"item":"ice elementalist"},
+{"count":59,"share":5.2304964539007095,"item":"forgewright"},
+{"count":53,"share":4.698581560283688,"item":"conjurer"},
+{"count":53,"share":4.698581560283688,"item":"monk"},
+{"count":51,"share":4.521276595744681,"item":"reaver"},
+{"count":39,"share":3.4574468085106385,"item":"wanderer"},
+{"count":39,"share":3.4574468085106385,"item":"berserker"},
+{"count":38,"share":3.368794326241135,"item":"hunter"},
+{"count":33,"share":2.925531914893617,"item":"air elementalist"},
+{"count":29,"share":2.5709219858156027,"item":"delver"},
+{"count":28,"share":2.4822695035460995,"item":"cinder acolyte"},
+{"count":28,"share":2.4822695035460995,"item":"brigand"},
+{"count":28,"share":2.4822695035460995,"item":"artificer"},
+{"count":27,"share":2.393617021276596,"item":"enchanter"},
+{"count":25,"share":2.2163120567375887,"item":"hedge wizard"},
+{"count":22,"share":1.950354609929078,"item":"necromancer"},
+{"count":22,"share":1.950354609929078,"item":"hexslinger"},
+{"count":20,"share":1.773049645390071,"item":"chaos knight"},
+{"count":20,"share":1.773049645390071,"item":"fire elementalist"},
+{"count":17,"share":1.5070921985815602,"item":"warper"},
+{"count":14,"share":1.2411347517730498,"item":"summoner"},
+
+15 Runes(917 games):
+{"count":32,"share":18.823529411764707,"item":"fighter"},
+{"count":19,"share":11.176470588235295,"item":"earth elementalist"},
+{"count":11,"share":6.470588235294119,"item":"conjurer"},
+{"count":11,"share":6.470588235294119,"item":"shapeshifter"},
+{"count":11,"share":6.470588235294119,"item":"gladiator"},
+{"count":9,"share":5.294117647058823,"item":"ice elementalist"},
+{"count":7,"share":4.117647058823529,"item":"wanderer"},
+{"count":7,"share":4.117647058823529,"item":"fire elementalist"},
+{"count":6,"share":3.5294117647058822,"item":"alchemist"},
+{"count":5,"share":2.941176470588235,"item":"hunter"},
+{"count":5,"share":2.941176470588235,"item":"delver"},
+{"count":4,"share":2.3529411764705883,"item":"cinder acolyte"},
+{"count":4,"share":2.3529411764705883,"item":"brigand"},
+{"count":4,"share":2.3529411764705883,"item":"monk"},
+{"count":4,"share":2.3529411764705883,"item":"reaver"},
+{"count":4,"share":2.3529411764705883,"item":"forgewright"},
+{"count":4,"share":2.3529411764705883,"item":"enchanter"},
+{"count":3,"share":1.7647058823529411,"item":"warper"},
+{"count":3,"share":1.7647058823529411,"item":"hedge wizard"},
+{"count":3,"share":1.7647058823529411,"item":"hexslinger"},
+{"count":3,"share":1.7647058823529411,"item":"air elementalist"},
+{"count":3,"share":1.7647058823529411,"item":"artificer"},
+{"count":3,"share":1.7647058823529411,"item":"summoner"},
+{"count":2,"share":1.1764705882352942,"item":"necromancer"},
+{"count":2,"share":1.1764705882352942,"item":"berserker"},
+{"count":1,"share":0.5882352941176471,"item":"chaos knight"},
+
+Zigg Cleared(917 games):
+{"count":12,"share":17.391304347826086,"item":"earth elementalist"},
+{"count":12,"share":17.391304347826086,"item":"conjurer"},
+{"count":5,"share":7.246376811594203,"item":"wanderer"},
+{"count":5,"share":7.246376811594203,"item":"fire elementalist"},
+{"count":4,"share":5.797101449275362,"item":"shapeshifter"},
+{"count":4,"share":5.797101449275362,"item":"gladiator"},
+{"count":4,"share":5.797101449275362,"item":"ice elementalist"},
+{"count":4,"share":5.797101449275362,"item":"alchemist"},
+{"count":3,"share":4.3478260869565215,"item":"air elementalist"},
+{"count":2,"share":2.898550724637681,"item":"necromancer"},
+{"count":2,"share":2.898550724637681,"item":"fighter"},
+{"count":2,"share":2.898550724637681,"item":"monk"},
+{"count":2,"share":2.898550724637681,"item":"hedge wizard"},
+{"count":2,"share":2.898550724637681,"item":"enchanter"},
+{"count":1,"share":1.4492753623188406,"item":"reaver"},
+{"count":1,"share":1.4492753623188406,"item":"delver"},
+{"count":1,"share":1.4492753623188406,"item":"hexslinger"},
+{"count":1,"share":1.4492753623188406,"item":"forgewright"},
+{"count":1,"share":1.4492753623188406,"item":"cinder acolyte"},
+{"count":1,"share":1.4492753623188406,"item":"summoner"},
+
+No Zigg(917 games):
+{"count":117,"share":12.758996728462376,"item":"fighter"},
+{"count":60,"share":6.543075245365322,"item":"shapeshifter"},
+{"count":58,"share":6.324972737186478,"item":"alchemist"},
+{"count":55,"share":5.997818974918212,"item":"forgewright"},
+{"count":52,"share":5.670665212649945,"item":"gladiator"},
+{"count":51,"share":5.561613958560523,"item":"ice elementalist"},
+{"count":48,"share":5.2344601962922575,"item":"monk"},
+{"count":45,"share":4.907306434023991,"item":"reaver"},
+{"count":44,"share":4.79825517993457,"item":"earth elementalist"},
+{"count":34,"share":3.707742639040349,"item":"conjurer"},
+{"count":34,"share":3.707742639040349,"item":"berserker"},
+{"count":33,"share":3.598691384950927,"item":"hunter"},
+{"count":30,"share":3.271537622682661,"item":"wanderer"},
+{"count":25,"share":2.7262813522355507,"item":"artificer"},
+{"count":24,"share":2.6172300981461287,"item":"enchanter"},
+{"count":24,"share":2.6172300981461287,"item":"air elementalist"},
+{"count":24,"share":2.6172300981461287,"item":"brigand"},
+{"count":23,"share":2.5081788440567068,"item":"cinder acolyte"},
+{"count":23,"share":2.5081788440567068,"item":"delver"},
+{"count":21,"share":2.2900763358778624,"item":"hedge wizard"},
+{"count":19,"share":2.0719738276990185,"item":"necromancer"},
+{"count":19,"share":2.0719738276990185,"item":"hexslinger"},
+{"count":18,"share":1.9629225736095965,"item":"chaos knight"},
+{"count":14,"share":1.5267175572519083,"item":"warper"},
+{"count":11,"share":1.1995637949836424,"item":"fire elementalist"},
+{"count":11,"share":1.1995637949836424,"item":"summoner"},
+
+
+**Background**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Fighter: 32 - share: 9.91%|Fighter: 72 - share: 12.72%|Fighter: 145 - share: 12.85%|Fighter: 32 - share: 18.82%|Earth elementalist: 12 - share: 17.39%|Fighter: 117 - share: 12.76%|
+|Alchemist: 28 - share: 8.67%|Shapeshifter: 39 - share: 6.89%|Shapeshifter: 73 - share: 6.47%|Earth elementalist: 19 - share: 11.18%|Conjurer: 12 - share: 17.39%|Shapeshifter: 60 - share: 6.54%|
+|Forgewright: 21 - share: 6.50%|Alchemist: 36 - share: 6.36%|Earth elementalist: 68 - share: 6.03%|Conjurer: 11 - share: 6.47%|Wanderer: 5 - share: 7.25%|Alchemist: 58 - share: 6.32%|
+|Monk: 21 - share: 6.50%|Forgewright: 31 - share: 5.48%|Gladiator: 67 - share: 5.94%|Shapeshifter: 11 - share: 6.47%|Fire elementalist: 5 - share: 7.25%|Forgewright: 55 - share: 6.00%|
+|Earth elementalist: 19 - share: 5.88%|Reaver: 30 - share: 5.30%|Alchemist: 65 - share: 5.76%|Gladiator: 11 - share: 6.47%|Shapeshifter: 4 - share: 5.80%|Gladiator: 52 - share: 5.67%|
+|Shapeshifter: 18 - share: 5.57%|Earth elementalist: 29 - share: 5.12%|Ice elementalist: 65 - share: 5.76%|Ice elementalist: 9 - share: 5.29%|Gladiator: 4 - share: 5.80%|Ice elementalist: 51 - share: 5.56%|
+|Gladiator: 17 - share: 5.26%|Monk: 28 - share: 4.95%|Forgewright: 59 - share: 5.23%|Wanderer: 7 - share: 4.12%|Ice elementalist: 4 - share: 5.80%|Monk: 48 - share: 5.23%|
+|Reaver: 17 - share: 5.26%|Gladiator: 28 - share: 4.95%|Conjurer: 53 - share: 4.70%|Fire elementalist: 7 - share: 4.12%|Alchemist: 4 - share: 5.80%|Reaver: 45 - share: 4.91%|
+|Conjurer: 16 - share: 4.95%|Conjurer: 26 - share: 4.59%|Monk: 53 - share: 4.70%|Alchemist: 6 - share: 3.53%|Air elementalist: 3 - share: 4.35%|Earth elementalist: 44 - share: 4.80%|
+|Hunter: 11 - share: 3.41%|Hunter: 20 - share: 3.53%|Reaver: 51 - share: 4.52%|Hunter: 5 - share: 2.94%|Necromancer: 2 - share: 2.90%|Conjurer: 34 - share: 3.71%|
+|Ice elementalist: 11 - share: 3.41%|Cinder acolyte: 19 - share: 3.36%|Wanderer: 39 - share: 3.46%|Delver: 5 - share: 2.94%|Fighter: 2 - share: 2.90%|Berserker: 34 - share: 3.71%|
+|Cinder acolyte: 10 - share: 3.10%|Brigand: 18 - share: 3.18%|Berserker: 39 - share: 3.46%|Cinder acolyte: 4 - share: 2.35%|Monk: 2 - share: 2.90%|Hunter: 33 - share: 3.60%|
+|Warper: 9 - share: 2.79%|Berserker: 18 - share: 3.18%|Hunter: 38 - share: 3.37%|Brigand: 4 - share: 2.35%|Hedge wizard: 2 - share: 2.90%|Wanderer: 30 - share: 3.27%|
+|Enchanter: 9 - share: 2.79%|Air elementalist: 17 - share: 3.00%|Air elementalist: 33 - share: 2.93%|Monk: 4 - share: 2.35%|Enchanter: 2 - share: 2.90%|Artificer: 25 - share: 2.73%|
+|Brigand: 9 - share: 2.79%|Ice elementalist: 17 - share: 3.00%|Delver: 29 - share: 2.57%|Reaver: 4 - share: 2.35%|Reaver: 1 - share: 1.45%|Enchanter: 24 - share: 2.62%|
+|Artificer: 9 - share: 2.79%|Wanderer: 16 - share: 2.83%|Cinder acolyte: 28 - share: 2.48%|Forgewright: 4 - share: 2.35%|Delver: 1 - share: 1.45%|Air elementalist: 24 - share: 2.62%|
+|Wanderer: 8 - share: 2.48%|Hedge wizard: 15 - share: 2.65%|Brigand: 28 - share: 2.48%|Enchanter: 4 - share: 2.35%|Hexslinger: 1 - share: 1.45%|Brigand: 24 - share: 2.62%|
+|Air elementalist: 8 - share: 2.48%|Artificer: 15 - share: 2.65%|Artificer: 28 - share: 2.48%|Warper: 3 - share: 1.76%|Forgewright: 1 - share: 1.45%|Cinder acolyte: 23 - share: 2.51%|
+|Hedge wizard: 8 - share: 2.48%|Fire elementalist: 14 - share: 2.47%|Enchanter: 27 - share: 2.39%|Hedge wizard: 3 - share: 1.76%|Cinder acolyte: 1 - share: 1.45%|Delver: 23 - share: 2.51%|
+|Chaos knight: 7 - share: 2.17%|Delver: 13 - share: 2.30%|Hedge wizard: 25 - share: 2.22%|Hexslinger: 3 - share: 1.76%|Summoner: 1 - share: 1.45%|Hedge wizard: 21 - share: 2.29%|
+|Fire elementalist: 7 - share: 2.17%|Warper: 12 - share: 2.12%|Necromancer: 22 - share: 1.95%|Air elementalist: 3 - share: 1.76%||Necromancer: 19 - share: 2.07%|
+|Berserker: 7 - share: 2.17%|Chaos knight: 12 - share: 2.12%|Hexslinger: 22 - share: 1.95%|Artificer: 3 - share: 1.76%||Hexslinger: 19 - share: 2.07%|
+|Necromancer: 6 - share: 1.86%|Enchanter: 12 - share: 2.12%|Chaos knight: 20 - share: 1.77%|Summoner: 3 - share: 1.76%||Chaos knight: 18 - share: 1.96%|
+|Delver: 6 - share: 1.86%|Necromancer: 11 - share: 1.94%|Fire elementalist: 20 - share: 1.77%|Necromancer: 2 - share: 1.18%||Warper: 14 - share: 1.53%|
+|Hexslinger: 6 - share: 1.86%|Hexslinger: 11 - share: 1.94%|Warper: 17 - share: 1.51%|Berserker: 2 - share: 1.18%||Fire elementalist: 11 - share: 1.20%|
+|Summoner: 3 - share: 0.93%|Summoner: 7 - share: 1.24%|Summoner: 14 - share: 1.24%|Chaos knight: 1 - share: 0.59%||Summoner: 11 - share: 1.20%|

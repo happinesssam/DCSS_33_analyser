@@ -1,0 +1,64 @@
+Ranged
+Top 20(592 games):
+{"count":6,"item":"longbow","share":40},
+{"count":3,"item":"triple crossbow","share":20},
+{"count":2,"item":"hand cannon","share":13.333333333333334},
+{"count":2,"item":"sling","share":13.333333333333334},
+{"count":1,"item":"heavy crossbow","share":6.666666666666667},
+{"count":1,"item":"greatsling","share":6.666666666666667},
+
+Top 50(592 games):
+{"count":7,"item":"longbow","share":30.434782608695656},
+{"count":6,"item":"hand cannon","share":26.08695652173913},
+{"count":3,"item":"triple crossbow","share":13.043478260869565},
+{"count":3,"item":"arbalest","share":13.043478260869565},
+{"count":2,"item":"sling","share":8.695652173913043},
+{"count":1,"item":"heavy crossbow","share":4.3478260869565215},
+{"count":1,"item":"greatsling","share":4.3478260869565215},
+
+Top 200(592 games):
+{"count":18,"item":"hand cannon","share":29.508196721311474},
+{"count":17,"item":"longbow","share":27.86885245901639},
+{"count":10,"item":"triple crossbow","share":16.39344262295082},
+{"count":5,"item":"sling","share":8.19672131147541},
+{"count":5,"item":"arbalest","share":8.19672131147541},
+{"count":2,"item":"heavy crossbow","share":3.278688524590164},
+{"count":2,"item":"greatsling","share":3.278688524590164},
+{"count":2,"item":"orcbow","share":3.278688524590164},
+
+15 Runes(592 games):
+{"count":4,"item":"hand cannon","share":40},
+{"count":2,"item":"triple crossbow","share":20},
+{"count":1,"item":"heavy crossbow","share":10},
+{"count":1,"item":"longbow","share":10},
+{"count":1,"item":"sling","share":10},
+{"count":1,"item":"arbalest","share":10},
+
+Zigg Cleared(592 games):
+{"count":2,"item":"hand cannon","share":50},
+{"count":1,"item":"sling","share":25},
+{"count":1,"item":"arbalest","share":25},
+
+No Zigg(592 games):
+{"count":15,"item":"hand cannon","share":30.612244897959183},
+{"count":13,"item":"longbow","share":26.53061224489796},
+{"count":9,"item":"triple crossbow","share":18.367346938775512},
+{"count":3,"item":"sling","share":6.122448979591836},
+{"count":3,"item":"arbalest","share":6.122448979591836},
+{"count":2,"item":"heavy crossbow","share":4.081632653061225},
+{"count":2,"item":"greatsling","share":4.081632653061225},
+{"count":2,"item":"orcbow","share":4.081632653061225},
+
+
+**Ranged**
+
+|Top 20 (171 games)|Top 50 (330 games)|Top 200 (771 games)|15 Runes (150 games)|Zigg Cleared (60 games)|No Zigg (592 games)|
+|:-|:-|:-|:-|:-|:-|
+|Longbow: 6 - share: 40.00%|Longbow: 7 - share: 30.43%|Hand cannon: 18 - share: 29.51%|Hand cannon: 4 - share: 40.00%|Hand cannon: 2 - share: 50.00%|Hand cannon: 15 - share: 30.61%|
+|Triple crossbow: 3 - share: 20.00%|Hand cannon: 6 - share: 26.09%|Longbow: 17 - share: 27.87%|Triple crossbow: 2 - share: 20.00%|Sling: 1 - share: 25.00%|Longbow: 13 - share: 26.53%|
+|Hand cannon: 2 - share: 13.33%|Triple crossbow: 3 - share: 13.04%|Triple crossbow: 10 - share: 16.39%|Heavy crossbow: 1 - share: 10.00%|Arbalest: 1 - share: 25.00%|Triple crossbow: 9 - share: 18.37%|
+|Sling: 2 - share: 13.33%|Arbalest: 3 - share: 13.04%|Sling: 5 - share: 8.20%|Longbow: 1 - share: 10.00%||Sling: 3 - share: 6.12%|
+|Heavy crossbow: 1 - share: 6.67%|Sling: 2 - share: 8.70%|Arbalest: 5 - share: 8.20%|Sling: 1 - share: 10.00%||Arbalest: 3 - share: 6.12%|
+|Greatsling: 1 - share: 6.67%|Heavy crossbow: 1 - share: 4.35%|Heavy crossbow: 2 - share: 3.28%|Arbalest: 1 - share: 10.00%||Heavy crossbow: 2 - share: 4.08%|
+||Greatsling: 1 - share: 4.35%|Greatsling: 2 - share: 3.28%|||Greatsling: 2 - share: 4.08%|
+|||Orcbow: 2 - share: 3.28%|||Orcbow: 2 - share: 4.08%|

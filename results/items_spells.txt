@@ -1,0 +1,440 @@
+Spells
+Top 20(917 games):
+{"count":17,"item":"permafrost erupti","share":8.25242718446602},
+{"count":14,"item":"manifold assault","share":6.796116504854369},
+{"count":12,"item":"apportation","share":5.825242718446602},
+{"count":10,"item":"sphinx sisters","share":4.854368932038835},
+{"count":9,"item":"passage of golubr","share":4.368932038834951},
+{"count":9,"item":"hellfire mortar","share":4.368932038834951},
+{"count":8,"item":"plasma beam","share":3.8834951456310676},
+{"count":7,"item":"chain lightning","share":3.3980582524271843},
+{"count":7,"item":"fire storm","share":3.3980582524271843},
+{"count":7,"item":"shatter","share":3.3980582524271843},
+{"count":7,"item":"borgnjor's vile c","share":3.3980582524271843},
+{"count":6,"item":"confusing touch","share":2.912621359223301},
+{"count":5,"item":"vhi's electric ch","share":2.4271844660194173},
+{"count":5,"item":"blink","share":2.4271844660194173},
+{"count":4,"item":"olgreb's toxic ra","share":1.9417475728155338},
+{"count":4,"item":"ozocubu's refrige","share":1.9417475728155338},
+{"count":4,"item":"bombard","share":1.9417475728155338},
+{"count":4,"item":"orb of destructio","share":1.9417475728155338},
+{"count":4,"item":"platinum paragon","share":1.9417475728155338},
+{"count":4,"item":"mephitic cloud","share":1.9417475728155338},
+{"count":4,"item":"enfeeble","share":1.9417475728155338},
+{"count":3,"item":"gell's gavotte","share":1.4563106796116505},
+{"count":3,"item":"irradiate","share":1.4563106796116505},
+{"count":3,"item":"dimensional bulls","share":1.4563106796116505},
+{"count":3,"item":"dispel undead","share":1.4563106796116505},
+{"count":3,"item":"lesser beckoning","share":1.4563106796116505},
+{"count":3,"item":"leda's liquefacti","share":1.4563106796116505},
+{"count":2,"item":"ensorcelled hiber","share":0.9708737864077669},
+{"count":2,"item":"magnavolt","share":0.9708737864077669},
+{"count":2,"item":"iskenderun's myst","share":0.9708737864077669},
+{"count":2,"item":"lehudib's crystal","share":0.9708737864077669},
+{"count":2,"item":"passwall","share":0.9708737864077669},
+{"count":2,"item":"fulsome fusillade","share":0.9708737864077669},
+{"count":2,"item":"haunt","share":0.9708737864077669},
+{"count":2,"item":"infestation","share":0.9708737864077669},
+{"count":2,"item":"polar vortex","share":0.9708737864077669},
+{"count":2,"item":"fugue of the fall","share":0.9708737864077669},
+{"count":1,"item":"forge phalanx bee","share":0.48543689320388345},
+{"count":1,"item":"rending blade","share":0.48543689320388345},
+{"count":1,"item":"eringya's noxious","share":0.48543689320388345},
+{"count":1,"item":"spellspark servit","share":0.48543689320388345},
+{"count":1,"item":"awaken armour","share":0.48543689320388345},
+{"count":1,"item":"malign gateway","share":0.48543689320388345},
+{"count":1,"item":"sculpt simulacrum","share":0.48543689320388345},
+{"count":1,"item":"detonation cataly","share":0.48543689320388345},
+{"count":1,"item":"airstrike","share":0.48543689320388345},
+{"count":1,"item":"forge monarch bom","share":0.48543689320388345},
+{"count":1,"item":"sticky flame","share":0.48543689320388345},
+{"count":1,"item":"summon horrible t","share":0.48543689320388345},
+{"count":1,"item":"dragon's call","share":0.48543689320388345},
+{"count":1,"item":"sublimation of bl","share":0.48543689320388345},
+{"count":1,"item":"ozocubu's armour","share":0.48543689320388345},
+{"count":1,"item":"discord","share":0.48543689320388345},
+{"count":1,"item":"summon mana viper","share":0.48543689320388345},
+
+Top 50(917 games):
+{"count":27,"item":"permafrost erupti","share":7.397260273972603},
+{"count":26,"item":"apportation","share":7.123287671232877},
+{"count":22,"item":"manifold assault","share":6.027397260273973},
+{"count":22,"item":"hellfire mortar","share":6.027397260273973},
+{"count":19,"item":"lesser beckoning","share":5.205479452054795},
+{"count":13,"item":"sphinx sisters","share":3.5616438356164384},
+{"count":11,"item":"chain lightning","share":3.0136986301369864},
+{"count":11,"item":"vhi's electric ch","share":3.0136986301369864},
+{"count":11,"item":"plasma beam","share":3.0136986301369864},
+{"count":10,"item":"shatter","share":2.73972602739726},
+{"count":10,"item":"passage of golubr","share":2.73972602739726},
+{"count":9,"item":"fire storm","share":2.4657534246575343},
+{"count":9,"item":"blink","share":2.4657534246575343},
+{"count":8,"item":"borgnjor's vile c","share":2.191780821917808},
+{"count":8,"item":"polar vortex","share":2.191780821917808},
+{"count":7,"item":"ozocubu's refrige","share":1.9178082191780823},
+{"count":7,"item":"haunt","share":1.9178082191780823},
+{"count":7,"item":"enfeeble","share":1.9178082191780823},
+{"count":6,"item":"orb of destructio","share":1.643835616438356},
+{"count":6,"item":"passwall","share":1.643835616438356},
+{"count":6,"item":"confusing touch","share":1.643835616438356},
+{"count":5,"item":"bombard","share":1.36986301369863},
+{"count":5,"item":"lehudib's crystal","share":1.36986301369863},
+{"count":5,"item":"platinum paragon","share":1.36986301369863},
+{"count":5,"item":"mephitic cloud","share":1.36986301369863},
+{"count":5,"item":"fugue of the fall","share":1.36986301369863},
+{"count":4,"item":"gell's gavotte","share":1.095890410958904},
+{"count":4,"item":"magnavolt","share":1.095890410958904},
+{"count":4,"item":"olgreb's toxic ra","share":1.095890410958904},
+{"count":4,"item":"dimensional bulls","share":1.095890410958904},
+{"count":4,"item":"dispel undead","share":1.095890410958904},
+{"count":3,"item":"irradiate","share":0.821917808219178},
+{"count":3,"item":"iskenderun's myst","share":0.821917808219178},
+{"count":3,"item":"fulsome fusillade","share":0.821917808219178},
+{"count":3,"item":"forge phalanx bee","share":0.821917808219178},
+{"count":3,"item":"awaken armour","share":0.821917808219178},
+{"count":3,"item":"leda's liquefacti","share":0.821917808219178},
+{"count":3,"item":"dragon's call","share":0.821917808219178},
+{"count":3,"item":"discord","share":0.821917808219178},
+{"count":3,"item":"diamond sawblades","share":0.821917808219178},
+{"count":2,"item":"ensorcelled hiber","share":0.547945205479452},
+{"count":2,"item":"eringya's noxious","share":0.547945205479452},
+{"count":2,"item":"spellspark servit","share":0.547945205479452},
+{"count":2,"item":"infestation","share":0.547945205479452},
+{"count":2,"item":"summon horrible t","share":0.547945205479452},
+{"count":2,"item":"ozocubu's armour","share":0.547945205479452},
+{"count":2,"item":"fortress blast","share":0.547945205479452},
+{"count":2,"item":"ignition","share":0.547945205479452},
+{"count":2,"item":"arcjolt","share":0.547945205479452},
+{"count":2,"item":"silence","share":0.547945205479452},
+{"count":1,"item":"rending blade","share":0.273972602739726},
+{"count":1,"item":"malign gateway","share":0.273972602739726},
+{"count":1,"item":"sculpt simulacrum","share":0.273972602739726},
+{"count":1,"item":"detonation cataly","share":0.273972602739726},
+{"count":1,"item":"airstrike","share":0.273972602739726},
+{"count":1,"item":"forge monarch bom","share":0.273972602739726},
+{"count":1,"item":"sticky flame","share":0.273972602739726},
+{"count":1,"item":"sublimation of bl","share":0.273972602739726},
+{"count":1,"item":"summon mana viper","share":0.273972602739726},
+{"count":1,"item":"disjunction","share":0.273972602739726},
+{"count":1,"item":"rimeblight","share":0.273972602739726},
+{"count":1,"item":"yara's violent un","share":0.273972602739726},
+{"count":1,"item":"frozen ramparts","share":0.273972602739726},
+{"count":1,"item":"lee's rapid decon","share":0.273972602739726},
+{"count":1,"item":"anguish","share":0.273972602739726},
+{"count":1,"item":"scorch","share":0.273972602739726},
+{"count":1,"item":"summon small mamm","share":0.273972602739726},
+{"count":1,"item":"maxwell's capacit","share":0.273972602739726},
+
+Top 200(917 games):
+{"count":55,"item":"permafrost erupti","share":7.534246575342466},
+{"count":41,"item":"apportation","share":5.616438356164384},
+{"count":40,"item":"hellfire mortar","share":5.47945205479452},
+{"count":37,"item":"lesser beckoning","share":5.068493150684931},
+{"count":36,"item":"manifold assault","share":4.931506849315069},
+{"count":29,"item":"fire storm","share":3.9726027397260277},
+{"count":29,"item":"sphinx sisters","share":3.9726027397260277},
+{"count":27,"item":"vhi's electric ch","share":3.6986301369863015},
+{"count":25,"item":"plasma beam","share":3.4246575342465753},
+{"count":19,"item":"shatter","share":2.6027397260273974},
+{"count":18,"item":"chain lightning","share":2.4657534246575343},
+{"count":18,"item":"enfeeble","share":2.4657534246575343},
+{"count":16,"item":"dimensional bulls","share":2.191780821917808},
+{"count":16,"item":"passage of golubr","share":2.191780821917808},
+{"count":15,"item":"blink","share":2.054794520547945},
+{"count":15,"item":"lehudib's crystal","share":2.054794520547945},
+{"count":15,"item":"borgnjor's vile c","share":2.054794520547945},
+{"count":15,"item":"platinum paragon","share":2.054794520547945},
+{"count":15,"item":"haunt","share":2.054794520547945},
+{"count":15,"item":"polar vortex","share":2.054794520547945},
+{"count":14,"item":"bombard","share":1.9178082191780823},
+{"count":13,"item":"ozocubu's refrige","share":1.7808219178082192},
+{"count":13,"item":"passwall","share":1.7808219178082192},
+{"count":12,"item":"magnavolt","share":1.643835616438356},
+{"count":10,"item":"orb of destructio","share":1.36986301369863},
+{"count":10,"item":"fugue of the fall","share":1.36986301369863},
+{"count":8,"item":"fulsome fusillade","share":1.095890410958904},
+{"count":7,"item":"olgreb's toxic ra","share":0.9589041095890412},
+{"count":7,"item":"awaken armour","share":0.9589041095890412},
+{"count":7,"item":"summon horrible t","share":0.9589041095890412},
+{"count":6,"item":"gell's gavotte","share":0.821917808219178},
+{"count":6,"item":"dispel undead","share":0.821917808219178},
+{"count":6,"item":"mephitic cloud","share":0.821917808219178},
+{"count":6,"item":"confusing touch","share":0.821917808219178},
+{"count":5,"item":"spellspark servit","share":0.684931506849315},
+{"count":5,"item":"discord","share":0.684931506849315},
+{"count":5,"item":"fireball","share":0.684931506849315},
+{"count":4,"item":"irradiate","share":0.547945205479452},
+{"count":4,"item":"iskenderun's myst","share":0.547945205479452},
+{"count":4,"item":"forge phalanx bee","share":0.547945205479452},
+{"count":4,"item":"eringya's noxious","share":0.547945205479452},
+{"count":4,"item":"infestation","share":0.547945205479452},
+{"count":4,"item":"airstrike","share":0.547945205479452},
+{"count":4,"item":"dragon's call","share":0.547945205479452},
+{"count":4,"item":"ozocubu's armour","share":0.547945205479452},
+{"count":3,"item":"ensorcelled hiber","share":0.410958904109589},
+{"count":3,"item":"detonation cataly","share":0.410958904109589},
+{"count":3,"item":"sticky flame","share":0.410958904109589},
+{"count":3,"item":"leda's liquefacti","share":0.410958904109589},
+{"count":3,"item":"rimeblight","share":0.410958904109589},
+{"count":3,"item":"diamond sawblades","share":0.410958904109589},
+{"count":3,"item":"ignition","share":0.410958904109589},
+{"count":3,"item":"lee's rapid decon","share":0.410958904109589},
+{"count":3,"item":"arcjolt","share":0.410958904109589},
+{"count":2,"item":"malign gateway","share":0.273972602739726},
+{"count":2,"item":"sublimation of bl","share":0.273972602739726},
+{"count":2,"item":"fortress blast","share":0.273972602739726},
+{"count":2,"item":"silence","share":0.273972602739726},
+{"count":2,"item":"maxwell's capacit","share":0.273972602739726},
+{"count":2,"item":"sandblast","share":0.273972602739726},
+{"count":2,"item":"martyr's knell","share":0.273972602739726},
+{"count":2,"item":"stone arrow","share":0.273972602739726},
+{"count":1,"item":"rending blade","share":0.136986301369863},
+{"count":1,"item":"sculpt simulacrum","share":0.136986301369863},
+{"count":1,"item":"forge monarch bom","share":0.136986301369863},
+{"count":1,"item":"summon mana viper","share":0.136986301369863},
+{"count":1,"item":"disjunction","share":0.136986301369863},
+{"count":1,"item":"yara's violent un","share":0.136986301369863},
+{"count":1,"item":"frozen ramparts","share":0.136986301369863},
+{"count":1,"item":"anguish","share":0.136986301369863},
+{"count":1,"item":"scorch","share":0.136986301369863},
+{"count":1,"item":"summon small mamm","share":0.136986301369863},
+{"count":1,"item":"animate dead","share":0.136986301369863},
+{"count":1,"item":"nazja's percussiv","share":0.136986301369863},
+{"count":1,"item":"summon hydra","share":0.136986301369863},
+{"count":1,"item":"starburst","share":0.136986301369863},
+{"count":1,"item":"metabolic englaci","share":0.136986301369863},
+{"count":1,"item":"searing ray","share":0.136986301369863},
+{"count":1,"item":"alistair's walkin","share":0.136986301369863},
+{"count":1,"item":"magic dart","share":0.136986301369863},
+{"count":1,"item":"swiftness","share":0.136986301369863},
+
+15 Runes(917 games):
+{"count":16,"item":"manifold assault","share":11.678832116788321},
+{"count":12,"item":"vhi's electric ch","share":8.75912408759124},
+{"count":11,"item":"fire storm","share":8.02919708029197},
+{"count":11,"item":"shatter","share":8.02919708029197},
+{"count":9,"item":"chain lightning","share":6.569343065693431},
+{"count":9,"item":"apportation","share":6.569343065693431},
+{"count":7,"item":"permafrost erupti","share":5.109489051094891},
+{"count":5,"item":"polar vortex","share":3.64963503649635},
+{"count":5,"item":"passage of golubr","share":3.64963503649635},
+{"count":5,"item":"lesser beckoning","share":3.64963503649635},
+{"count":4,"item":"blink","share":2.9197080291970803},
+{"count":4,"item":"plasma beam","share":2.9197080291970803},
+{"count":4,"item":"enfeeble","share":2.9197080291970803},
+{"count":3,"item":"sphinx sisters","share":2.18978102189781},
+{"count":3,"item":"platinum paragon","share":2.18978102189781},
+{"count":2,"item":"magnavolt","share":1.4598540145985401},
+{"count":2,"item":"passwall","share":1.4598540145985401},
+{"count":2,"item":"dispel undead","share":1.4598540145985401},
+{"count":2,"item":"haunt","share":1.4598540145985401},
+{"count":2,"item":"summon horrible t","share":1.4598540145985401},
+{"count":2,"item":"lehudib's crystal","share":1.4598540145985401},
+{"count":2,"item":"hellfire mortar","share":1.4598540145985401},
+{"count":2,"item":"bombard","share":1.4598540145985401},
+{"count":1,"item":"irradiate","share":0.7299270072992701},
+{"count":1,"item":"dimensional bulls","share":0.7299270072992701},
+{"count":1,"item":"disjunction","share":0.7299270072992701},
+{"count":1,"item":"orb of destructio","share":0.7299270072992701},
+{"count":1,"item":"discord","share":0.7299270072992701},
+{"count":1,"item":"lee's rapid decon","share":0.7299270072992701},
+{"count":1,"item":"silence","share":0.7299270072992701},
+{"count":1,"item":"arcjolt","share":0.7299270072992701},
+{"count":1,"item":"animate dead","share":0.7299270072992701},
+{"count":1,"item":"sandblast","share":0.7299270072992701},
+{"count":1,"item":"detonation cataly","share":0.7299270072992701},
+{"count":1,"item":"dragon's call","share":0.7299270072992701},
+{"count":1,"item":"ozocubu's armour","share":0.7299270072992701},
+
+Zigg Cleared(917 games):
+{"count":10,"item":"fire storm","share":14.492753623188406},
+{"count":10,"item":"chain lightning","share":14.492753623188406},
+{"count":7,"item":"shatter","share":10.144927536231885},
+{"count":6,"item":"manifold assault","share":8.695652173913043},
+{"count":4,"item":"apportation","share":5.797101449275362},
+{"count":4,"item":"permafrost erupti","share":5.797101449275362},
+{"count":3,"item":"polar vortex","share":4.3478260869565215},
+{"count":3,"item":"vhi's electric ch","share":4.3478260869565215},
+{"count":2,"item":"magnavolt","share":2.898550724637681},
+{"count":2,"item":"sphinx sisters","share":2.898550724637681},
+{"count":2,"item":"passage of golubr","share":2.898550724637681},
+{"count":2,"item":"bombard","share":2.898550724637681},
+{"count":1,"item":"summon horrible t","share":1.4492753623188406},
+{"count":1,"item":"enfeeble","share":1.4492753623188406},
+{"count":1,"item":"plasma beam","share":1.4492753623188406},
+{"count":1,"item":"disjunction","share":1.4492753623188406},
+{"count":1,"item":"orb of destructio","share":1.4492753623188406},
+{"count":1,"item":"ignition","share":1.4492753623188406},
+{"count":1,"item":"lee's rapid decon","share":1.4492753623188406},
+{"count":1,"item":"fulsome fusillade","share":1.4492753623188406},
+{"count":1,"item":"animate dead","share":1.4492753623188406},
+{"count":1,"item":"platinum paragon","share":1.4492753623188406},
+{"count":1,"item":"sandblast","share":1.4492753623188406},
+{"count":1,"item":"detonation cataly","share":1.4492753623188406},
+{"count":1,"item":"lehudib's crystal","share":1.4492753623188406},
+{"count":1,"item":"ozocubu's armour","share":1.4492753623188406},
+
+No Zigg(917 games):
+{"count":43,"item":"permafrost erupti","share":7.775768535262206},
+{"count":37,"item":"hellfire mortar","share":6.6907775768535265},
+{"count":29,"item":"lesser beckoning","share":5.244122965641953},
+{"count":27,"item":"apportation","share":4.882459312839059},
+{"count":27,"item":"sphinx sisters","share":4.882459312839059},
+{"count":20,"item":"plasma beam","share":3.616636528028933},
+{"count":19,"item":"manifold assault","share":3.4358047016274864},
+{"count":17,"item":"vhi's electric ch","share":3.074141048824593},
+{"count":16,"item":"fire storm","share":2.8933092224231465},
+{"count":16,"item":"enfeeble","share":2.8933092224231465},
+{"count":15,"item":"dimensional bulls","share":2.7124773960216997},
+{"count":15,"item":"borgnjor's vile c","share":2.7124773960216997},
+{"count":12,"item":"ozocubu's refrige","share":2.1699819168173597},
+{"count":12,"item":"passwall","share":2.1699819168173597},
+{"count":12,"item":"platinum paragon","share":2.1699819168173597},
+{"count":12,"item":"haunt","share":2.1699819168173597},
+{"count":11,"item":"blink","share":1.9891500904159132},
+{"count":10,"item":"shatter","share":1.8083182640144666},
+{"count":10,"item":"bombard","share":1.8083182640144666},
+{"count":10,"item":"lehudib's crystal","share":1.8083182640144666},
+{"count":9,"item":"orb of destructio","share":1.62748643761302},
+{"count":9,"item":"magnavolt","share":1.62748643761302},
+{"count":8,"item":"passage of golubr","share":1.4466546112115732},
+{"count":8,"item":"fugue of the fall","share":1.4466546112115732},
+{"count":8,"item":"polar vortex","share":1.4466546112115732},
+{"count":7,"item":"olgreb's toxic ra","share":1.2658227848101267},
+{"count":7,"item":"fulsome fusillade","share":1.2658227848101267},
+{"count":6,"item":"chain lightning","share":1.0849909584086799},
+{"count":6,"item":"awaken armour","share":1.0849909584086799},
+{"count":6,"item":"mephitic cloud","share":1.0849909584086799},
+{"count":6,"item":"confusing touch","share":1.0849909584086799},
+{"count":5,"item":"spellspark servit","share":0.9041591320072333},
+{"count":5,"item":"summon horrible t","share":0.9041591320072333},
+{"count":4,"item":"irradiate","share":0.7233273056057866},
+{"count":4,"item":"forge phalanx bee","share":0.7233273056057866},
+{"count":4,"item":"eringya's noxious","share":0.7233273056057866},
+{"count":4,"item":"gell's gavotte","share":0.7233273056057866},
+{"count":4,"item":"infestation","share":0.7233273056057866},
+{"count":4,"item":"dispel undead","share":0.7233273056057866},
+{"count":4,"item":"dragon's call","share":0.7233273056057866},
+{"count":4,"item":"fireball","share":0.7233273056057866},
+{"count":3,"item":"ensorcelled hiber","share":0.5424954792043399},
+{"count":3,"item":"iskenderun's myst","share":0.5424954792043399},
+{"count":3,"item":"sticky flame","share":0.5424954792043399},
+{"count":3,"item":"leda's liquefacti","share":0.5424954792043399},
+{"count":3,"item":"ozocubu's armour","share":0.5424954792043399},
+{"count":3,"item":"rimeblight","share":0.5424954792043399},
+{"count":3,"item":"diamond sawblades","share":0.5424954792043399},
+{"count":3,"item":"discord","share":0.5424954792043399},
+{"count":3,"item":"airstrike","share":0.5424954792043399},
+{"count":2,"item":"malign gateway","share":0.3616636528028933},
+{"count":2,"item":"detonation cataly","share":0.3616636528028933},
+{"count":2,"item":"sublimation of bl","share":0.3616636528028933},
+{"count":2,"item":"fortress blast","share":0.3616636528028933},
+{"count":2,"item":"arcjolt","share":0.3616636528028933},
+{"count":2,"item":"maxwell's capacit","share":0.3616636528028933},
+{"count":2,"item":"stone arrow","share":0.3616636528028933},
+{"count":2,"item":"lee's rapid decon","share":0.3616636528028933},
+{"count":1,"item":"rending blade","share":0.18083182640144665},
+{"count":1,"item":"sculpt simulacrum","share":0.18083182640144665},
+{"count":1,"item":"forge monarch bom","share":0.18083182640144665},
+{"count":1,"item":"summon mana viper","share":0.18083182640144665},
+{"count":1,"item":"yara's violent un","share":0.18083182640144665},
+{"count":1,"item":"frozen ramparts","share":0.18083182640144665},
+{"count":1,"item":"scorch","share":0.18083182640144665},
+{"count":1,"item":"summon small mamm","share":0.18083182640144665},
+{"count":1,"item":"silence","share":0.18083182640144665},
+{"count":1,"item":"nazja's percussiv","share":0.18083182640144665},
+{"count":1,"item":"summon hydra","share":0.18083182640144665},
+{"count":1,"item":"martyr's knell","share":0.18083182640144665},
+{"count":1,"item":"starburst","share":0.18083182640144665},
+{"count":1,"item":"metabolic englaci","share":0.18083182640144665},
+{"count":1,"item":"searing ray","share":0.18083182640144665},
+{"count":1,"item":"alistair's walkin","share":0.18083182640144665},
+{"count":1,"item":"magic dart","share":0.18083182640144665},
+{"count":1,"item":"swiftness","share":0.18083182640144665},
+
+
+**Spells**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Permafrost erupti: 17 - share: 8.25%|Permafrost erupti: 27 - share: 7.40%|Permafrost erupti: 55 - share: 7.53%|Manifold assault: 16 - share: 11.68%|Fire storm: 10 - share: 14.49%|Permafrost erupti: 43 - share: 7.78%|
+|Manifold assault: 14 - share: 6.80%|Apportation: 26 - share: 7.12%|Apportation: 41 - share: 5.62%|Vhi's electric ch: 12 - share: 8.76%|Chain lightning: 10 - share: 14.49%|Hellfire mortar: 37 - share: 6.69%|
+|Apportation: 12 - share: 5.83%|Manifold assault: 22 - share: 6.03%|Hellfire mortar: 40 - share: 5.48%|Fire storm: 11 - share: 8.03%|Shatter: 7 - share: 10.14%|Lesser beckoning: 29 - share: 5.24%|
+|Sphinx sisters: 10 - share: 4.85%|Hellfire mortar: 22 - share: 6.03%|Lesser beckoning: 37 - share: 5.07%|Shatter: 11 - share: 8.03%|Manifold assault: 6 - share: 8.70%|Apportation: 27 - share: 4.88%|
+|Passage of golubr: 9 - share: 4.37%|Lesser beckoning: 19 - share: 5.21%|Manifold assault: 36 - share: 4.93%|Chain lightning: 9 - share: 6.57%|Apportation: 4 - share: 5.80%|Sphinx sisters: 27 - share: 4.88%|
+|Hellfire mortar: 9 - share: 4.37%|Sphinx sisters: 13 - share: 3.56%|Fire storm: 29 - share: 3.97%|Apportation: 9 - share: 6.57%|Permafrost erupti: 4 - share: 5.80%|Plasma beam: 20 - share: 3.62%|
+|Plasma beam: 8 - share: 3.88%|Chain lightning: 11 - share: 3.01%|Sphinx sisters: 29 - share: 3.97%|Permafrost erupti: 7 - share: 5.11%|Polar vortex: 3 - share: 4.35%|Manifold assault: 19 - share: 3.44%|
+|Chain lightning: 7 - share: 3.40%|Vhi's electric ch: 11 - share: 3.01%|Vhi's electric ch: 27 - share: 3.70%|Polar vortex: 5 - share: 3.65%|Vhi's electric ch: 3 - share: 4.35%|Vhi's electric ch: 17 - share: 3.07%|
+|Fire storm: 7 - share: 3.40%|Plasma beam: 11 - share: 3.01%|Plasma beam: 25 - share: 3.42%|Passage of golubr: 5 - share: 3.65%|Magnavolt: 2 - share: 2.90%|Fire storm: 16 - share: 2.89%|
+|Shatter: 7 - share: 3.40%|Shatter: 10 - share: 2.74%|Shatter: 19 - share: 2.60%|Lesser beckoning: 5 - share: 3.65%|Sphinx sisters: 2 - share: 2.90%|Enfeeble: 16 - share: 2.89%|
+|Borgnjor's vile c: 7 - share: 3.40%|Passage of golubr: 10 - share: 2.74%|Chain lightning: 18 - share: 2.47%|Blink: 4 - share: 2.92%|Passage of golubr: 2 - share: 2.90%|Dimensional bulls: 15 - share: 2.71%|
+|Confusing touch: 6 - share: 2.91%|Fire storm: 9 - share: 2.47%|Enfeeble: 18 - share: 2.47%|Plasma beam: 4 - share: 2.92%|Bombard: 2 - share: 2.90%|Borgnjor's vile c: 15 - share: 2.71%|
+|Vhi's electric ch: 5 - share: 2.43%|Blink: 9 - share: 2.47%|Dimensional bulls: 16 - share: 2.19%|Enfeeble: 4 - share: 2.92%|Summon horrible t: 1 - share: 1.45%|Ozocubu's refrige: 12 - share: 2.17%|
+|Blink: 5 - share: 2.43%|Borgnjor's vile c: 8 - share: 2.19%|Passage of golubr: 16 - share: 2.19%|Sphinx sisters: 3 - share: 2.19%|Enfeeble: 1 - share: 1.45%|Passwall: 12 - share: 2.17%|
+|Olgreb's toxic ra: 4 - share: 1.94%|Polar vortex: 8 - share: 2.19%|Blink: 15 - share: 2.05%|Platinum paragon: 3 - share: 2.19%|Plasma beam: 1 - share: 1.45%|Platinum paragon: 12 - share: 2.17%|
+|Ozocubu's refrige: 4 - share: 1.94%|Ozocubu's refrige: 7 - share: 1.92%|Lehudib's crystal: 15 - share: 2.05%|Magnavolt: 2 - share: 1.46%|Disjunction: 1 - share: 1.45%|Haunt: 12 - share: 2.17%|
+|Bombard: 4 - share: 1.94%|Haunt: 7 - share: 1.92%|Borgnjor's vile c: 15 - share: 2.05%|Passwall: 2 - share: 1.46%|Orb of destructio: 1 - share: 1.45%|Blink: 11 - share: 1.99%|
+|Orb of destructio: 4 - share: 1.94%|Enfeeble: 7 - share: 1.92%|Platinum paragon: 15 - share: 2.05%|Dispel undead: 2 - share: 1.46%|Ignition: 1 - share: 1.45%|Shatter: 10 - share: 1.81%|
+|Platinum paragon: 4 - share: 1.94%|Orb of destructio: 6 - share: 1.64%|Haunt: 15 - share: 2.05%|Haunt: 2 - share: 1.46%|Lee's rapid decon: 1 - share: 1.45%|Bombard: 10 - share: 1.81%|
+|Mephitic cloud: 4 - share: 1.94%|Passwall: 6 - share: 1.64%|Polar vortex: 15 - share: 2.05%|Summon horrible t: 2 - share: 1.46%|Fulsome fusillade: 1 - share: 1.45%|Lehudib's crystal: 10 - share: 1.81%|
+|Enfeeble: 4 - share: 1.94%|Confusing touch: 6 - share: 1.64%|Bombard: 14 - share: 1.92%|Lehudib's crystal: 2 - share: 1.46%|Animate dead: 1 - share: 1.45%|Orb of destructio: 9 - share: 1.63%|
+|Gell's gavotte: 3 - share: 1.46%|Bombard: 5 - share: 1.37%|Ozocubu's refrige: 13 - share: 1.78%|Hellfire mortar: 2 - share: 1.46%|Platinum paragon: 1 - share: 1.45%|Magnavolt: 9 - share: 1.63%|
+|Irradiate: 3 - share: 1.46%|Lehudib's crystal: 5 - share: 1.37%|Passwall: 13 - share: 1.78%|Bombard: 2 - share: 1.46%|Sandblast: 1 - share: 1.45%|Passage of golubr: 8 - share: 1.45%|
+|Dimensional bulls: 3 - share: 1.46%|Platinum paragon: 5 - share: 1.37%|Magnavolt: 12 - share: 1.64%|Irradiate: 1 - share: 0.73%|Detonation cataly: 1 - share: 1.45%|Fugue of the fall: 8 - share: 1.45%|
+|Dispel undead: 3 - share: 1.46%|Mephitic cloud: 5 - share: 1.37%|Orb of destructio: 10 - share: 1.37%|Dimensional bulls: 1 - share: 0.73%|Lehudib's crystal: 1 - share: 1.45%|Polar vortex: 8 - share: 1.45%|
+|Lesser beckoning: 3 - share: 1.46%|Fugue of the fall: 5 - share: 1.37%|Fugue of the fall: 10 - share: 1.37%|Disjunction: 1 - share: 0.73%|Ozocubu's armour: 1 - share: 1.45%|Olgreb's toxic ra: 7 - share: 1.27%|
+|Leda's liquefacti: 3 - share: 1.46%|Gell's gavotte: 4 - share: 1.10%|Fulsome fusillade: 8 - share: 1.10%|Orb of destructio: 1 - share: 0.73%||Fulsome fusillade: 7 - share: 1.27%|
+|Ensorcelled hiber: 2 - share: 0.97%|Magnavolt: 4 - share: 1.10%|Olgreb's toxic ra: 7 - share: 0.96%|Discord: 1 - share: 0.73%||Chain lightning: 6 - share: 1.08%|
+|Magnavolt: 2 - share: 0.97%|Olgreb's toxic ra: 4 - share: 1.10%|Awaken armour: 7 - share: 0.96%|Lee's rapid decon: 1 - share: 0.73%||Awaken armour: 6 - share: 1.08%|
+|Iskenderun's myst: 2 - share: 0.97%|Dimensional bulls: 4 - share: 1.10%|Summon horrible t: 7 - share: 0.96%|Silence: 1 - share: 0.73%||Mephitic cloud: 6 - share: 1.08%|
+|Lehudib's crystal: 2 - share: 0.97%|Dispel undead: 4 - share: 1.10%|Gell's gavotte: 6 - share: 0.82%|Arcjolt: 1 - share: 0.73%||Confusing touch: 6 - share: 1.08%|
+|Passwall: 2 - share: 0.97%|Irradiate: 3 - share: 0.82%|Dispel undead: 6 - share: 0.82%|Animate dead: 1 - share: 0.73%||Spellspark servit: 5 - share: 0.90%|
+|Fulsome fusillade: 2 - share: 0.97%|Iskenderun's myst: 3 - share: 0.82%|Mephitic cloud: 6 - share: 0.82%|Sandblast: 1 - share: 0.73%||Summon horrible t: 5 - share: 0.90%|
+|Haunt: 2 - share: 0.97%|Fulsome fusillade: 3 - share: 0.82%|Confusing touch: 6 - share: 0.82%|Detonation cataly: 1 - share: 0.73%||Irradiate: 4 - share: 0.72%|
+|Infestation: 2 - share: 0.97%|Forge phalanx bee: 3 - share: 0.82%|Spellspark servit: 5 - share: 0.68%|Dragon's call: 1 - share: 0.73%||Forge phalanx bee: 4 - share: 0.72%|
+|Polar vortex: 2 - share: 0.97%|Awaken armour: 3 - share: 0.82%|Discord: 5 - share: 0.68%|Ozocubu's armour: 1 - share: 0.73%||Eringya's noxious: 4 - share: 0.72%|
+|Fugue of the fall: 2 - share: 0.97%|Leda's liquefacti: 3 - share: 0.82%|Fireball: 5 - share: 0.68%|||Gell's gavotte: 4 - share: 0.72%|
+|Forge phalanx bee: 1 - share: 0.49%|Dragon's call: 3 - share: 0.82%|Irradiate: 4 - share: 0.55%|||Infestation: 4 - share: 0.72%|
+|Rending blade: 1 - share: 0.49%|Discord: 3 - share: 0.82%|Iskenderun's myst: 4 - share: 0.55%|||Dispel undead: 4 - share: 0.72%|
+|Eringya's noxious: 1 - share: 0.49%|Diamond sawblades: 3 - share: 0.82%|Forge phalanx bee: 4 - share: 0.55%|||Dragon's call: 4 - share: 0.72%|
+|Spellspark servit: 1 - share: 0.49%|Ensorcelled hiber: 2 - share: 0.55%|Eringya's noxious: 4 - share: 0.55%|||Fireball: 4 - share: 0.72%|
+|Awaken armour: 1 - share: 0.49%|Eringya's noxious: 2 - share: 0.55%|Infestation: 4 - share: 0.55%|||Ensorcelled hiber: 3 - share: 0.54%|
+|Malign gateway: 1 - share: 0.49%|Spellspark servit: 2 - share: 0.55%|Airstrike: 4 - share: 0.55%|||Iskenderun's myst: 3 - share: 0.54%|
+|Sculpt simulacrum: 1 - share: 0.49%|Infestation: 2 - share: 0.55%|Dragon's call: 4 - share: 0.55%|||Sticky flame: 3 - share: 0.54%|
+|Detonation cataly: 1 - share: 0.49%|Summon horrible t: 2 - share: 0.55%|Ozocubu's armour: 4 - share: 0.55%|||Leda's liquefacti: 3 - share: 0.54%|
+|Airstrike: 1 - share: 0.49%|Ozocubu's armour: 2 - share: 0.55%|Ensorcelled hiber: 3 - share: 0.41%|||Ozocubu's armour: 3 - share: 0.54%|
+|Forge monarch bom: 1 - share: 0.49%|Fortress blast: 2 - share: 0.55%|Detonation cataly: 3 - share: 0.41%|||Rimeblight: 3 - share: 0.54%|
+|Sticky flame: 1 - share: 0.49%|Ignition: 2 - share: 0.55%|Sticky flame: 3 - share: 0.41%|||Diamond sawblades: 3 - share: 0.54%|
+|Summon horrible t: 1 - share: 0.49%|Arcjolt: 2 - share: 0.55%|Leda's liquefacti: 3 - share: 0.41%|||Discord: 3 - share: 0.54%|
+|Dragon's call: 1 - share: 0.49%|Silence: 2 - share: 0.55%|Rimeblight: 3 - share: 0.41%|||Airstrike: 3 - share: 0.54%|
+|Sublimation of bl: 1 - share: 0.49%|Rending blade: 1 - share: 0.27%|Diamond sawblades: 3 - share: 0.41%|||Malign gateway: 2 - share: 0.36%|
+|Ozocubu's armour: 1 - share: 0.49%|Malign gateway: 1 - share: 0.27%|Ignition: 3 - share: 0.41%|||Detonation cataly: 2 - share: 0.36%|
+|Discord: 1 - share: 0.49%|Sculpt simulacrum: 1 - share: 0.27%|Lee's rapid decon: 3 - share: 0.41%|||Sublimation of bl: 2 - share: 0.36%|
+|Summon mana viper: 1 - share: 0.49%|Detonation cataly: 1 - share: 0.27%|Arcjolt: 3 - share: 0.41%|||Fortress blast: 2 - share: 0.36%|
+||Airstrike: 1 - share: 0.27%|Malign gateway: 2 - share: 0.27%|||Arcjolt: 2 - share: 0.36%|
+||Forge monarch bom: 1 - share: 0.27%|Sublimation of bl: 2 - share: 0.27%|||Maxwell's capacit: 2 - share: 0.36%|
+||Sticky flame: 1 - share: 0.27%|Fortress blast: 2 - share: 0.27%|||Stone arrow: 2 - share: 0.36%|
+||Sublimation of bl: 1 - share: 0.27%|Silence: 2 - share: 0.27%|||Lee's rapid decon: 2 - share: 0.36%|
+||Summon mana viper: 1 - share: 0.27%|Maxwell's capacit: 2 - share: 0.27%|||Rending blade: 1 - share: 0.18%|
+||Disjunction: 1 - share: 0.27%|Sandblast: 2 - share: 0.27%|||Sculpt simulacrum: 1 - share: 0.18%|
+||Rimeblight: 1 - share: 0.27%|Martyr's knell: 2 - share: 0.27%|||Forge monarch bom: 1 - share: 0.18%|
+||Yara's violent un: 1 - share: 0.27%|Stone arrow: 2 - share: 0.27%|||Summon mana viper: 1 - share: 0.18%|
+||Frozen ramparts: 1 - share: 0.27%|Rending blade: 1 - share: 0.14%|||Yara's violent un: 1 - share: 0.18%|
+||Lee's rapid decon: 1 - share: 0.27%|Sculpt simulacrum: 1 - share: 0.14%|||Frozen ramparts: 1 - share: 0.18%|
+||Anguish: 1 - share: 0.27%|Forge monarch bom: 1 - share: 0.14%|||Scorch: 1 - share: 0.18%|
+||Scorch: 1 - share: 0.27%|Summon mana viper: 1 - share: 0.14%|||Summon small mamm: 1 - share: 0.18%|
+||Summon small mamm: 1 - share: 0.27%|Disjunction: 1 - share: 0.14%|||Silence: 1 - share: 0.18%|
+||Maxwell's capacit: 1 - share: 0.27%|Yara's violent un: 1 - share: 0.14%|||Nazja's percussiv: 1 - share: 0.18%|
+|||Frozen ramparts: 1 - share: 0.14%|||Summon hydra: 1 - share: 0.18%|
+|||Anguish: 1 - share: 0.14%|||Martyr's knell: 1 - share: 0.18%|
+|||Scorch: 1 - share: 0.14%|||Starburst: 1 - share: 0.18%|
+|||Summon small mamm: 1 - share: 0.14%|||Metabolic englaci: 1 - share: 0.18%|
+|||Animate dead: 1 - share: 0.14%|||Searing ray: 1 - share: 0.18%|
+|||Nazja's percussiv: 1 - share: 0.14%|||Alistair's walkin: 1 - share: 0.18%|
+|||Summon hydra: 1 - share: 0.14%|||Magic dart: 1 - share: 0.18%|
+|||Starburst: 1 - share: 0.14%|||Swiftness: 1 - share: 0.18%|
+|||Metabolic englaci: 1 - share: 0.14%||||
+|||Searing ray: 1 - share: 0.14%||||
+|||Alistair's walkin: 1 - share: 0.14%||||
+|||Magic dart: 1 - share: 0.14%||||
+|||Swiftness: 1 - share: 0.14%||||

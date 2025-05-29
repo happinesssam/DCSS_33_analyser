@@ -1,0 +1,264 @@
+Spells Early
+Top 20(917 games):
+{"count":15,"item":"sandblast","share":9.036144578313253},
+{"count":10,"item":"scorch","share":6.024096385542169},
+{"count":9,"item":"olgreb's toxic ra","share":5.421686746987952},
+{"count":9,"item":"magic dart","share":5.421686746987952},
+{"count":9,"item":"stone arrow","share":5.421686746987952},
+{"count":8,"item":"foxfire","share":4.819277108433735},
+{"count":8,"item":"poisonous vapours","share":4.819277108433735},
+{"count":8,"item":"searing ray","share":4.819277108433735},
+{"count":7,"item":"mercury arrow","share":4.216867469879518},
+{"count":7,"item":"kinetic grapnel","share":4.216867469879518},
+{"count":7,"item":"launch clockwork","share":4.216867469879518},
+{"count":6,"item":"frozen ramparts","share":3.614457831325301},
+{"count":5,"item":"soul splinter","share":3.0120481927710845},
+{"count":5,"item":"ensorcelled hiber","share":3.0120481927710845},
+{"count":5,"item":"shock","share":3.0120481927710845},
+{"count":5,"item":"jinxbite","share":3.0120481927710845},
+{"count":5,"item":"call imp","share":3.0120481927710845},
+{"count":4,"item":"momentum strike","share":2.4096385542168677},
+{"count":4,"item":"construct spike l","share":2.4096385542168677},
+{"count":4,"item":"freeze","share":2.4096385542168677},
+{"count":3,"item":"confusing touch","share":1.8072289156626504},
+{"count":3,"item":"mephitic cloud","share":1.8072289156626504},
+{"count":3,"item":"kiss of death","share":1.8072289156626504},
+{"count":2,"item":"vampiric draining","share":1.2048192771084338},
+{"count":2,"item":"iskenderun's myst","share":1.2048192771084338},
+{"count":2,"item":"static discharge","share":1.2048192771084338},
+{"count":2,"item":"tukima's dance","share":1.2048192771084338},
+{"count":2,"item":"blink","share":1.2048192771084338},
+{"count":2,"item":"summon ice beast","share":1.2048192771084338},
+{"count":1,"item":"call canine famil","share":0.6024096385542169},
+{"count":1,"item":"maxwell's portabl","share":0.6024096385542169},
+{"count":1,"item":"fulminant prism","share":0.6024096385542169},
+{"count":1,"item":"forge lightning s","share":0.6024096385542169},
+{"count":1,"item":"hailstorm","share":0.6024096385542169},
+
+Top 50(917 games):
+{"count":21,"item":"sandblast","share":7.7490774907749085},
+{"count":20,"item":"scorch","share":7.380073800738007},
+{"count":18,"item":"magic dart","share":6.642066420664207},
+{"count":17,"item":"foxfire","share":6.273062730627306},
+{"count":15,"item":"stone arrow","share":5.535055350553505},
+{"count":12,"item":"searing ray","share":4.428044280442804},
+{"count":11,"item":"kinetic grapnel","share":4.059040590405904},
+{"count":11,"item":"olgreb's toxic ra","share":4.059040590405904},
+{"count":11,"item":"shock","share":4.059040590405904},
+{"count":11,"item":"frozen ramparts","share":4.059040590405904},
+{"count":10,"item":"mercury arrow","share":3.6900369003690034},
+{"count":10,"item":"poisonous vapours","share":3.6900369003690034},
+{"count":9,"item":"soul splinter","share":3.3210332103321036},
+{"count":9,"item":"momentum strike","share":3.3210332103321036},
+{"count":9,"item":"launch clockwork","share":3.3210332103321036},
+{"count":8,"item":"jinxbite","share":2.952029520295203},
+{"count":7,"item":"freeze","share":2.5830258302583027},
+{"count":6,"item":"ensorcelled hiber","share":2.214022140221402},
+{"count":6,"item":"construct spike l","share":2.214022140221402},
+{"count":5,"item":"call imp","share":1.8450184501845017},
+{"count":4,"item":"confusing touch","share":1.4760147601476015},
+{"count":4,"item":"mephitic cloud","share":1.4760147601476015},
+{"count":4,"item":"kiss of death","share":1.4760147601476015},
+{"count":4,"item":"summon ice beast","share":1.4760147601476015},
+{"count":3,"item":"iskenderun's myst","share":1.107011070110701},
+{"count":3,"item":"call canine famil","share":1.107011070110701},
+{"count":3,"item":"static discharge","share":1.107011070110701},
+{"count":3,"item":"blink","share":1.107011070110701},
+{"count":3,"item":"hailstorm","share":1.107011070110701},
+{"count":2,"item":"vampiric draining","share":0.7380073800738007},
+{"count":2,"item":"tukima's dance","share":0.7380073800738007},
+{"count":2,"item":"fulminant prism","share":0.7380073800738007},
+{"count":2,"item":"forge lightning s","share":0.7380073800738007},
+{"count":2,"item":"summon small mamm","share":0.7380073800738007},
+{"count":2,"item":"airstrike","share":0.7380073800738007},
+{"count":1,"item":"maxwell's portabl","share":0.36900369003690037},
+{"count":1,"item":"lesser beckoning","share":0.36900369003690037},
+
+Top 200(917 games):
+{"count":54,"item":"sandblast","share":9.591474245115453},
+{"count":41,"item":"magic dart","share":7.282415630550622},
+{"count":36,"item":"poisonous vapours","share":6.394316163410302},
+{"count":34,"item":"stone arrow","share":6.039076376554174},
+{"count":31,"item":"scorch","share":5.506216696269982},
+{"count":31,"item":"foxfire","share":5.506216696269982},
+{"count":29,"item":"summon ice beast","share":5.150976909413854},
+{"count":26,"item":"shock","share":4.618117229129663},
+{"count":25,"item":"frozen ramparts","share":4.440497335701599},
+{"count":22,"item":"kinetic grapnel","share":3.9076376554174073},
+{"count":19,"item":"mercury arrow","share":3.374777975133215},
+{"count":19,"item":"freeze","share":3.374777975133215},
+{"count":17,"item":"soul splinter","share":3.019538188277087},
+{"count":16,"item":"olgreb's toxic ra","share":2.841918294849023},
+{"count":15,"item":"launch clockwork","share":2.664298401420959},
+{"count":14,"item":"searing ray","share":2.4866785079928952},
+{"count":13,"item":"ensorcelled hiber","share":2.3090586145648313},
+{"count":13,"item":"jinxbite","share":2.3090586145648313},
+{"count":12,"item":"momentum strike","share":2.1314387211367674},
+{"count":9,"item":"iskenderun's myst","share":1.5985790408525755},
+{"count":8,"item":"construct spike l","share":1.4209591474245116},
+{"count":8,"item":"hailstorm","share":1.4209591474245116},
+{"count":7,"item":"confusing touch","share":1.2433392539964476},
+{"count":7,"item":"call canine famil","share":1.2433392539964476},
+{"count":6,"item":"mephitic cloud","share":1.0657193605683837},
+{"count":6,"item":"call imp","share":1.0657193605683837},
+{"count":5,"item":"blink","share":0.8880994671403196},
+{"count":5,"item":"summon small mamm","share":0.8880994671403196},
+{"count":4,"item":"vampiric draining","share":0.7104795737122558},
+{"count":4,"item":"kiss of death","share":0.7104795737122558},
+{"count":4,"item":"tukima's dance","share":0.7104795737122558},
+{"count":4,"item":"fulminant prism","share":0.7104795737122558},
+{"count":4,"item":"forge lightning s","share":0.7104795737122558},
+{"count":4,"item":"airstrike","share":0.7104795737122558},
+{"count":3,"item":"static discharge","share":0.5328596802841918},
+{"count":3,"item":"maxwell's portabl","share":0.5328596802841918},
+{"count":1,"item":"lesser beckoning","share":0.17761989342806395},
+{"count":1,"item":"slow","share":0.17761989342806395},
+{"count":1,"item":"dispel undead","share":0.17761989342806395},
+{"count":1,"item":"dazzling flash","share":0.17761989342806395},
+{"count":1,"item":"passwall","share":0.17761989342806395},
+
+15 Runes(917 games):
+{"count":11,"item":"sandblast","share":12.359550561797752},
+{"count":10,"item":"stone arrow","share":11.235955056179774},
+{"count":8,"item":"foxfire","share":8.98876404494382},
+{"count":6,"item":"magic dart","share":6.741573033707865},
+{"count":6,"item":"freeze","share":6.741573033707865},
+{"count":5,"item":"scorch","share":5.617977528089887},
+{"count":5,"item":"poisonous vapours","share":5.617977528089887},
+{"count":4,"item":"searing ray","share":4.49438202247191},
+{"count":3,"item":"jinxbite","share":3.3707865168539324},
+{"count":3,"item":"momentum strike","share":3.3707865168539324},
+{"count":3,"item":"shock","share":3.3707865168539324},
+{"count":3,"item":"kinetic grapnel","share":3.3707865168539324},
+{"count":2,"item":"olgreb's toxic ra","share":2.247191011235955},
+{"count":2,"item":"ensorcelled hiber","share":2.247191011235955},
+{"count":2,"item":"frozen ramparts","share":2.247191011235955},
+{"count":2,"item":"summon ice beast","share":2.247191011235955},
+{"count":1,"item":"vampiric draining","share":1.1235955056179776},
+{"count":1,"item":"kiss of death","share":1.1235955056179776},
+{"count":1,"item":"mephitic cloud","share":1.1235955056179776},
+{"count":1,"item":"launch clockwork","share":1.1235955056179776},
+{"count":1,"item":"construct spike l","share":1.1235955056179776},
+{"count":1,"item":"call imp","share":1.1235955056179776},
+{"count":1,"item":"confusing touch","share":1.1235955056179776},
+{"count":1,"item":"airstrike","share":1.1235955056179776},
+{"count":1,"item":"tukima's dance","share":1.1235955056179776},
+{"count":1,"item":"soul splinter","share":1.1235955056179776},
+{"count":1,"item":"mercury arrow","share":1.1235955056179776},
+{"count":1,"item":"fulminant prism","share":1.1235955056179776},
+{"count":1,"item":"call canine famil","share":1.1235955056179776},
+{"count":1,"item":"summon small mamm","share":1.1235955056179776},
+
+Zigg Cleared(917 games):
+{"count":9,"item":"sandblast","share":16.071428571428573},
+{"count":6,"item":"magic dart","share":10.714285714285714},
+{"count":6,"item":"foxfire","share":10.714285714285714},
+{"count":5,"item":"stone arrow","share":8.928571428571429},
+{"count":4,"item":"poisonous vapours","share":7.142857142857142},
+{"count":4,"item":"searing ray","share":7.142857142857142},
+{"count":3,"item":"scorch","share":5.357142857142857},
+{"count":3,"item":"shock","share":5.357142857142857},
+{"count":2,"item":"freeze","share":3.571428571428571},
+{"count":1,"item":"vampiric draining","share":1.7857142857142856},
+{"count":1,"item":"construct spike l","share":1.7857142857142856},
+{"count":1,"item":"call imp","share":1.7857142857142856},
+{"count":1,"item":"confusing touch","share":1.7857142857142856},
+{"count":1,"item":"summon ice beast","share":1.7857142857142856},
+{"count":1,"item":"jinxbite","share":1.7857142857142856},
+{"count":1,"item":"kinetic grapnel","share":1.7857142857142856},
+{"count":1,"item":"ensorcelled hiber","share":1.7857142857142856},
+{"count":1,"item":"airstrike","share":1.7857142857142856},
+{"count":1,"item":"soul splinter","share":1.7857142857142856},
+{"count":1,"item":"olgreb's toxic ra","share":1.7857142857142856},
+{"count":1,"item":"fulminant prism","share":1.7857142857142856},
+{"count":1,"item":"momentum strike","share":1.7857142857142856},
+{"count":1,"item":"frozen ramparts","share":1.7857142857142856},
+
+No Zigg(917 games):
+{"count":38,"item":"sandblast","share":8.577878103837472},
+{"count":33,"item":"magic dart","share":7.44920993227991},
+{"count":29,"item":"poisonous vapours","share":6.5462753950338595},
+{"count":25,"item":"summon ice beast","share":5.643340857787811},
+{"count":24,"item":"scorch","share":5.417607223476298},
+{"count":24,"item":"stone arrow","share":5.417607223476298},
+{"count":22,"item":"foxfire","share":4.966139954853273},
+{"count":20,"item":"kinetic grapnel","share":4.514672686230249},
+{"count":20,"item":"frozen ramparts","share":4.514672686230249},
+{"count":19,"item":"mercury arrow","share":4.288939051918736},
+{"count":17,"item":"shock","share":3.837471783295711},
+{"count":16,"item":"soul splinter","share":3.611738148984198},
+{"count":14,"item":"olgreb's toxic ra","share":3.160270880361174},
+{"count":14,"item":"launch clockwork","share":3.160270880361174},
+{"count":12,"item":"ensorcelled hiber","share":2.708803611738149},
+{"count":11,"item":"freeze","share":2.4830699774266365},
+{"count":9,"item":"momentum strike","share":2.0316027088036117},
+{"count":9,"item":"jinxbite","share":2.0316027088036117},
+{"count":8,"item":"searing ray","share":1.805869074492099},
+{"count":8,"item":"hailstorm","share":1.805869074492099},
+{"count":6,"item":"confusing touch","share":1.3544018058690745},
+{"count":6,"item":"iskenderun's myst","share":1.3544018058690745},
+{"count":6,"item":"construct spike l","share":1.3544018058690745},
+{"count":5,"item":"call canine famil","share":1.1286681715575622},
+{"count":5,"item":"call imp","share":1.1286681715575622},
+{"count":5,"item":"summon small mamm","share":1.1286681715575622},
+{"count":4,"item":"mephitic cloud","share":0.9029345372460496},
+{"count":4,"item":"kiss of death","share":0.9029345372460496},
+{"count":4,"item":"tukima's dance","share":0.9029345372460496},
+{"count":4,"item":"forge lightning s","share":0.9029345372460496},
+{"count":4,"item":"blink","share":0.9029345372460496},
+{"count":3,"item":"vampiric draining","share":0.6772009029345373},
+{"count":3,"item":"maxwell's portabl","share":0.6772009029345373},
+{"count":3,"item":"fulminant prism","share":0.6772009029345373},
+{"count":3,"item":"airstrike","share":0.6772009029345373},
+{"count":2,"item":"static discharge","share":0.4514672686230248},
+{"count":1,"item":"slow","share":0.2257336343115124},
+{"count":1,"item":"dispel undead","share":0.2257336343115124},
+{"count":1,"item":"dazzling flash","share":0.2257336343115124},
+{"count":1,"item":"passwall","share":0.2257336343115124},
+
+
+**Spells Early**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Sandblast: 15 - share: 9.04%|Sandblast: 21 - share: 7.75%|Sandblast: 54 - share: 9.59%|Sandblast: 11 - share: 12.36%|Sandblast: 9 - share: 16.07%|Sandblast: 38 - share: 8.58%|
+|Scorch: 10 - share: 6.02%|Scorch: 20 - share: 7.38%|Magic dart: 41 - share: 7.28%|Stone arrow: 10 - share: 11.24%|Magic dart: 6 - share: 10.71%|Magic dart: 33 - share: 7.45%|
+|Olgreb's toxic ra: 9 - share: 5.42%|Magic dart: 18 - share: 6.64%|Poisonous vapours: 36 - share: 6.39%|Foxfire: 8 - share: 8.99%|Foxfire: 6 - share: 10.71%|Poisonous vapours: 29 - share: 6.55%|
+|Magic dart: 9 - share: 5.42%|Foxfire: 17 - share: 6.27%|Stone arrow: 34 - share: 6.04%|Magic dart: 6 - share: 6.74%|Stone arrow: 5 - share: 8.93%|Summon ice beast: 25 - share: 5.64%|
+|Stone arrow: 9 - share: 5.42%|Stone arrow: 15 - share: 5.54%|Scorch: 31 - share: 5.51%|Freeze: 6 - share: 6.74%|Poisonous vapours: 4 - share: 7.14%|Scorch: 24 - share: 5.42%|
+|Foxfire: 8 - share: 4.82%|Searing ray: 12 - share: 4.43%|Foxfire: 31 - share: 5.51%|Scorch: 5 - share: 5.62%|Searing ray: 4 - share: 7.14%|Stone arrow: 24 - share: 5.42%|
+|Poisonous vapours: 8 - share: 4.82%|Kinetic grapnel: 11 - share: 4.06%|Summon ice beast: 29 - share: 5.15%|Poisonous vapours: 5 - share: 5.62%|Scorch: 3 - share: 5.36%|Foxfire: 22 - share: 4.97%|
+|Searing ray: 8 - share: 4.82%|Olgreb's toxic ra: 11 - share: 4.06%|Shock: 26 - share: 4.62%|Searing ray: 4 - share: 4.49%|Shock: 3 - share: 5.36%|Kinetic grapnel: 20 - share: 4.51%|
+|Mercury arrow: 7 - share: 4.22%|Shock: 11 - share: 4.06%|Frozen ramparts: 25 - share: 4.44%|Jinxbite: 3 - share: 3.37%|Freeze: 2 - share: 3.57%|Frozen ramparts: 20 - share: 4.51%|
+|Kinetic grapnel: 7 - share: 4.22%|Frozen ramparts: 11 - share: 4.06%|Kinetic grapnel: 22 - share: 3.91%|Momentum strike: 3 - share: 3.37%|Vampiric draining: 1 - share: 1.79%|Mercury arrow: 19 - share: 4.29%|
+|Launch clockwork: 7 - share: 4.22%|Mercury arrow: 10 - share: 3.69%|Mercury arrow: 19 - share: 3.37%|Shock: 3 - share: 3.37%|Construct spike l: 1 - share: 1.79%|Shock: 17 - share: 3.84%|
+|Frozen ramparts: 6 - share: 3.61%|Poisonous vapours: 10 - share: 3.69%|Freeze: 19 - share: 3.37%|Kinetic grapnel: 3 - share: 3.37%|Call imp: 1 - share: 1.79%|Soul splinter: 16 - share: 3.61%|
+|Soul splinter: 5 - share: 3.01%|Soul splinter: 9 - share: 3.32%|Soul splinter: 17 - share: 3.02%|Olgreb's toxic ra: 2 - share: 2.25%|Confusing touch: 1 - share: 1.79%|Olgreb's toxic ra: 14 - share: 3.16%|
+|Ensorcelled hiber: 5 - share: 3.01%|Momentum strike: 9 - share: 3.32%|Olgreb's toxic ra: 16 - share: 2.84%|Ensorcelled hiber: 2 - share: 2.25%|Summon ice beast: 1 - share: 1.79%|Launch clockwork: 14 - share: 3.16%|
+|Shock: 5 - share: 3.01%|Launch clockwork: 9 - share: 3.32%|Launch clockwork: 15 - share: 2.66%|Frozen ramparts: 2 - share: 2.25%|Jinxbite: 1 - share: 1.79%|Ensorcelled hiber: 12 - share: 2.71%|
+|Jinxbite: 5 - share: 3.01%|Jinxbite: 8 - share: 2.95%|Searing ray: 14 - share: 2.49%|Summon ice beast: 2 - share: 2.25%|Kinetic grapnel: 1 - share: 1.79%|Freeze: 11 - share: 2.48%|
+|Call imp: 5 - share: 3.01%|Freeze: 7 - share: 2.58%|Ensorcelled hiber: 13 - share: 2.31%|Vampiric draining: 1 - share: 1.12%|Ensorcelled hiber: 1 - share: 1.79%|Momentum strike: 9 - share: 2.03%|
+|Momentum strike: 4 - share: 2.41%|Ensorcelled hiber: 6 - share: 2.21%|Jinxbite: 13 - share: 2.31%|Kiss of death: 1 - share: 1.12%|Airstrike: 1 - share: 1.79%|Jinxbite: 9 - share: 2.03%|
+|Construct spike l: 4 - share: 2.41%|Construct spike l: 6 - share: 2.21%|Momentum strike: 12 - share: 2.13%|Mephitic cloud: 1 - share: 1.12%|Soul splinter: 1 - share: 1.79%|Searing ray: 8 - share: 1.81%|
+|Freeze: 4 - share: 2.41%|Call imp: 5 - share: 1.85%|Iskenderun's myst: 9 - share: 1.60%|Launch clockwork: 1 - share: 1.12%|Olgreb's toxic ra: 1 - share: 1.79%|Hailstorm: 8 - share: 1.81%|
+|Confusing touch: 3 - share: 1.81%|Confusing touch: 4 - share: 1.48%|Construct spike l: 8 - share: 1.42%|Construct spike l: 1 - share: 1.12%|Fulminant prism: 1 - share: 1.79%|Confusing touch: 6 - share: 1.35%|
+|Mephitic cloud: 3 - share: 1.81%|Mephitic cloud: 4 - share: 1.48%|Hailstorm: 8 - share: 1.42%|Call imp: 1 - share: 1.12%|Momentum strike: 1 - share: 1.79%|Iskenderun's myst: 6 - share: 1.35%|
+|Kiss of death: 3 - share: 1.81%|Kiss of death: 4 - share: 1.48%|Confusing touch: 7 - share: 1.24%|Confusing touch: 1 - share: 1.12%|Frozen ramparts: 1 - share: 1.79%|Construct spike l: 6 - share: 1.35%|
+|Vampiric draining: 2 - share: 1.20%|Summon ice beast: 4 - share: 1.48%|Call canine famil: 7 - share: 1.24%|Airstrike: 1 - share: 1.12%||Call canine famil: 5 - share: 1.13%|
+|Iskenderun's myst: 2 - share: 1.20%|Iskenderun's myst: 3 - share: 1.11%|Mephitic cloud: 6 - share: 1.07%|Tukima's dance: 1 - share: 1.12%||Call imp: 5 - share: 1.13%|
+|Static discharge: 2 - share: 1.20%|Call canine famil: 3 - share: 1.11%|Call imp: 6 - share: 1.07%|Soul splinter: 1 - share: 1.12%||Summon small mamm: 5 - share: 1.13%|
+|Tukima's dance: 2 - share: 1.20%|Static discharge: 3 - share: 1.11%|Blink: 5 - share: 0.89%|Mercury arrow: 1 - share: 1.12%||Mephitic cloud: 4 - share: 0.90%|
+|Blink: 2 - share: 1.20%|Blink: 3 - share: 1.11%|Summon small mamm: 5 - share: 0.89%|Fulminant prism: 1 - share: 1.12%||Kiss of death: 4 - share: 0.90%|
+|Summon ice beast: 2 - share: 1.20%|Hailstorm: 3 - share: 1.11%|Vampiric draining: 4 - share: 0.71%|Call canine famil: 1 - share: 1.12%||Tukima's dance: 4 - share: 0.90%|
+|Call canine famil: 1 - share: 0.60%|Vampiric draining: 2 - share: 0.74%|Kiss of death: 4 - share: 0.71%|Summon small mamm: 1 - share: 1.12%||Forge lightning s: 4 - share: 0.90%|
+|Maxwell's portabl: 1 - share: 0.60%|Tukima's dance: 2 - share: 0.74%|Tukima's dance: 4 - share: 0.71%|||Blink: 4 - share: 0.90%|
+|Fulminant prism: 1 - share: 0.60%|Fulminant prism: 2 - share: 0.74%|Fulminant prism: 4 - share: 0.71%|||Vampiric draining: 3 - share: 0.68%|
+|Forge lightning s: 1 - share: 0.60%|Forge lightning s: 2 - share: 0.74%|Forge lightning s: 4 - share: 0.71%|||Maxwell's portabl: 3 - share: 0.68%|
+|Hailstorm: 1 - share: 0.60%|Summon small mamm: 2 - share: 0.74%|Airstrike: 4 - share: 0.71%|||Fulminant prism: 3 - share: 0.68%|
+||Airstrike: 2 - share: 0.74%|Static discharge: 3 - share: 0.53%|||Airstrike: 3 - share: 0.68%|
+||Maxwell's portabl: 1 - share: 0.37%|Maxwell's portabl: 3 - share: 0.53%|||Static discharge: 2 - share: 0.45%|
+||Lesser beckoning: 1 - share: 0.37%|Lesser beckoning: 1 - share: 0.18%|||Slow: 1 - share: 0.23%|
+|||Slow: 1 - share: 0.18%|||Dispel undead: 1 - share: 0.23%|
+|||Dispel undead: 1 - share: 0.18%|||Dazzling flash: 1 - share: 0.23%|
+|||Dazzling flash: 1 - share: 0.18%|||Passwall: 1 - share: 0.23%|
+|||Passwall: 1 - share: 0.18%||||

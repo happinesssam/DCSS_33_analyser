@@ -1,0 +1,154 @@
+Armour
+Top 20(592 games):
+{"count":39,"item":"golden dragon sca","share":22.807017543859647},
+{"count":29,"item":"skin","share":16.95906432748538},
+{"count":19,"item":"robe","share":11.11111111111111},
+{"count":10,"item":"plate armour","share":5.847953216374268},
+{"count":9,"item":"crystal plate arm","share":5.263157894736842},
+{"count":7,"item":"leather armour","share":4.093567251461988},
+{"count":7,"item":"chain mail","share":4.093567251461988},
+{"count":6,"item":"troll leather arm","share":3.508771929824561},
+{"count":6,"item":"swamp dragon scal","share":3.508771929824561},
+{"count":6,"item":"quicksilver drago","share":3.508771929824561},
+{"count":5,"item":"acid dragon scale","share":2.923976608187134},
+{"count":5,"item":"scale mail","share":2.923976608187134},
+{"count":5,"item":"storm dragon scal","share":2.923976608187134},
+{"count":5,"item":"ring mail","share":2.923976608187134},
+{"count":4,"item":"pearl dragon scal","share":2.3391812865497075},
+{"count":4,"item":"fire dragon scale","share":2.3391812865497075},
+{"count":2,"item":"steam dragon scal","share":1.1695906432748537},
+{"count":2,"item":"shadow dragon sca","share":1.1695906432748537},
+{"count":1,"item":"animal skin","share":0.5847953216374269},
+
+Top 50(592 games):
+{"count":64,"item":"golden dragon sca","share":19.45288753799392},
+{"count":60,"item":"skin","share":18.237082066869302},
+{"count":30,"item":"robe","share":9.118541033434651},
+{"count":26,"item":"plate armour","share":7.90273556231003},
+{"count":22,"item":"crystal plate arm","share":6.68693009118541},
+{"count":16,"item":"acid dragon scale","share":4.86322188449848},
+{"count":13,"item":"quicksilver drago","share":3.951367781155015},
+{"count":12,"item":"chain mail","share":3.64741641337386},
+{"count":12,"item":"storm dragon scal","share":3.64741641337386},
+{"count":12,"item":"ring mail","share":3.64741641337386},
+{"count":11,"item":"leather armour","share":3.343465045592705},
+{"count":10,"item":"troll leather arm","share":3.0395136778115504},
+{"count":10,"item":"pearl dragon scal","share":3.0395136778115504},
+{"count":8,"item":"scale mail","share":2.43161094224924},
+{"count":7,"item":"fire dragon scale","share":2.127659574468085},
+{"count":6,"item":"swamp dragon scal","share":1.82370820668693},
+{"count":4,"item":"shadow dragon sca","share":1.21580547112462},
+{"count":2,"item":"steam dragon scal","share":0.60790273556231},
+{"count":2,"item":"animal skin","share":0.60790273556231},
+{"count":2,"item":"ice dragon scales","share":0.60790273556231},
+
+Top 200(592 games):
+{"count":160,"item":"skin","share":20.77922077922078},
+{"count":143,"item":"golden dragon sca","share":18.571428571428573},
+{"count":74,"item":"robe","share":9.61038961038961},
+{"count":50,"item":"plate armour","share":6.493506493506493},
+{"count":42,"item":"crystal plate arm","share":5.454545454545454},
+{"count":41,"item":"acid dragon scale","share":5.324675324675324},
+{"count":36,"item":"ring mail","share":4.675324675324675},
+{"count":28,"item":"quicksilver drago","share":3.6363636363636362},
+{"count":27,"item":"chain mail","share":3.506493506493506},
+{"count":26,"item":"troll leather arm","share":3.3766233766233764},
+{"count":22,"item":"scale mail","share":2.857142857142857},
+{"count":21,"item":"leather armour","share":2.727272727272727},
+{"count":21,"item":"fire dragon scale","share":2.727272727272727},
+{"count":20,"item":"storm dragon scal","share":2.5974025974025974},
+{"count":16,"item":"pearl dragon scal","share":2.0779220779220777},
+{"count":13,"item":"animal skin","share":1.6883116883116882},
+{"count":9,"item":"swamp dragon scal","share":1.1688311688311688},
+{"count":8,"item":"ice dragon scales","share":1.0389610389610389},
+{"count":7,"item":"steam dragon scal","share":0.9090909090909091},
+{"count":6,"item":"shadow dragon sca","share":0.7792207792207793},
+
+15 Runes(592 games):
+{"count":32,"item":"golden dragon sca","share":21.333333333333336},
+{"count":32,"item":"skin","share":21.333333333333336},
+{"count":17,"item":"robe","share":11.333333333333332},
+{"count":10,"item":"crystal plate arm","share":6.666666666666667},
+{"count":7,"item":"pearl dragon scal","share":4.666666666666667},
+{"count":7,"item":"ring mail","share":4.666666666666667},
+{"count":7,"item":"quicksilver drago","share":4.666666666666667},
+{"count":6,"item":"plate armour","share":4},
+{"count":5,"item":"leather armour","share":3.3333333333333335},
+{"count":4,"item":"storm dragon scal","share":2.666666666666667},
+{"count":4,"item":"troll leather arm","share":2.666666666666667},
+{"count":3,"item":"acid dragon scale","share":2},
+{"count":3,"item":"chain mail","share":2},
+{"count":3,"item":"fire dragon scale","share":2},
+{"count":2,"item":"animal skin","share":1.3333333333333335},
+{"count":2,"item":"scale mail","share":1.3333333333333335},
+{"count":2,"item":"shadow dragon sca","share":1.3333333333333335},
+{"count":2,"item":"ice dragon scales","share":1.3333333333333335},
+{"count":1,"item":"swamp dragon scal","share":0.6666666666666667},
+{"count":1,"item":"steam dragon scal","share":0.6666666666666667},
+
+Zigg Cleared(592 games):
+{"count":12,"item":"robe","share":20},
+{"count":11,"item":"skin","share":18.333333333333332},
+{"count":5,"item":"ring mail","share":8.333333333333332},
+{"count":4,"item":"golden dragon sca","share":6.666666666666667},
+{"count":4,"item":"fire dragon scale","share":6.666666666666667},
+{"count":4,"item":"crystal plate arm","share":6.666666666666667},
+{"count":4,"item":"quicksilver drago","share":6.666666666666667},
+{"count":3,"item":"troll leather arm","share":5},
+{"count":2,"item":"pearl dragon scal","share":3.3333333333333335},
+{"count":2,"item":"leather armour","share":3.3333333333333335},
+{"count":2,"item":"chain mail","share":3.3333333333333335},
+{"count":2,"item":"plate armour","share":3.3333333333333335},
+{"count":1,"item":"swamp dragon scal","share":1.6666666666666667},
+{"count":1,"item":"scale mail","share":1.6666666666666667},
+{"count":1,"item":"acid dragon scale","share":1.6666666666666667},
+{"count":1,"item":"storm dragon scal","share":1.6666666666666667},
+{"count":1,"item":"animal skin","share":1.6666666666666667},
+
+No Zigg(592 games):
+{"count":121,"item":"skin","share":20.473773265651438},
+{"count":119,"item":"golden dragon sca","share":20.135363790186126},
+{"count":51,"item":"robe","share":8.629441624365482},
+{"count":42,"item":"plate armour","share":7.1065989847715745},
+{"count":34,"item":"acid dragon scale","share":5.752961082910321},
+{"count":32,"item":"crystal plate arm","share":5.414551607445008},
+{"count":27,"item":"ring mail","share":4.568527918781726},
+{"count":21,"item":"troll leather arm","share":3.5532994923857872},
+{"count":20,"item":"chain mail","share":3.3840947546531304},
+{"count":19,"item":"scale mail","share":3.2148900169204735},
+{"count":18,"item":"quicksilver drago","share":3.0456852791878175},
+{"count":16,"item":"storm dragon scal","share":2.707275803722504},
+{"count":16,"item":"fire dragon scale","share":2.707275803722504},
+{"count":14,"item":"leather armour","share":2.3688663282571913},
+{"count":10,"item":"pearl dragon scal","share":1.6920473773265652},
+{"count":10,"item":"animal skin","share":1.6920473773265652},
+{"count":7,"item":"swamp dragon scal","share":1.1844331641285957},
+{"count":6,"item":"ice dragon scales","share":1.015228426395939},
+{"count":5,"item":"steam dragon scal","share":0.8460236886632826},
+{"count":3,"item":"shadow dragon sca","share":0.5076142131979695},
+
+
+**Armour**
+
+|Top 20 (171 games)|Top 50 (330 games)|Top 200 (771 games)|15 Runes (150 games)|Zigg Cleared (60 games)|No Zigg (592 games)|
+|:-|:-|:-|:-|:-|:-|
+|Golden dragon sca: 39 - share: 22.81%|Golden dragon sca: 64 - share: 19.45%|Skin: 160 - share: 20.78%|Golden dragon sca: 32 - share: 21.33%|Robe: 12 - share: 20.00%|Skin: 121 - share: 20.47%|
+|Skin: 29 - share: 16.96%|Skin: 60 - share: 18.24%|Golden dragon sca: 143 - share: 18.57%|Skin: 32 - share: 21.33%|Skin: 11 - share: 18.33%|Golden dragon sca: 119 - share: 20.14%|
+|Robe: 19 - share: 11.11%|Robe: 30 - share: 9.12%|Robe: 74 - share: 9.61%|Robe: 17 - share: 11.33%|Ring mail: 5 - share: 8.33%|Robe: 51 - share: 8.63%|
+|Plate armour: 10 - share: 5.85%|Plate armour: 26 - share: 7.90%|Plate armour: 50 - share: 6.49%|Crystal plate arm: 10 - share: 6.67%|Golden dragon sca: 4 - share: 6.67%|Plate armour: 42 - share: 7.11%|
+|Crystal plate arm: 9 - share: 5.26%|Crystal plate arm: 22 - share: 6.69%|Crystal plate arm: 42 - share: 5.45%|Pearl dragon scal: 7 - share: 4.67%|Fire dragon scale: 4 - share: 6.67%|Acid dragon scale: 34 - share: 5.75%|
+|Leather armour: 7 - share: 4.09%|Acid dragon scale: 16 - share: 4.86%|Acid dragon scale: 41 - share: 5.32%|Ring mail: 7 - share: 4.67%|Crystal plate arm: 4 - share: 6.67%|Crystal plate arm: 32 - share: 5.41%|
+|Chain mail: 7 - share: 4.09%|Quicksilver drago: 13 - share: 3.95%|Ring mail: 36 - share: 4.68%|Quicksilver drago: 7 - share: 4.67%|Quicksilver drago: 4 - share: 6.67%|Ring mail: 27 - share: 4.57%|
+|Troll leather arm: 6 - share: 3.51%|Chain mail: 12 - share: 3.65%|Quicksilver drago: 28 - share: 3.64%|Plate armour: 6 - share: 4.00%|Troll leather arm: 3 - share: 5.00%|Troll leather arm: 21 - share: 3.55%|
+|Swamp dragon scal: 6 - share: 3.51%|Storm dragon scal: 12 - share: 3.65%|Chain mail: 27 - share: 3.51%|Leather armour: 5 - share: 3.33%|Pearl dragon scal: 2 - share: 3.33%|Chain mail: 20 - share: 3.38%|
+|Quicksilver drago: 6 - share: 3.51%|Ring mail: 12 - share: 3.65%|Troll leather arm: 26 - share: 3.38%|Storm dragon scal: 4 - share: 2.67%|Leather armour: 2 - share: 3.33%|Scale mail: 19 - share: 3.21%|
+|Acid dragon scale: 5 - share: 2.92%|Leather armour: 11 - share: 3.34%|Scale mail: 22 - share: 2.86%|Troll leather arm: 4 - share: 2.67%|Chain mail: 2 - share: 3.33%|Quicksilver drago: 18 - share: 3.05%|
+|Scale mail: 5 - share: 2.92%|Troll leather arm: 10 - share: 3.04%|Leather armour: 21 - share: 2.73%|Acid dragon scale: 3 - share: 2.00%|Plate armour: 2 - share: 3.33%|Storm dragon scal: 16 - share: 2.71%|
+|Storm dragon scal: 5 - share: 2.92%|Pearl dragon scal: 10 - share: 3.04%|Fire dragon scale: 21 - share: 2.73%|Chain mail: 3 - share: 2.00%|Swamp dragon scal: 1 - share: 1.67%|Fire dragon scale: 16 - share: 2.71%|
+|Ring mail: 5 - share: 2.92%|Scale mail: 8 - share: 2.43%|Storm dragon scal: 20 - share: 2.60%|Fire dragon scale: 3 - share: 2.00%|Scale mail: 1 - share: 1.67%|Leather armour: 14 - share: 2.37%|
+|Pearl dragon scal: 4 - share: 2.34%|Fire dragon scale: 7 - share: 2.13%|Pearl dragon scal: 16 - share: 2.08%|Animal skin: 2 - share: 1.33%|Acid dragon scale: 1 - share: 1.67%|Pearl dragon scal: 10 - share: 1.69%|
+|Fire dragon scale: 4 - share: 2.34%|Swamp dragon scal: 6 - share: 1.82%|Animal skin: 13 - share: 1.69%|Scale mail: 2 - share: 1.33%|Storm dragon scal: 1 - share: 1.67%|Animal skin: 10 - share: 1.69%|
+|Steam dragon scal: 2 - share: 1.17%|Shadow dragon sca: 4 - share: 1.22%|Swamp dragon scal: 9 - share: 1.17%|Shadow dragon sca: 2 - share: 1.33%|Animal skin: 1 - share: 1.67%|Swamp dragon scal: 7 - share: 1.18%|
+|Shadow dragon sca: 2 - share: 1.17%|Steam dragon scal: 2 - share: 0.61%|Ice dragon scales: 8 - share: 1.04%|Ice dragon scales: 2 - share: 1.33%||Ice dragon scales: 6 - share: 1.02%|
+|Animal skin: 1 - share: 0.58%|Animal skin: 2 - share: 0.61%|Steam dragon scal: 7 - share: 0.91%|Swamp dragon scal: 1 - share: 0.67%||Steam dragon scal: 5 - share: 0.85%|
+||Ice dragon scales: 2 - share: 0.61%|Shadow dragon sca: 6 - share: 0.78%|Steam dragon scal: 1 - share: 0.67%||Shadow dragon sca: 3 - share: 0.51%|

@@ -1,0 +1,87 @@
+Evokables
+Top 20(917 games):
+{"count":56,"item":"lightning rod","share":28.57142857142857},
+{"count":41,"item":"gell's gravitambo","share":20.918367346938776},
+{"count":33,"item":"phantom mirror","share":16.83673469387755},
+{"count":20,"item":"tin of tremorston","share":10.204081632653061},
+{"count":12,"item":"sack of spiders","share":6.122448979591836},
+{"count":11,"item":"condenser vane","share":5.612244897959184},
+{"count":8,"item":"box of beasts","share":4.081632653061225},
+{"count":7,"item":"figurine of a zig","share":3.571428571428571},
+{"count":6,"item":"phial of floods","share":3.061224489795918},
+{"count":2,"item":"horn of geryon","share":1.0204081632653061},
+
+Top 50(917 games):
+{"count":102,"item":"lightning rod","share":29.47976878612717},
+{"count":75,"item":"gell's gravitambo","share":21.67630057803468},
+{"count":59,"item":"phantom mirror","share":17.052023121387283},
+{"count":32,"item":"tin of tremorston","share":9.248554913294797},
+{"count":19,"item":"sack of spiders","share":5.491329479768786},
+{"count":18,"item":"box of beasts","share":5.202312138728324},
+{"count":17,"item":"condenser vane","share":4.913294797687861},
+{"count":11,"item":"figurine of a zig","share":3.1791907514450863},
+{"count":10,"item":"phial of floods","share":2.8901734104046244},
+{"count":3,"item":"horn of geryon","share":0.8670520231213872},
+
+Top 200(917 games):
+{"count":204,"item":"lightning rod","share":30.630630630630627},
+{"count":125,"item":"gell's gravitambo","share":18.76876876876877},
+{"count":120,"item":"phantom mirror","share":18.01801801801802},
+{"count":55,"item":"tin of tremorston","share":8.258258258258259},
+{"count":46,"item":"box of beasts","share":6.906906906906906},
+{"count":37,"item":"sack of spiders","share":5.555555555555555},
+{"count":36,"item":"condenser vane","share":5.405405405405405},
+{"count":27,"item":"phial of floods","share":4.054054054054054},
+{"count":12,"item":"figurine of a zig","share":1.8018018018018018},
+{"count":4,"item":"horn of geryon","share":0.6006006006006006},
+
+15 Runes(917 games):
+{"count":35,"item":"lightning rod","share":24.822695035460992},
+{"count":30,"item":"gell's gravitambo","share":21.27659574468085},
+{"count":30,"item":"phantom mirror","share":21.27659574468085},
+{"count":14,"item":"tin of tremorston","share":9.929078014184398},
+{"count":9,"item":"figurine of a zig","share":6.382978723404255},
+{"count":8,"item":"box of beasts","share":5.673758865248227},
+{"count":5,"item":"condenser vane","share":3.546099290780142},
+{"count":4,"item":"sack of spiders","share":2.8368794326241136},
+{"count":4,"item":"phial of floods","share":2.8368794326241136},
+{"count":2,"item":"horn of geryon","share":1.4184397163120568},
+
+Zigg Cleared(917 games):
+{"count":19,"item":"lightning rod","share":29.230769230769234},
+{"count":12,"item":"gell's gravitambo","share":18.461538461538463},
+{"count":11,"item":"figurine of a zig","share":16.923076923076923},
+{"count":10,"item":"tin of tremorston","share":15.384615384615385},
+{"count":6,"item":"phantom mirror","share":9.230769230769232},
+{"count":2,"item":"box of beasts","share":3.076923076923077},
+{"count":2,"item":"condenser vane","share":3.076923076923077},
+{"count":1,"item":"horn of geryon","share":1.5384615384615385},
+{"count":1,"item":"sack of spiders","share":1.5384615384615385},
+{"count":1,"item":"phial of floods","share":1.5384615384615385},
+
+No Zigg(917 games):
+{"count":150,"item":"lightning rod","share":30.364372469635626},
+{"count":94,"item":"phantom mirror","share":19.02834008097166},
+{"count":89,"item":"gell's gravitambo","share":18.016194331983808},
+{"count":36,"item":"tin of tremorston","share":7.28744939271255},
+{"count":36,"item":"box of beasts","share":7.28744939271255},
+{"count":34,"item":"sack of spiders","share":6.882591093117409},
+{"count":31,"item":"condenser vane","share":6.275303643724696},
+{"count":23,"item":"phial of floods","share":4.65587044534413},
+{"count":1,"item":"horn of geryon","share":0.20242914979757085},
+
+
+**Evokables**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Lightning rod: 56 - share: 28.57%|Lightning rod: 102 - share: 29.48%|Lightning rod: 204 - share: 30.63%|Lightning rod: 35 - share: 24.82%|Lightning rod: 19 - share: 29.23%|Lightning rod: 150 - share: 30.36%|
+|Gell's gravitambo: 41 - share: 20.92%|Gell's gravitambo: 75 - share: 21.68%|Gell's gravitambo: 125 - share: 18.77%|Gell's gravitambo: 30 - share: 21.28%|Gell's gravitambo: 12 - share: 18.46%|Phantom mirror: 94 - share: 19.03%|
+|Phantom mirror: 33 - share: 16.84%|Phantom mirror: 59 - share: 17.05%|Phantom mirror: 120 - share: 18.02%|Phantom mirror: 30 - share: 21.28%|Figurine of a zig: 11 - share: 16.92%|Gell's gravitambo: 89 - share: 18.02%|
+|Tin of tremorston: 20 - share: 10.20%|Tin of tremorston: 32 - share: 9.25%|Tin of tremorston: 55 - share: 8.26%|Tin of tremorston: 14 - share: 9.93%|Tin of tremorston: 10 - share: 15.38%|Tin of tremorston: 36 - share: 7.29%|
+|Sack of spiders: 12 - share: 6.12%|Sack of spiders: 19 - share: 5.49%|Box of beasts: 46 - share: 6.91%|Figurine of a zig: 9 - share: 6.38%|Phantom mirror: 6 - share: 9.23%|Box of beasts: 36 - share: 7.29%|
+|Condenser vane: 11 - share: 5.61%|Box of beasts: 18 - share: 5.20%|Sack of spiders: 37 - share: 5.56%|Box of beasts: 8 - share: 5.67%|Box of beasts: 2 - share: 3.08%|Sack of spiders: 34 - share: 6.88%|
+|Box of beasts: 8 - share: 4.08%|Condenser vane: 17 - share: 4.91%|Condenser vane: 36 - share: 5.41%|Condenser vane: 5 - share: 3.55%|Condenser vane: 2 - share: 3.08%|Condenser vane: 31 - share: 6.28%|
+|Figurine of a zig: 7 - share: 3.57%|Figurine of a zig: 11 - share: 3.18%|Phial of floods: 27 - share: 4.05%|Sack of spiders: 4 - share: 2.84%|Horn of geryon: 1 - share: 1.54%|Phial of floods: 23 - share: 4.66%|
+|Phial of floods: 6 - share: 3.06%|Phial of floods: 10 - share: 2.89%|Figurine of a zig: 12 - share: 1.80%|Phial of floods: 4 - share: 2.84%|Sack of spiders: 1 - share: 1.54%|Horn of geryon: 1 - share: 0.20%|
+|Horn of geryon: 2 - share: 1.02%|Horn of geryon: 3 - share: 0.87%|Horn of geryon: 4 - share: 0.60%|Horn of geryon: 2 - share: 1.42%|Phial of floods: 1 - share: 1.54%||

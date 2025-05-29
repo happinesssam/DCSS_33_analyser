@@ -1,0 +1,1223 @@
+Combos
+Top 20(592 games):
+{"count":12,"share":7.017543859649122,"item":"minotaur-fighter"},
+{"count":5,"share":2.923976608187134,"item":"formicid-shapeshifter"},
+{"count":5,"share":2.923976608187134,"item":"revenant-wanderer"},
+{"count":5,"share":2.923976608187134,"item":"poltergeist-hedge wizard"},
+{"count":4,"share":2.3391812865497075,"item":"gargoyle-earth elementalist"},
+{"count":4,"share":2.3391812865497075,"item":"gargoyle-gladiator"},
+{"count":4,"share":2.3391812865497075,"item":"vine stalker-shapeshifter"},
+{"count":3,"share":1.7543859649122806,"item":"kobold-shapeshifter"},
+{"count":3,"share":1.7543859649122806,"item":"deep elf-shapeshifter"},
+{"count":3,"share":1.7543859649122806,"item":"troll-fighter"},
+{"count":3,"share":1.7543859649122806,"item":"revenant-brigand"},
+{"count":3,"share":1.7543859649122806,"item":"minotaur-gladiator"},
+{"count":3,"share":1.7543859649122806,"item":"revenant-ice elementalist"},
+{"count":2,"share":1.1695906432748537,"item":"troll-warper"},
+{"count":2,"share":1.1695906432748537,"item":"spriggan-enchanter"},
+{"count":2,"share":1.1695906432748537,"item":"barachi-hunter"},
+{"count":2,"share":1.1695906432748537,"item":"human-alchemist"},
+{"count":2,"share":1.1695906432748537,"item":"human-conjurer"},
+{"count":2,"share":1.1695906432748537,"item":"human-fire elementalist"},
+{"count":2,"share":1.1695906432748537,"item":"mountain dwarf-fighter"},
+{"count":2,"share":1.1695906432748537,"item":"oni-monk"},
+{"count":2,"share":1.1695906432748537,"item":"draconian-monk"},
+{"count":2,"share":1.1695906432748537,"item":"demonspawn-monk"},
+{"count":2,"share":1.1695906432748537,"item":"djinni-air elementalist"},
+{"count":2,"share":1.1695906432748537,"item":"demonspawn-ice elementalist"},
+{"count":2,"share":1.1695906432748537,"item":"minotaur-brigand"},
+{"count":2,"share":1.1695906432748537,"item":"barachi-ice elementalist"},
+{"count":2,"share":1.1695906432748537,"item":"minotaur-monk"},
+{"count":2,"share":1.1695906432748537,"item":"merfolk-gladiator"},
+{"count":2,"share":1.1695906432748537,"item":"felid-enchanter"},
+{"count":2,"share":1.1695906432748537,"item":"poltergeist-enchanter"},
+{"count":2,"share":1.1695906432748537,"item":"draconian-conjurer"},
+{"count":2,"share":1.1695906432748537,"item":"mountain dwarf-monk"},
+{"count":2,"share":1.1695906432748537,"item":"human-gladiator"},
+{"count":1,"share":0.5847953216374269,"item":"felid-chaos knight"},
+{"count":1,"share":0.5847953216374269,"item":"djinni-necromancer"},
+{"count":1,"share":0.5847953216374269,"item":"djinni-wanderer"},
+{"count":1,"share":0.5847953216374269,"item":"vine stalker-fighter"},
+{"count":1,"share":0.5847953216374269,"item":"armataur-warper"},
+{"count":1,"share":0.5847953216374269,"item":"troll-cinder acolyte"},
+{"count":1,"share":0.5847953216374269,"item":"kobold-chaos knight"},
+{"count":1,"share":0.5847953216374269,"item":"demonspawn-fire elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"gargoyle-berserker"},
+{"count":1,"share":0.5847953216374269,"item":"spriggan-hunter"},
+{"count":1,"share":0.5847953216374269,"item":"barachi-gladiator"},
+{"count":1,"share":0.5847953216374269,"item":"mountain dwarf-warper"},
+{"count":1,"share":0.5847953216374269,"item":"merfolk-reaver"},
+{"count":1,"share":0.5847953216374269,"item":"formicid-brigand"},
+{"count":1,"share":0.5847953216374269,"item":"barachi-earth elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"djinni-earth elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"formicid-monk"},
+{"count":1,"share":0.5847953216374269,"item":"gnoll-ice elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"formicid-hunter"},
+{"count":1,"share":0.5847953216374269,"item":"demigod-earth elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"human-earth elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"coglin-hedge wizard"},
+{"count":1,"share":0.5847953216374269,"item":"merfolk-warper"},
+{"count":1,"share":0.5847953216374269,"item":"demonspawn-necromancer"},
+{"count":1,"share":0.5847953216374269,"item":"naga-conjurer"},
+{"count":1,"share":0.5847953216374269,"item":"mountain dwarf-hunter"},
+{"count":1,"share":0.5847953216374269,"item":"merfolk-hexslinger"},
+{"count":1,"share":0.5847953216374269,"item":"djinni-alchemist"},
+{"count":1,"share":0.5847953216374269,"item":"gnoll-enchanter"},
+{"count":1,"share":0.5847953216374269,"item":"human-fighter"},
+{"count":1,"share":0.5847953216374269,"item":"draconian-artificer"},
+{"count":1,"share":0.5847953216374269,"item":"djinni-hexslinger"},
+{"count":1,"share":0.5847953216374269,"item":"gnoll-earth elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"revenant-monk"},
+{"count":1,"share":0.5847953216374269,"item":"barachi-berserker"},
+{"count":1,"share":0.5847953216374269,"item":"gargoyle-conjurer"},
+{"count":1,"share":0.5847953216374269,"item":"draconian-alchemist"},
+{"count":1,"share":0.5847953216374269,"item":"octopode-hedge wizard"},
+{"count":1,"share":0.5847953216374269,"item":"troll-wanderer"},
+{"count":1,"share":0.5847953216374269,"item":"vine stalker-artificer"},
+{"count":1,"share":0.5847953216374269,"item":"gargoyle-monk"},
+{"count":1,"share":0.5847953216374269,"item":"gnoll-warper"},
+{"count":1,"share":0.5847953216374269,"item":"draconian-earth elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"deep elf-earth elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"merfolk-berserker"},
+{"count":1,"share":0.5847953216374269,"item":"coglin-artificer"},
+{"count":1,"share":0.5847953216374269,"item":"felid-delver"},
+{"count":1,"share":0.5847953216374269,"item":"felid-wanderer"},
+{"count":1,"share":0.5847953216374269,"item":"felid-hedge wizard"},
+{"count":1,"share":0.5847953216374269,"item":"troll-hexslinger"},
+{"count":1,"share":0.5847953216374269,"item":"vine stalker-conjurer"},
+{"count":1,"share":0.5847953216374269,"item":"minotaur-air elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"demigod-hunter"},
+{"count":1,"share":0.5847953216374269,"item":"formicid-alchemist"},
+{"count":1,"share":0.5847953216374269,"item":"naga-alchemist"},
+{"count":1,"share":0.5847953216374269,"item":"demonspawn-berserker"},
+{"count":1,"share":0.5847953216374269,"item":"troll-delver"},
+{"count":1,"share":0.5847953216374269,"item":"revenant-artificer"},
+{"count":1,"share":0.5847953216374269,"item":"troll-brigand"},
+{"count":1,"share":0.5847953216374269,"item":"revenant-conjurer"},
+{"count":1,"share":0.5847953216374269,"item":"gargoyle-fighter"},
+{"count":1,"share":0.5847953216374269,"item":"troll-shapeshifter"},
+{"count":1,"share":0.5847953216374269,"item":"vine stalker-berserker"},
+{"count":1,"share":0.5847953216374269,"item":"tengu-fire elementalist"},
+{"count":1,"share":0.5847953216374269,"item":"kobold-brigand"},
+{"count":1,"share":0.5847953216374269,"item":"draconian-hunter"},
+{"count":1,"share":0.5847953216374269,"item":"demonspawn-hexslinger"},
+{"count":1,"share":0.5847953216374269,"item":"spriggan-hexslinger"},
+{"count":1,"share":0.5847953216374269,"item":"minotaur-berserker"},
+{"count":1,"share":0.5847953216374269,"item":"armataur-fighter"},
+{"count":1,"share":0.5847953216374269,"item":"vine stalker-brigand"},
+{"count":1,"share":0.5847953216374269,"item":"oni-shapeshifter"},
+
+Top 50(592 games):
+{"count":28,"share":8.484848484848486,"item":"minotaur-fighter"},
+{"count":9,"share":2.727272727272727,"item":"troll-fighter"},
+{"count":9,"share":2.727272727272727,"item":"mountain dwarf-fighter"},
+{"count":9,"share":2.727272727272727,"item":"revenant-wanderer"},
+{"count":8,"share":2.4242424242424243,"item":"gargoyle-earth elementalist"},
+{"count":8,"share":2.4242424242424243,"item":"poltergeist-hedge wizard"},
+{"count":7,"share":2.1212121212121215,"item":"formicid-shapeshifter"},
+{"count":6,"share":1.8181818181818181,"item":"gargoyle-gladiator"},
+{"count":6,"share":1.8181818181818181,"item":"vine stalker-shapeshifter"},
+{"count":5,"share":1.5151515151515151,"item":"deep elf-shapeshifter"},
+{"count":5,"share":1.5151515151515151,"item":"revenant-brigand"},
+{"count":5,"share":1.5151515151515151,"item":"minotaur-berserker"},
+{"count":4,"share":1.2121212121212122,"item":"human-conjurer"},
+{"count":4,"share":1.2121212121212122,"item":"minotaur-gladiator"},
+{"count":4,"share":1.2121212121212122,"item":"merfolk-gladiator"},
+{"count":4,"share":1.2121212121212122,"item":"merfolk-shapeshifter"},
+{"count":3,"share":0.9090909090909091,"item":"kobold-shapeshifter"},
+{"count":3,"share":0.9090909090909091,"item":"human-fire elementalist"},
+{"count":3,"share":0.9090909090909091,"item":"minotaur-monk"},
+{"count":3,"share":0.9090909090909091,"item":"revenant-ice elementalist"},
+{"count":3,"share":0.9090909090909091,"item":"poltergeist-enchanter"},
+{"count":3,"share":0.9090909090909091,"item":"draconian-conjurer"},
+{"count":3,"share":0.9090909090909091,"item":"vine stalker-brigand"},
+{"count":2,"share":0.6060606060606061,"item":"troll-warper"},
+{"count":2,"share":0.6060606060606061,"item":"spriggan-enchanter"},
+{"count":2,"share":0.6060606060606061,"item":"vine stalker-fighter"},
+{"count":2,"share":0.6060606060606061,"item":"barachi-hunter"},
+{"count":2,"share":0.6060606060606061,"item":"human-alchemist"},
+{"count":2,"share":0.6060606060606061,"item":"gargoyle-berserker"},
+{"count":2,"share":0.6060606060606061,"item":"oni-monk"},
+{"count":2,"share":0.6060606060606061,"item":"draconian-monk"},
+{"count":2,"share":0.6060606060606061,"item":"demonspawn-monk"},
+{"count":2,"share":0.6060606060606061,"item":"coglin-hedge wizard"},
+{"count":2,"share":0.6060606060606061,"item":"djinni-air elementalist"},
+{"count":2,"share":0.6060606060606061,"item":"demonspawn-ice elementalist"},
+{"count":2,"share":0.6060606060606061,"item":"draconian-artificer"},
+{"count":2,"share":0.6060606060606061,"item":"minotaur-brigand"},
+{"count":2,"share":0.6060606060606061,"item":"barachi-ice elementalist"},
+{"count":2,"share":0.6060606060606061,"item":"revenant-monk"},
+{"count":2,"share":0.6060606060606061,"item":"vine stalker-artificer"},
+{"count":2,"share":0.6060606060606061,"item":"gargoyle-monk"},
+{"count":2,"share":0.6060606060606061,"item":"felid-enchanter"},
+{"count":2,"share":0.6060606060606061,"item":"deep elf-earth elementalist"},
+{"count":2,"share":0.6060606060606061,"item":"felid-delver"},
+{"count":2,"share":0.6060606060606061,"item":"demigod-hunter"},
+{"count":2,"share":0.6060606060606061,"item":"demonspawn-berserker"},
+{"count":2,"share":0.6060606060606061,"item":"mountain dwarf-monk"},
+{"count":2,"share":0.6060606060606061,"item":"revenant-conjurer"},
+{"count":2,"share":0.6060606060606061,"item":"human-gladiator"},
+{"count":2,"share":0.6060606060606061,"item":"gargoyle-fighter"},
+{"count":2,"share":0.6060606060606061,"item":"troll-shapeshifter"},
+{"count":2,"share":0.6060606060606061,"item":"kobold-brigand"},
+{"count":2,"share":0.6060606060606061,"item":"oni-shapeshifter"},
+{"count":2,"share":0.6060606060606061,"item":"vine stalker-gladiator"},
+{"count":2,"share":0.6060606060606061,"item":"deep elf-conjurer"},
+{"count":2,"share":0.6060606060606061,"item":"draconian-shapeshifter"},
+{"count":2,"share":0.6060606060606061,"item":"poltergeist-brigand"},
+{"count":2,"share":0.6060606060606061,"item":"felid-shapeshifter"},
+{"count":2,"share":0.6060606060606061,"item":"djinni-conjurer"},
+{"count":2,"share":0.6060606060606061,"item":"human-shapeshifter"},
+{"count":2,"share":0.6060606060606061,"item":"gnoll-reaver"},
+{"count":1,"share":0.30303030303030304,"item":"felid-chaos knight"},
+{"count":1,"share":0.30303030303030304,"item":"djinni-necromancer"},
+{"count":1,"share":0.30303030303030304,"item":"djinni-wanderer"},
+{"count":1,"share":0.30303030303030304,"item":"armataur-warper"},
+{"count":1,"share":0.30303030303030304,"item":"troll-cinder acolyte"},
+{"count":1,"share":0.30303030303030304,"item":"kobold-chaos knight"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-fire elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"spriggan-hunter"},
+{"count":1,"share":0.30303030303030304,"item":"barachi-gladiator"},
+{"count":1,"share":0.30303030303030304,"item":"mountain dwarf-warper"},
+{"count":1,"share":0.30303030303030304,"item":"merfolk-reaver"},
+{"count":1,"share":0.30303030303030304,"item":"formicid-brigand"},
+{"count":1,"share":0.30303030303030304,"item":"barachi-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"djinni-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"formicid-monk"},
+{"count":1,"share":0.30303030303030304,"item":"gnoll-ice elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"formicid-hunter"},
+{"count":1,"share":0.30303030303030304,"item":"demigod-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"human-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"merfolk-warper"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-necromancer"},
+{"count":1,"share":0.30303030303030304,"item":"naga-conjurer"},
+{"count":1,"share":0.30303030303030304,"item":"mountain dwarf-hunter"},
+{"count":1,"share":0.30303030303030304,"item":"merfolk-hexslinger"},
+{"count":1,"share":0.30303030303030304,"item":"djinni-alchemist"},
+{"count":1,"share":0.30303030303030304,"item":"gnoll-enchanter"},
+{"count":1,"share":0.30303030303030304,"item":"human-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"djinni-hexslinger"},
+{"count":1,"share":0.30303030303030304,"item":"gnoll-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"barachi-berserker"},
+{"count":1,"share":0.30303030303030304,"item":"gargoyle-conjurer"},
+{"count":1,"share":0.30303030303030304,"item":"draconian-alchemist"},
+{"count":1,"share":0.30303030303030304,"item":"octopode-hedge wizard"},
+{"count":1,"share":0.30303030303030304,"item":"troll-wanderer"},
+{"count":1,"share":0.30303030303030304,"item":"gnoll-warper"},
+{"count":1,"share":0.30303030303030304,"item":"draconian-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"merfolk-berserker"},
+{"count":1,"share":0.30303030303030304,"item":"coglin-artificer"},
+{"count":1,"share":0.30303030303030304,"item":"felid-wanderer"},
+{"count":1,"share":0.30303030303030304,"item":"felid-hedge wizard"},
+{"count":1,"share":0.30303030303030304,"item":"troll-hexslinger"},
+{"count":1,"share":0.30303030303030304,"item":"vine stalker-conjurer"},
+{"count":1,"share":0.30303030303030304,"item":"minotaur-air elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"formicid-alchemist"},
+{"count":1,"share":0.30303030303030304,"item":"naga-alchemist"},
+{"count":1,"share":0.30303030303030304,"item":"troll-delver"},
+{"count":1,"share":0.30303030303030304,"item":"revenant-artificer"},
+{"count":1,"share":0.30303030303030304,"item":"troll-brigand"},
+{"count":1,"share":0.30303030303030304,"item":"vine stalker-berserker"},
+{"count":1,"share":0.30303030303030304,"item":"tengu-fire elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"draconian-hunter"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-hexslinger"},
+{"count":1,"share":0.30303030303030304,"item":"spriggan-hexslinger"},
+{"count":1,"share":0.30303030303030304,"item":"armataur-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"minotaur-shapeshifter"},
+{"count":1,"share":0.30303030303030304,"item":"draconian-air elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"oni-forgewright"},
+{"count":1,"share":0.30303030303030304,"item":"vine stalker-monk"},
+{"count":1,"share":0.30303030303030304,"item":"mummy-ice elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"mountain dwarf-shapeshifter"},
+{"count":1,"share":0.30303030303030304,"item":"tengu-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"kobold-delver"},
+{"count":1,"share":0.30303030303030304,"item":"felid-summoner"},
+{"count":1,"share":0.30303030303030304,"item":"tengu-air elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"tengu-berserker"},
+{"count":1,"share":0.30303030303030304,"item":"revenant-alchemist"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"djinni-artificer"},
+{"count":1,"share":0.30303030303030304,"item":"gargoyle-necromancer"},
+{"count":1,"share":0.30303030303030304,"item":"minotaur-reaver"},
+{"count":1,"share":0.30303030303030304,"item":"naga-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"mountain dwarf-wanderer"},
+{"count":1,"share":0.30303030303030304,"item":"felid-monk"},
+{"count":1,"share":0.30303030303030304,"item":"armataur-conjurer"},
+{"count":1,"share":0.30303030303030304,"item":"demigod-wanderer"},
+{"count":1,"share":0.30303030303030304,"item":"revenant-gladiator"},
+{"count":1,"share":0.30303030303030304,"item":"coglin-hunter"},
+{"count":1,"share":0.30303030303030304,"item":"gnoll-hedge wizard"},
+{"count":1,"share":0.30303030303030304,"item":"oni-warper"},
+{"count":1,"share":0.30303030303030304,"item":"poltergeist-alchemist"},
+{"count":1,"share":0.30303030303030304,"item":"oni-fire elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"tengu-hunter"},
+{"count":1,"share":0.30303030303030304,"item":"gargoyle-reaver"},
+{"count":1,"share":0.30303030303030304,"item":"coglin-wanderer"},
+{"count":1,"share":0.30303030303030304,"item":"minotaur-hunter"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"formicid-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"djinni-fire elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"formicid-delver"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-brigand"},
+{"count":1,"share":0.30303030303030304,"item":"armataur-berserker"},
+{"count":1,"share":0.30303030303030304,"item":"draconian-brigand"},
+{"count":1,"share":0.30303030303030304,"item":"mountain dwarf-earth elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"barachi-artificer"},
+{"count":1,"share":0.30303030303030304,"item":"gargoyle-fire elementalist"},
+{"count":1,"share":0.30303030303030304,"item":"minotaur-wanderer"},
+{"count":1,"share":0.30303030303030304,"item":"mountain dwarf-reaver"},
+{"count":1,"share":0.30303030303030304,"item":"oni-cinder acolyte"},
+{"count":1,"share":0.30303030303030304,"item":"troll-monk"},
+{"count":1,"share":0.30303030303030304,"item":"revenant-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-hedge wizard"},
+{"count":1,"share":0.30303030303030304,"item":"mountain dwarf-cinder acolyte"},
+{"count":1,"share":0.30303030303030304,"item":"minotaur-summoner"},
+{"count":1,"share":0.30303030303030304,"item":"demonspawn-conjurer"},
+{"count":1,"share":0.30303030303030304,"item":"coglin-reaver"},
+{"count":1,"share":0.30303030303030304,"item":"tengu-reaver"},
+{"count":1,"share":0.30303030303030304,"item":"deep elf-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"deep elf-necromancer"},
+{"count":1,"share":0.30303030303030304,"item":"revenant-hedge wizard"},
+{"count":1,"share":0.30303030303030304,"item":"oni-fighter"},
+{"count":1,"share":0.30303030303030304,"item":"mummy-delver"},
+{"count":1,"share":0.30303030303030304,"item":"naga-shapeshifter"},
+
+Top 200(592 games):
+{"count":52,"share":6.744487678339818,"item":"minotaur-fighter"},
+{"count":28,"share":3.631647211413749,"item":"gargoyle-earth elementalist"},
+{"count":24,"share":3.11284046692607,"item":"gnoll-ice elementalist"},
+{"count":16,"share":2.075226977950713,"item":"gargoyle-fighter"},
+{"count":15,"share":1.9455252918287937,"item":"troll-fighter"},
+{"count":15,"share":1.9455252918287937,"item":"mountain dwarf-fighter"},
+{"count":15,"share":1.9455252918287937,"item":"minotaur-berserker"},
+{"count":12,"share":1.556420233463035,"item":"poltergeist-enchanter"},
+{"count":11,"share":1.4267185473411155,"item":"poltergeist-hedge wizard"},
+{"count":10,"share":1.297016861219196,"item":"revenant-wanderer"},
+{"count":10,"share":1.297016861219196,"item":"merfolk-gladiator"},
+{"count":9,"share":1.1673151750972763,"item":"formicid-shapeshifter"},
+{"count":9,"share":1.1673151750972763,"item":"minotaur-gladiator"},
+{"count":9,"share":1.1673151750972763,"item":"revenant-ice elementalist"},
+{"count":9,"share":1.1673151750972763,"item":"gargoyle-gladiator"},
+{"count":9,"share":1.1673151750972763,"item":"vine stalker-shapeshifter"},
+{"count":9,"share":1.1673151750972763,"item":"djinni-conjurer"},
+{"count":8,"share":1.0376134889753565,"item":"revenant-brigand"},
+{"count":8,"share":1.0376134889753565,"item":"minotaur-monk"},
+{"count":8,"share":1.0376134889753565,"item":"troll-shapeshifter"},
+{"count":8,"share":1.0376134889753565,"item":"demonspawn-gladiator"},
+{"count":7,"share":0.9079118028534372,"item":"deep elf-shapeshifter"},
+{"count":7,"share":0.9079118028534372,"item":"octopode-shapeshifter"},
+{"count":7,"share":0.9079118028534372,"item":"octopode-wanderer"},
+{"count":6,"share":0.7782101167315175,"item":"draconian-conjurer"},
+{"count":6,"share":0.7782101167315175,"item":"draconian-shapeshifter"},
+{"count":6,"share":0.7782101167315175,"item":"merfolk-shapeshifter"},
+{"count":6,"share":0.7782101167315175,"item":"poltergeist-alchemist"},
+{"count":5,"share":0.648508430609598,"item":"vine stalker-fighter"},
+{"count":5,"share":0.648508430609598,"item":"gargoyle-berserker"},
+{"count":5,"share":0.648508430609598,"item":"gnoll-earth elementalist"},
+{"count":5,"share":0.648508430609598,"item":"demigod-hunter"},
+{"count":5,"share":0.648508430609598,"item":"mountain dwarf-monk"},
+{"count":5,"share":0.648508430609598,"item":"deep elf-conjurer"},
+{"count":5,"share":0.648508430609598,"item":"felid-summoner"},
+{"count":5,"share":0.648508430609598,"item":"revenant-fighter"},
+{"count":5,"share":0.648508430609598,"item":"mountain dwarf-forgewright"},
+{"count":5,"share":0.648508430609598,"item":"gnoll-wanderer"},
+{"count":4,"share":0.5188067444876783,"item":"kobold-shapeshifter"},
+{"count":4,"share":0.5188067444876783,"item":"human-conjurer"},
+{"count":4,"share":0.5188067444876783,"item":"coglin-hedge wizard"},
+{"count":4,"share":0.5188067444876783,"item":"barachi-ice elementalist"},
+{"count":4,"share":0.5188067444876783,"item":"revenant-monk"},
+{"count":4,"share":0.5188067444876783,"item":"gargoyle-monk"},
+{"count":4,"share":0.5188067444876783,"item":"vine stalker-brigand"},
+{"count":4,"share":0.5188067444876783,"item":"tengu-air elementalist"},
+{"count":4,"share":0.5188067444876783,"item":"coglin-hunter"},
+{"count":4,"share":0.5188067444876783,"item":"formicid-fighter"},
+{"count":3,"share":0.38910505836575876,"item":"spriggan-enchanter"},
+{"count":3,"share":0.38910505836575876,"item":"barachi-hunter"},
+{"count":3,"share":0.38910505836575876,"item":"demonspawn-fire elementalist"},
+{"count":3,"share":0.38910505836575876,"item":"formicid-hunter"},
+{"count":3,"share":0.38910505836575876,"item":"demigod-earth elementalist"},
+{"count":3,"share":0.38910505836575876,"item":"human-fire elementalist"},
+{"count":3,"share":0.38910505836575876,"item":"oni-monk"},
+{"count":3,"share":0.38910505836575876,"item":"demonspawn-monk"},
+{"count":3,"share":0.38910505836575876,"item":"demonspawn-ice elementalist"},
+{"count":3,"share":0.38910505836575876,"item":"minotaur-brigand"},
+{"count":3,"share":0.38910505836575876,"item":"draconian-alchemist"},
+{"count":3,"share":0.38910505836575876,"item":"deep elf-earth elementalist"},
+{"count":3,"share":0.38910505836575876,"item":"felid-delver"},
+{"count":3,"share":0.38910505836575876,"item":"naga-alchemist"},
+{"count":3,"share":0.38910505836575876,"item":"kobold-brigand"},
+{"count":3,"share":0.38910505836575876,"item":"draconian-hunter"},
+{"count":3,"share":0.38910505836575876,"item":"oni-shapeshifter"},
+{"count":3,"share":0.38910505836575876,"item":"vine stalker-gladiator"},
+{"count":3,"share":0.38910505836575876,"item":"draconian-air elementalist"},
+{"count":3,"share":0.38910505836575876,"item":"felid-shapeshifter"},
+{"count":3,"share":0.38910505836575876,"item":"demonspawn-fighter"},
+{"count":3,"share":0.38910505836575876,"item":"armataur-berserker"},
+{"count":3,"share":0.38910505836575876,"item":"minotaur-wanderer"},
+{"count":3,"share":0.38910505836575876,"item":"demonspawn-conjurer"},
+{"count":3,"share":0.38910505836575876,"item":"coglin-fighter"},
+{"count":3,"share":0.38910505836575876,"item":"mountain dwarf-gladiator"},
+{"count":3,"share":0.38910505836575876,"item":"naga-ice elementalist"},
+{"count":3,"share":0.38910505836575876,"item":"gnoll-alchemist"},
+{"count":3,"share":0.38910505836575876,"item":"formicid-earth elementalist"},
+{"count":2,"share":0.25940337224383914,"item":"troll-warper"},
+{"count":2,"share":0.25940337224383914,"item":"human-alchemist"},
+{"count":2,"share":0.25940337224383914,"item":"formicid-brigand"},
+{"count":2,"share":0.25940337224383914,"item":"formicid-monk"},
+{"count":2,"share":0.25940337224383914,"item":"human-earth elementalist"},
+{"count":2,"share":0.25940337224383914,"item":"draconian-monk"},
+{"count":2,"share":0.25940337224383914,"item":"djinni-air elementalist"},
+{"count":2,"share":0.25940337224383914,"item":"naga-conjurer"},
+{"count":2,"share":0.25940337224383914,"item":"draconian-artificer"},
+{"count":2,"share":0.25940337224383914,"item":"gargoyle-conjurer"},
+{"count":2,"share":0.25940337224383914,"item":"vine stalker-artificer"},
+{"count":2,"share":0.25940337224383914,"item":"draconian-earth elementalist"},
+{"count":2,"share":0.25940337224383914,"item":"felid-enchanter"},
+{"count":2,"share":0.25940337224383914,"item":"troll-hexslinger"},
+{"count":2,"share":0.25940337224383914,"item":"demonspawn-berserker"},
+{"count":2,"share":0.25940337224383914,"item":"revenant-conjurer"},
+{"count":2,"share":0.25940337224383914,"item":"human-gladiator"},
+{"count":2,"share":0.25940337224383914,"item":"vine stalker-berserker"},
+{"count":2,"share":0.25940337224383914,"item":"minotaur-shapeshifter"},
+{"count":2,"share":0.25940337224383914,"item":"poltergeist-brigand"},
+{"count":2,"share":0.25940337224383914,"item":"minotaur-reaver"},
+{"count":2,"share":0.25940337224383914,"item":"armataur-conjurer"},
+{"count":2,"share":0.25940337224383914,"item":"demigod-wanderer"},
+{"count":2,"share":0.25940337224383914,"item":"revenant-gladiator"},
+{"count":2,"share":0.25940337224383914,"item":"gnoll-hedge wizard"},
+{"count":2,"share":0.25940337224383914,"item":"human-shapeshifter"},
+{"count":2,"share":0.25940337224383914,"item":"minotaur-hunter"},
+{"count":2,"share":0.25940337224383914,"item":"gnoll-reaver"},
+{"count":2,"share":0.25940337224383914,"item":"djinni-fire elementalist"},
+{"count":2,"share":0.25940337224383914,"item":"formicid-delver"},
+{"count":2,"share":0.25940337224383914,"item":"draconian-brigand"},
+{"count":2,"share":0.25940337224383914,"item":"mountain dwarf-reaver"},
+{"count":2,"share":0.25940337224383914,"item":"troll-monk"},
+{"count":2,"share":0.25940337224383914,"item":"demonspawn-hedge wizard"},
+{"count":2,"share":0.25940337224383914,"item":"mountain dwarf-cinder acolyte"},
+{"count":2,"share":0.25940337224383914,"item":"naga-shapeshifter"},
+{"count":2,"share":0.25940337224383914,"item":"naga-gladiator"},
+{"count":2,"share":0.25940337224383914,"item":"kobold-hunter"},
+{"count":2,"share":0.25940337224383914,"item":"octopode-alchemist"},
+{"count":2,"share":0.25940337224383914,"item":"tengu-gladiator"},
+{"count":2,"share":0.25940337224383914,"item":"poltergeist-chaos knight"},
+{"count":2,"share":0.25940337224383914,"item":"tengu-conjurer"},
+{"count":2,"share":0.25940337224383914,"item":"merfolk-fighter"},
+{"count":2,"share":0.25940337224383914,"item":"demonspawn-shapeshifter"},
+{"count":2,"share":0.25940337224383914,"item":"gargoyle-wanderer"},
+{"count":2,"share":0.25940337224383914,"item":"barachi-air elementalist"},
+{"count":2,"share":0.25940337224383914,"item":"merfolk-monk"},
+{"count":2,"share":0.25940337224383914,"item":"troll-gladiator"},
+{"count":2,"share":0.25940337224383914,"item":"demigod-conjurer"},
+{"count":2,"share":0.25940337224383914,"item":"gnoll-air elementalist"},
+{"count":2,"share":0.25940337224383914,"item":"minotaur-hexslinger"},
+{"count":2,"share":0.25940337224383914,"item":"poltergeist-necromancer"},
+{"count":2,"share":0.25940337224383914,"item":"coglin-forgewright"},
+{"count":2,"share":0.25940337224383914,"item":"djinni-hedge wizard"},
+{"count":2,"share":0.25940337224383914,"item":"oni-alchemist"},
+{"count":2,"share":0.25940337224383914,"item":"gnoll-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"felid-chaos knight"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-necromancer"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"armataur-warper"},
+{"count":1,"share":0.12970168612191957,"item":"troll-cinder acolyte"},
+{"count":1,"share":0.12970168612191957,"item":"kobold-chaos knight"},
+{"count":1,"share":0.12970168612191957,"item":"spriggan-hunter"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-gladiator"},
+{"count":1,"share":0.12970168612191957,"item":"mountain dwarf-warper"},
+{"count":1,"share":0.12970168612191957,"item":"merfolk-reaver"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-earth elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-earth elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"merfolk-warper"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-necromancer"},
+{"count":1,"share":0.12970168612191957,"item":"mountain dwarf-hunter"},
+{"count":1,"share":0.12970168612191957,"item":"merfolk-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-alchemist"},
+{"count":1,"share":0.12970168612191957,"item":"gnoll-enchanter"},
+{"count":1,"share":0.12970168612191957,"item":"human-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-berserker"},
+{"count":1,"share":0.12970168612191957,"item":"octopode-hedge wizard"},
+{"count":1,"share":0.12970168612191957,"item":"troll-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"gnoll-warper"},
+{"count":1,"share":0.12970168612191957,"item":"merfolk-berserker"},
+{"count":1,"share":0.12970168612191957,"item":"coglin-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"felid-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"felid-hedge wizard"},
+{"count":1,"share":0.12970168612191957,"item":"vine stalker-conjurer"},
+{"count":1,"share":0.12970168612191957,"item":"minotaur-air elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"formicid-alchemist"},
+{"count":1,"share":0.12970168612191957,"item":"troll-delver"},
+{"count":1,"share":0.12970168612191957,"item":"revenant-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"troll-brigand"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-fire elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"spriggan-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"armataur-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"oni-forgewright"},
+{"count":1,"share":0.12970168612191957,"item":"vine stalker-monk"},
+{"count":1,"share":0.12970168612191957,"item":"mummy-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"mountain dwarf-shapeshifter"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"kobold-delver"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-berserker"},
+{"count":1,"share":0.12970168612191957,"item":"revenant-alchemist"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-earth elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"gargoyle-necromancer"},
+{"count":1,"share":0.12970168612191957,"item":"naga-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"mountain dwarf-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"felid-monk"},
+{"count":1,"share":0.12970168612191957,"item":"oni-warper"},
+{"count":1,"share":0.12970168612191957,"item":"oni-fire elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-hunter"},
+{"count":1,"share":0.12970168612191957,"item":"gargoyle-reaver"},
+{"count":1,"share":0.12970168612191957,"item":"coglin-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-brigand"},
+{"count":1,"share":0.12970168612191957,"item":"mountain dwarf-earth elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"gargoyle-fire elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"oni-cinder acolyte"},
+{"count":1,"share":0.12970168612191957,"item":"minotaur-summoner"},
+{"count":1,"share":0.12970168612191957,"item":"coglin-reaver"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-reaver"},
+{"count":1,"share":0.12970168612191957,"item":"deep elf-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"deep elf-necromancer"},
+{"count":1,"share":0.12970168612191957,"item":"revenant-hedge wizard"},
+{"count":1,"share":0.12970168612191957,"item":"oni-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"mummy-delver"},
+{"count":1,"share":0.12970168612191957,"item":"minotaur-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"vine stalker-necromancer"},
+{"count":1,"share":0.12970168612191957,"item":"gnoll-fire elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"oni-air elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"gnoll-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"gargoyle-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"naga-air elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-delver"},
+{"count":1,"share":0.12970168612191957,"item":"coglin-berserker"},
+{"count":1,"share":0.12970168612191957,"item":"coglin-gladiator"},
+{"count":1,"share":0.12970168612191957,"item":"draconian-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"mountain dwarf-berserker"},
+{"count":1,"share":0.12970168612191957,"item":"armataur-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"draconian-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"human-necromancer"},
+{"count":1,"share":0.12970168612191957,"item":"draconian-gladiator"},
+{"count":1,"share":0.12970168612191957,"item":"octopode-earth elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"troll-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"oni-hunter"},
+{"count":1,"share":0.12970168612191957,"item":"minotaur-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-monk"},
+{"count":1,"share":0.12970168612191957,"item":"formicid-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"formicid-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-hunter"},
+{"count":1,"share":0.12970168612191957,"item":"oni-gladiator"},
+{"count":1,"share":0.12970168612191957,"item":"draconian-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"octopode-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"merfolk-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"merfolk-chaos knight"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-forgewright"},
+{"count":1,"share":0.12970168612191957,"item":"spriggan-air elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-fighter"},
+{"count":1,"share":0.12970168612191957,"item":"oni-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-summoner"},
+{"count":1,"share":0.12970168612191957,"item":"kobold-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"barachi-alchemist"},
+{"count":1,"share":0.12970168612191957,"item":"octopode-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"felid-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"gnoll-shapeshifter"},
+{"count":1,"share":0.12970168612191957,"item":"human-hunter"},
+{"count":1,"share":0.12970168612191957,"item":"draconian-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"human-monk"},
+{"count":1,"share":0.12970168612191957,"item":"demigod-artificer"},
+{"count":1,"share":0.12970168612191957,"item":"revenant-earth elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"gargoyle-cinder acolyte"},
+{"count":1,"share":0.12970168612191957,"item":"human-air elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"minotaur-cinder acolyte"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-forgewright"},
+{"count":1,"share":0.12970168612191957,"item":"spriggan-delver"},
+{"count":1,"share":0.12970168612191957,"item":"coglin-warper"},
+{"count":1,"share":0.12970168612191957,"item":"merfolk-delver"},
+{"count":1,"share":0.12970168612191957,"item":"oni-wanderer"},
+{"count":1,"share":0.12970168612191957,"item":"oni-chaos knight"},
+{"count":1,"share":0.12970168612191957,"item":"armataur-delver"},
+{"count":1,"share":0.12970168612191957,"item":"demigod-air elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"poltergeist-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-forgewright"},
+{"count":1,"share":0.12970168612191957,"item":"tengu-hedge wizard"},
+{"count":1,"share":0.12970168612191957,"item":"spriggan-warper"},
+{"count":1,"share":0.12970168612191957,"item":"minotaur-delver"},
+{"count":1,"share":0.12970168612191957,"item":"kobold-monk"},
+{"count":1,"share":0.12970168612191957,"item":"felid-berserker"},
+{"count":1,"share":0.12970168612191957,"item":"demigod-warper"},
+{"count":1,"share":0.12970168612191957,"item":"demigod-brigand"},
+{"count":1,"share":0.12970168612191957,"item":"djinni-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"oni-brigand"},
+{"count":1,"share":0.12970168612191957,"item":"spriggan-monk"},
+{"count":1,"share":0.12970168612191957,"item":"deep elf-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"kobold-ice elementalist"},
+{"count":1,"share":0.12970168612191957,"item":"poltergeist-hexslinger"},
+{"count":1,"share":0.12970168612191957,"item":"demonspawn-delver"},
+
+15 Runes(592 games):
+{"count":9,"share":6,"item":"gargoyle-earth elementalist"},
+{"count":7,"share":4.666666666666667,"item":"troll-fighter"},
+{"count":7,"share":4.666666666666667,"item":"gargoyle-fighter"},
+{"count":5,"share":3.3333333333333335,"item":"minotaur-fighter"},
+{"count":5,"share":3.3333333333333335,"item":"gargoyle-gladiator"},
+{"count":4,"share":2.666666666666667,"item":"octopode-shapeshifter"},
+{"count":3,"share":2,"item":"vine stalker-fighter"},
+{"count":3,"share":2,"item":"human-conjurer"},
+{"count":3,"share":2,"item":"revenant-ice elementalist"},
+{"count":3,"share":2,"item":"poltergeist-enchanter"},
+{"count":3,"share":2,"item":"barachi-ice elementalist"},
+{"count":3,"share":2,"item":"formicid-fighter"},
+{"count":2,"share":1.3333333333333335,"item":"human-fire elementalist"},
+{"count":2,"share":1.3333333333333335,"item":"mountain dwarf-fighter"},
+{"count":2,"share":1.3333333333333335,"item":"gnoll-earth elementalist"},
+{"count":2,"share":1.3333333333333335,"item":"deep elf-earth elementalist"},
+{"count":2,"share":1.3333333333333335,"item":"revenant-wanderer"},
+{"count":2,"share":1.3333333333333335,"item":"felid-delver"},
+{"count":2,"share":1.3333333333333335,"item":"deep elf-conjurer"},
+{"count":2,"share":1.3333333333333335,"item":"djinni-conjurer"},
+{"count":2,"share":1.3333333333333335,"item":"draconian-shapeshifter"},
+{"count":2,"share":1.3333333333333335,"item":"gnoll-wanderer"},
+{"count":2,"share":1.3333333333333335,"item":"coglin-fighter"},
+{"count":2,"share":1.3333333333333335,"item":"felid-summoner"},
+{"count":1,"share":0.6666666666666667,"item":"djinni-necromancer"},
+{"count":1,"share":0.6666666666666667,"item":"djinni-wanderer"},
+{"count":1,"share":0.6666666666666667,"item":"human-alchemist"},
+{"count":1,"share":0.6666666666666667,"item":"armataur-warper"},
+{"count":1,"share":0.6666666666666667,"item":"troll-cinder acolyte"},
+{"count":1,"share":0.6666666666666667,"item":"kobold-chaos knight"},
+{"count":1,"share":0.6666666666666667,"item":"revenant-brigand"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-fire elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"deep elf-shapeshifter"},
+{"count":1,"share":0.6666666666666667,"item":"spriggan-hunter"},
+{"count":1,"share":0.6666666666666667,"item":"formicid-brigand"},
+{"count":1,"share":0.6666666666666667,"item":"barachi-earth elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"djinni-earth elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"formicid-monk"},
+{"count":1,"share":0.6666666666666667,"item":"formicid-hunter"},
+{"count":1,"share":0.6666666666666667,"item":"minotaur-gladiator"},
+{"count":1,"share":0.6666666666666667,"item":"human-earth elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"merfolk-warper"},
+{"count":1,"share":0.6666666666666667,"item":"poltergeist-hedge wizard"},
+{"count":1,"share":0.6666666666666667,"item":"djinni-hexslinger"},
+{"count":1,"share":0.6666666666666667,"item":"felid-enchanter"},
+{"count":1,"share":0.6666666666666667,"item":"felid-wanderer"},
+{"count":1,"share":0.6666666666666667,"item":"felid-hedge wizard"},
+{"count":1,"share":0.6666666666666667,"item":"vine stalker-conjurer"},
+{"count":1,"share":0.6666666666666667,"item":"demigod-hunter"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-ice elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"tengu-fire elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-hexslinger"},
+{"count":1,"share":0.6666666666666667,"item":"oni-shapeshifter"},
+{"count":1,"share":0.6666666666666667,"item":"vine stalker-gladiator"},
+{"count":1,"share":0.6666666666666667,"item":"draconian-air elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"oni-forgewright"},
+{"count":1,"share":0.6666666666666667,"item":"merfolk-shapeshifter"},
+{"count":1,"share":0.6666666666666667,"item":"vine stalker-monk"},
+{"count":1,"share":0.6666666666666667,"item":"mummy-ice elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"kobold-delver"},
+{"count":1,"share":0.6666666666666667,"item":"revenant-conjurer"},
+{"count":1,"share":0.6666666666666667,"item":"poltergeist-brigand"},
+{"count":1,"share":0.6666666666666667,"item":"tengu-berserker"},
+{"count":1,"share":0.6666666666666667,"item":"draconian-artificer"},
+{"count":1,"share":0.6666666666666667,"item":"revenant-alchemist"},
+{"count":1,"share":0.6666666666666667,"item":"felid-shapeshifter"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-earth elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"mountain dwarf-wanderer"},
+{"count":1,"share":0.6666666666666667,"item":"coglin-hunter"},
+{"count":1,"share":0.6666666666666667,"item":"kobold-brigand"},
+{"count":1,"share":0.6666666666666667,"item":"djinni-fire elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"gargoyle-monk"},
+{"count":1,"share":0.6666666666666667,"item":"revenant-fighter"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-hedge wizard"},
+{"count":1,"share":0.6666666666666667,"item":"coglin-reaver"},
+{"count":1,"share":0.6666666666666667,"item":"oni-monk"},
+{"count":1,"share":0.6666666666666667,"item":"troll-shapeshifter"},
+{"count":1,"share":0.6666666666666667,"item":"vine stalker-necromancer"},
+{"count":1,"share":0.6666666666666667,"item":"naga-alchemist"},
+{"count":1,"share":0.6666666666666667,"item":"octopode-alchemist"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-conjurer"},
+{"count":1,"share":0.6666666666666667,"item":"gargoyle-artificer"},
+{"count":1,"share":0.6666666666666667,"item":"barachi-delver"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-gladiator"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-hunter"},
+{"count":1,"share":0.6666666666666667,"item":"oni-gladiator"},
+{"count":1,"share":0.6666666666666667,"item":"demonspawn-fighter"},
+{"count":1,"share":0.6666666666666667,"item":"octopode-fighter"},
+{"count":1,"share":0.6666666666666667,"item":"barachi-forgewright"},
+{"count":1,"share":0.6666666666666667,"item":"barachi-alchemist"},
+{"count":1,"share":0.6666666666666667,"item":"vine stalker-berserker"},
+{"count":1,"share":0.6666666666666667,"item":"merfolk-gladiator"},
+{"count":1,"share":0.6666666666666667,"item":"draconian-conjurer"},
+{"count":1,"share":0.6666666666666667,"item":"gnoll-air elementalist"},
+{"count":1,"share":0.6666666666666667,"item":"kobold-ice elementalist"},
+
+Zigg Cleared(592 games):
+{"count":6,"share":10,"item":"gargoyle-earth elementalist"},
+{"count":4,"share":6.666666666666667,"item":"human-conjurer"},
+{"count":2,"share":3.3333333333333335,"item":"revenant-ice elementalist"},
+{"count":2,"share":3.3333333333333335,"item":"deep elf-earth elementalist"},
+{"count":2,"share":3.3333333333333335,"item":"revenant-wanderer"},
+{"count":2,"share":3.3333333333333335,"item":"poltergeist-enchanter"},
+{"count":2,"share":3.3333333333333335,"item":"vine stalker-gladiator"},
+{"count":2,"share":3.3333333333333335,"item":"djinni-conjurer"},
+{"count":2,"share":3.3333333333333335,"item":"octopode-shapeshifter"},
+{"count":1,"share":1.6666666666666667,"item":"djinni-necromancer"},
+{"count":1,"share":1.6666666666666667,"item":"djinni-wanderer"},
+{"count":1,"share":1.6666666666666667,"item":"vine stalker-fighter"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-fire elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"deep elf-shapeshifter"},
+{"count":1,"share":1.6666666666666667,"item":"human-earth elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-monk"},
+{"count":1,"share":1.6666666666666667,"item":"naga-conjurer"},
+{"count":1,"share":1.6666666666666667,"item":"human-fire elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"felid-delver"},
+{"count":1,"share":1.6666666666666667,"item":"felid-wanderer"},
+{"count":1,"share":1.6666666666666667,"item":"felid-hedge wizard"},
+{"count":1,"share":1.6666666666666667,"item":"vine stalker-conjurer"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-ice elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"tengu-fire elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-hexslinger"},
+{"count":1,"share":1.6666666666666667,"item":"draconian-air elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"deep elf-conjurer"},
+{"count":1,"share":1.6666666666666667,"item":"oni-forgewright"},
+{"count":1,"share":1.6666666666666667,"item":"revenant-conjurer"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-earth elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-hedge wizard"},
+{"count":1,"share":1.6666666666666667,"item":"oni-monk"},
+{"count":1,"share":1.6666666666666667,"item":"troll-shapeshifter"},
+{"count":1,"share":1.6666666666666667,"item":"vine stalker-necromancer"},
+{"count":1,"share":1.6666666666666667,"item":"naga-alchemist"},
+{"count":1,"share":1.6666666666666667,"item":"octopode-alchemist"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-conjurer"},
+{"count":1,"share":1.6666666666666667,"item":"gnoll-earth elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"demonspawn-gladiator"},
+{"count":1,"share":1.6666666666666667,"item":"octopode-fighter"},
+{"count":1,"share":1.6666666666666667,"item":"barachi-alchemist"},
+{"count":1,"share":1.6666666666666667,"item":"gnoll-wanderer"},
+{"count":1,"share":1.6666666666666667,"item":"tengu-air elementalist"},
+{"count":1,"share":1.6666666666666667,"item":"draconian-conjurer"},
+{"count":1,"share":1.6666666666666667,"item":"kobold-ice elementalist"},
+
+No Zigg(592 games):
+{"count":48,"share":8.108108108108109,"item":"minotaur-fighter"},
+{"count":23,"share":3.885135135135135,"item":"gnoll-ice elementalist"},
+{"count":16,"share":2.7027027027027026,"item":"gargoyle-earth elementalist"},
+{"count":14,"share":2.364864864864865,"item":"mountain dwarf-fighter"},
+{"count":12,"share":2.027027027027027,"item":"minotaur-berserker"},
+{"count":12,"share":2.027027027027027,"item":"gargoyle-fighter"},
+{"count":10,"share":1.6891891891891893,"item":"poltergeist-enchanter"},
+{"count":9,"share":1.5202702702702704,"item":"formicid-shapeshifter"},
+{"count":9,"share":1.5202702702702704,"item":"poltergeist-hedge wizard"},
+{"count":9,"share":1.5202702702702704,"item":"troll-fighter"},
+{"count":8,"share":1.3513513513513513,"item":"revenant-brigand"},
+{"count":8,"share":1.3513513513513513,"item":"revenant-wanderer"},
+{"count":8,"share":1.3513513513513513,"item":"minotaur-monk"},
+{"count":8,"share":1.3513513513513513,"item":"merfolk-gladiator"},
+{"count":8,"share":1.3513513513513513,"item":"vine stalker-shapeshifter"},
+{"count":7,"share":1.1824324324324325,"item":"gargoyle-gladiator"},
+{"count":7,"share":1.1824324324324325,"item":"troll-shapeshifter"},
+{"count":7,"share":1.1824324324324325,"item":"demonspawn-gladiator"},
+{"count":6,"share":1.0135135135135136,"item":"deep elf-shapeshifter"},
+{"count":6,"share":1.0135135135135136,"item":"minotaur-gladiator"},
+{"count":6,"share":1.0135135135135136,"item":"merfolk-shapeshifter"},
+{"count":6,"share":1.0135135135135136,"item":"poltergeist-alchemist"},
+{"count":6,"share":1.0135135135135136,"item":"octopode-wanderer"},
+{"count":5,"share":0.8445945945945946,"item":"gargoyle-berserker"},
+{"count":5,"share":0.8445945945945946,"item":"demigod-hunter"},
+{"count":5,"share":0.8445945945945946,"item":"mountain dwarf-monk"},
+{"count":5,"share":0.8445945945945946,"item":"draconian-shapeshifter"},
+{"count":5,"share":0.8445945945945946,"item":"djinni-conjurer"},
+{"count":5,"share":0.8445945945945946,"item":"mountain dwarf-forgewright"},
+{"count":4,"share":0.6756756756756757,"item":"coglin-hedge wizard"},
+{"count":4,"share":0.6756756756756757,"item":"revenant-monk"},
+{"count":4,"share":0.6756756756756757,"item":"gargoyle-monk"},
+{"count":4,"share":0.6756756756756757,"item":"draconian-conjurer"},
+{"count":4,"share":0.6756756756756757,"item":"gnoll-wanderer"},
+{"count":4,"share":0.6756756756756757,"item":"revenant-ice elementalist"},
+{"count":3,"share":0.5067567567567568,"item":"spriggan-enchanter"},
+{"count":3,"share":0.5067567567567568,"item":"formicid-hunter"},
+{"count":3,"share":0.5067567567567568,"item":"demigod-earth elementalist"},
+{"count":3,"share":0.5067567567567568,"item":"kobold-shapeshifter"},
+{"count":3,"share":0.5067567567567568,"item":"minotaur-brigand"},
+{"count":3,"share":0.5067567567567568,"item":"draconian-alchemist"},
+{"count":3,"share":0.5067567567567568,"item":"draconian-hunter"},
+{"count":3,"share":0.5067567567567568,"item":"vine stalker-brigand"},
+{"count":3,"share":0.5067567567567568,"item":"felid-summoner"},
+{"count":3,"share":0.5067567567567568,"item":"armataur-berserker"},
+{"count":3,"share":0.5067567567567568,"item":"coglin-hunter"},
+{"count":3,"share":0.5067567567567568,"item":"revenant-fighter"},
+{"count":3,"share":0.5067567567567568,"item":"gnoll-alchemist"},
+{"count":3,"share":0.5067567567567568,"item":"deep elf-conjurer"},
+{"count":3,"share":0.5067567567567568,"item":"formicid-earth elementalist"},
+{"count":2,"share":0.33783783783783783,"item":"troll-warper"},
+{"count":2,"share":0.33783783783783783,"item":"barachi-hunter"},
+{"count":2,"share":0.33783783783783783,"item":"oni-monk"},
+{"count":2,"share":0.33783783783783783,"item":"draconian-monk"},
+{"count":2,"share":0.33783783783783783,"item":"gargoyle-conjurer"},
+{"count":2,"share":0.33783783783783783,"item":"vine stalker-artificer"},
+{"count":2,"share":0.33783783783783783,"item":"draconian-earth elementalist"},
+{"count":2,"share":0.33783783783783783,"item":"felid-enchanter"},
+{"count":2,"share":0.33783783783783783,"item":"troll-hexslinger"},
+{"count":2,"share":0.33783783783783783,"item":"naga-alchemist"},
+{"count":2,"share":0.33783783783783783,"item":"demonspawn-berserker"},
+{"count":2,"share":0.33783783783783783,"item":"demonspawn-monk"},
+{"count":2,"share":0.33783783783783783,"item":"kobold-brigand"},
+{"count":2,"share":0.33783783783783783,"item":"minotaur-shapeshifter"},
+{"count":2,"share":0.33783783783783783,"item":"tengu-air elementalist"},
+{"count":2,"share":0.33783783783783783,"item":"poltergeist-brigand"},
+{"count":2,"share":0.33783783783783783,"item":"minotaur-reaver"},
+{"count":2,"share":0.33783783783783783,"item":"demigod-wanderer"},
+{"count":2,"share":0.33783783783783783,"item":"revenant-gladiator"},
+{"count":2,"share":0.33783783783783783,"item":"felid-shapeshifter"},
+{"count":2,"share":0.33783783783783783,"item":"gnoll-hedge wizard"},
+{"count":2,"share":0.33783783783783783,"item":"human-shapeshifter"},
+{"count":2,"share":0.33783783783783783,"item":"minotaur-hunter"},
+{"count":2,"share":0.33783783783783783,"item":"demonspawn-fighter"},
+{"count":2,"share":0.33783783783783783,"item":"formicid-fighter"},
+{"count":2,"share":0.33783783783783783,"item":"vine stalker-fighter"},
+{"count":2,"share":0.33783783783783783,"item":"draconian-brigand"},
+{"count":2,"share":0.33783783783783783,"item":"minotaur-wanderer"},
+{"count":2,"share":0.33783783783783783,"item":"mountain dwarf-reaver"},
+{"count":2,"share":0.33783783783783783,"item":"troll-monk"},
+{"count":2,"share":0.33783783783783783,"item":"mountain dwarf-cinder acolyte"},
+{"count":2,"share":0.33783783783783783,"item":"demonspawn-conjurer"},
+{"count":2,"share":0.33783783783783783,"item":"felid-delver"},
+{"count":2,"share":0.33783783783783783,"item":"naga-shapeshifter"},
+{"count":2,"share":0.33783783783783783,"item":"oni-shapeshifter"},
+{"count":2,"share":0.33783783783783783,"item":"naga-gladiator"},
+{"count":2,"share":0.33783783783783783,"item":"tengu-gladiator"},
+{"count":2,"share":0.33783783783783783,"item":"poltergeist-chaos knight"},
+{"count":2,"share":0.33783783783783783,"item":"tengu-conjurer"},
+{"count":2,"share":0.33783783783783783,"item":"merfolk-fighter"},
+{"count":2,"share":0.33783783783783783,"item":"gargoyle-wanderer"},
+{"count":2,"share":0.33783783783783783,"item":"barachi-air elementalist"},
+{"count":2,"share":0.33783783783783783,"item":"merfolk-monk"},
+{"count":2,"share":0.33783783783783783,"item":"troll-gladiator"},
+{"count":2,"share":0.33783783783783783,"item":"mountain dwarf-gladiator"},
+{"count":2,"share":0.33783783783783783,"item":"octopode-shapeshifter"},
+{"count":2,"share":0.33783783783783783,"item":"demigod-conjurer"},
+{"count":2,"share":0.33783783783783783,"item":"minotaur-hexslinger"},
+{"count":2,"share":0.33783783783783783,"item":"poltergeist-necromancer"},
+{"count":2,"share":0.33783783783783783,"item":"coglin-forgewright"},
+{"count":2,"share":0.33783783783783783,"item":"djinni-hedge wizard"},
+{"count":2,"share":0.33783783783783783,"item":"naga-ice elementalist"},
+{"count":2,"share":0.33783783783783783,"item":"gnoll-earth elementalist"},
+{"count":2,"share":0.33783783783783783,"item":"oni-alchemist"},
+{"count":2,"share":0.33783783783783783,"item":"gnoll-hexslinger"},
+{"count":2,"share":0.33783783783783783,"item":"demonspawn-fire elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"felid-chaos knight"},
+{"count":1,"share":0.16891891891891891,"item":"troll-cinder acolyte"},
+{"count":1,"share":0.16891891891891891,"item":"spriggan-hunter"},
+{"count":1,"share":0.16891891891891891,"item":"barachi-gladiator"},
+{"count":1,"share":0.16891891891891891,"item":"mountain dwarf-warper"},
+{"count":1,"share":0.16891891891891891,"item":"merfolk-reaver"},
+{"count":1,"share":0.16891891891891891,"item":"formicid-brigand"},
+{"count":1,"share":0.16891891891891891,"item":"barachi-earth elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"formicid-monk"},
+{"count":1,"share":0.16891891891891891,"item":"djinni-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"merfolk-warper"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-necromancer"},
+{"count":1,"share":0.16891891891891891,"item":"mountain dwarf-hunter"},
+{"count":1,"share":0.16891891891891891,"item":"merfolk-hexslinger"},
+{"count":1,"share":0.16891891891891891,"item":"djinni-alchemist"},
+{"count":1,"share":0.16891891891891891,"item":"gnoll-enchanter"},
+{"count":1,"share":0.16891891891891891,"item":"human-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"draconian-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"human-alchemist"},
+{"count":1,"share":0.16891891891891891,"item":"barachi-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"barachi-berserker"},
+{"count":1,"share":0.16891891891891891,"item":"octopode-hedge wizard"},
+{"count":1,"share":0.16891891891891891,"item":"troll-wanderer"},
+{"count":1,"share":0.16891891891891891,"item":"gnoll-warper"},
+{"count":1,"share":0.16891891891891891,"item":"merfolk-berserker"},
+{"count":1,"share":0.16891891891891891,"item":"coglin-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"minotaur-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"formicid-alchemist"},
+{"count":1,"share":0.16891891891891891,"item":"revenant-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"revenant-conjurer"},
+{"count":1,"share":0.16891891891891891,"item":"human-gladiator"},
+{"count":1,"share":0.16891891891891891,"item":"vine stalker-berserker"},
+{"count":1,"share":0.16891891891891891,"item":"spriggan-hexslinger"},
+{"count":1,"share":0.16891891891891891,"item":"human-fire elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"mountain dwarf-shapeshifter"},
+{"count":1,"share":0.16891891891891891,"item":"tengu-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"kobold-delver"},
+{"count":1,"share":0.16891891891891891,"item":"tengu-berserker"},
+{"count":1,"share":0.16891891891891891,"item":"djinni-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"gargoyle-necromancer"},
+{"count":1,"share":0.16891891891891891,"item":"tengu-hunter"},
+{"count":1,"share":0.16891891891891891,"item":"gargoyle-reaver"},
+{"count":1,"share":0.16891891891891891,"item":"coglin-wanderer"},
+{"count":1,"share":0.16891891891891891,"item":"gnoll-reaver"},
+{"count":1,"share":0.16891891891891891,"item":"formicid-delver"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-brigand"},
+{"count":1,"share":0.16891891891891891,"item":"mountain dwarf-earth elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"barachi-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"gargoyle-fire elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"oni-cinder acolyte"},
+{"count":1,"share":0.16891891891891891,"item":"minotaur-summoner"},
+{"count":1,"share":0.16891891891891891,"item":"tengu-reaver"},
+{"count":1,"share":0.16891891891891891,"item":"deep elf-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"deep elf-necromancer"},
+{"count":1,"share":0.16891891891891891,"item":"revenant-hedge wizard"},
+{"count":1,"share":0.16891891891891891,"item":"oni-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"mummy-delver"},
+{"count":1,"share":0.16891891891891891,"item":"minotaur-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"kobold-hunter"},
+{"count":1,"share":0.16891891891891891,"item":"gnoll-fire elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"draconian-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"coglin-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"oni-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"gnoll-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"vine stalker-gladiator"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-shapeshifter"},
+{"count":1,"share":0.16891891891891891,"item":"gargoyle-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"naga-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-wanderer"},
+{"count":1,"share":0.16891891891891891,"item":"coglin-berserker"},
+{"count":1,"share":0.16891891891891891,"item":"coglin-gladiator"},
+{"count":1,"share":0.16891891891891891,"item":"draconian-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"mountain dwarf-berserker"},
+{"count":1,"share":0.16891891891891891,"item":"armataur-wanderer"},
+{"count":1,"share":0.16891891891891891,"item":"draconian-wanderer"},
+{"count":1,"share":0.16891891891891891,"item":"human-necromancer"},
+{"count":1,"share":0.16891891891891891,"item":"troll-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"oni-hunter"},
+{"count":1,"share":0.16891891891891891,"item":"minotaur-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"tengu-monk"},
+{"count":1,"share":0.16891891891891891,"item":"formicid-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"gnoll-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"draconian-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"armataur-conjurer"},
+{"count":1,"share":0.16891891891891891,"item":"merfolk-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"merfolk-chaos knight"},
+{"count":1,"share":0.16891891891891891,"item":"barachi-forgewright"},
+{"count":1,"share":0.16891891891891891,"item":"spriggan-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"barachi-fighter"},
+{"count":1,"share":0.16891891891891891,"item":"oni-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"tengu-summoner"},
+{"count":1,"share":0.16891891891891891,"item":"kobold-hexslinger"},
+{"count":1,"share":0.16891891891891891,"item":"octopode-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"felid-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"gnoll-shapeshifter"},
+{"count":1,"share":0.16891891891891891,"item":"human-hunter"},
+{"count":1,"share":0.16891891891891891,"item":"draconian-hexslinger"},
+{"count":1,"share":0.16891891891891891,"item":"human-monk"},
+{"count":1,"share":0.16891891891891891,"item":"demigod-artificer"},
+{"count":1,"share":0.16891891891891891,"item":"revenant-earth elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"gargoyle-cinder acolyte"},
+{"count":1,"share":0.16891891891891891,"item":"octopode-alchemist"},
+{"count":1,"share":0.16891891891891891,"item":"human-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"minotaur-cinder acolyte"},
+{"count":1,"share":0.16891891891891891,"item":"djinni-forgewright"},
+{"count":1,"share":0.16891891891891891,"item":"spriggan-delver"},
+{"count":1,"share":0.16891891891891891,"item":"coglin-warper"},
+{"count":1,"share":0.16891891891891891,"item":"armataur-delver"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-hedge wizard"},
+{"count":1,"share":0.16891891891891891,"item":"djinni-fire elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"demigod-air elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"poltergeist-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-forgewright"},
+{"count":1,"share":0.16891891891891891,"item":"tengu-hedge wizard"},
+{"count":1,"share":0.16891891891891891,"item":"spriggan-warper"},
+{"count":1,"share":0.16891891891891891,"item":"minotaur-delver"},
+{"count":1,"share":0.16891891891891891,"item":"kobold-monk"},
+{"count":1,"share":0.16891891891891891,"item":"human-earth elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"demigod-warper"},
+{"count":1,"share":0.16891891891891891,"item":"demigod-brigand"},
+{"count":1,"share":0.16891891891891891,"item":"djinni-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"oni-brigand"},
+{"count":1,"share":0.16891891891891891,"item":"spriggan-monk"},
+{"count":1,"share":0.16891891891891891,"item":"deep elf-ice elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"deep elf-earth elementalist"},
+{"count":1,"share":0.16891891891891891,"item":"demonspawn-delver"},
+
+
+**Combos**
+
+|Top 20 (171 games)|Top 50 (330 games)|Top 200 (771 games)|15 Runes (150 games)|Zigg Cleared (60 games)|No Zigg (592 games)|
+|:-|:-|:-|:-|:-|:-|
+|Minotaur-fighter: 12 - share: 7.02%|Minotaur-fighter: 28 - share: 8.48%|Minotaur-fighter: 52 - share: 6.74%|Gargoyle-earth elementalist: 9 - share: 6.00%|Gargoyle-earth elementalist: 6 - share: 10.00%|Minotaur-fighter: 48 - share: 8.11%|
+|Formicid-shapeshifter: 5 - share: 2.92%|Troll-fighter: 9 - share: 2.73%|Gargoyle-earth elementalist: 28 - share: 3.63%|Troll-fighter: 7 - share: 4.67%|Human-conjurer: 4 - share: 6.67%|Gnoll-ice elementalist: 23 - share: 3.89%|
+|Revenant-wanderer: 5 - share: 2.92%|Mountain dwarf-fighter: 9 - share: 2.73%|Gnoll-ice elementalist: 24 - share: 3.11%|Gargoyle-fighter: 7 - share: 4.67%|Revenant-ice elementalist: 2 - share: 3.33%|Gargoyle-earth elementalist: 16 - share: 2.70%|
+|Poltergeist-hedge wizard: 5 - share: 2.92%|Revenant-wanderer: 9 - share: 2.73%|Gargoyle-fighter: 16 - share: 2.08%|Minotaur-fighter: 5 - share: 3.33%|Deep elf-earth elementalist: 2 - share: 3.33%|Mountain dwarf-fighter: 14 - share: 2.36%|
+|Gargoyle-earth elementalist: 4 - share: 2.34%|Gargoyle-earth elementalist: 8 - share: 2.42%|Troll-fighter: 15 - share: 1.95%|Gargoyle-gladiator: 5 - share: 3.33%|Revenant-wanderer: 2 - share: 3.33%|Minotaur-berserker: 12 - share: 2.03%|
+|Gargoyle-gladiator: 4 - share: 2.34%|Poltergeist-hedge wizard: 8 - share: 2.42%|Mountain dwarf-fighter: 15 - share: 1.95%|Octopode-shapeshifter: 4 - share: 2.67%|Poltergeist-enchanter: 2 - share: 3.33%|Gargoyle-fighter: 12 - share: 2.03%|
+|Vine stalker-shapeshifter: 4 - share: 2.34%|Formicid-shapeshifter: 7 - share: 2.12%|Minotaur-berserker: 15 - share: 1.95%|Vine stalker-fighter: 3 - share: 2.00%|Vine stalker-gladiator: 2 - share: 3.33%|Poltergeist-enchanter: 10 - share: 1.69%|
+|Kobold-shapeshifter: 3 - share: 1.75%|Gargoyle-gladiator: 6 - share: 1.82%|Poltergeist-enchanter: 12 - share: 1.56%|Human-conjurer: 3 - share: 2.00%|Djinni-conjurer: 2 - share: 3.33%|Formicid-shapeshifter: 9 - share: 1.52%|
+|Deep elf-shapeshifter: 3 - share: 1.75%|Vine stalker-shapeshifter: 6 - share: 1.82%|Poltergeist-hedge wizard: 11 - share: 1.43%|Revenant-ice elementalist: 3 - share: 2.00%|Octopode-shapeshifter: 2 - share: 3.33%|Poltergeist-hedge wizard: 9 - share: 1.52%|
+|Troll-fighter: 3 - share: 1.75%|Deep elf-shapeshifter: 5 - share: 1.52%|Revenant-wanderer: 10 - share: 1.30%|Poltergeist-enchanter: 3 - share: 2.00%|Djinni-necromancer: 1 - share: 1.67%|Troll-fighter: 9 - share: 1.52%|
+|Revenant-brigand: 3 - share: 1.75%|Revenant-brigand: 5 - share: 1.52%|Merfolk-gladiator: 10 - share: 1.30%|Barachi-ice elementalist: 3 - share: 2.00%|Djinni-wanderer: 1 - share: 1.67%|Revenant-brigand: 8 - share: 1.35%|
+|Minotaur-gladiator: 3 - share: 1.75%|Minotaur-berserker: 5 - share: 1.52%|Formicid-shapeshifter: 9 - share: 1.17%|Formicid-fighter: 3 - share: 2.00%|Vine stalker-fighter: 1 - share: 1.67%|Revenant-wanderer: 8 - share: 1.35%|
+|Revenant-ice elementalist: 3 - share: 1.75%|Human-conjurer: 4 - share: 1.21%|Minotaur-gladiator: 9 - share: 1.17%|Human-fire elementalist: 2 - share: 1.33%|Demonspawn-fire elementalist: 1 - share: 1.67%|Minotaur-monk: 8 - share: 1.35%|
+|Troll-warper: 2 - share: 1.17%|Minotaur-gladiator: 4 - share: 1.21%|Revenant-ice elementalist: 9 - share: 1.17%|Mountain dwarf-fighter: 2 - share: 1.33%|Deep elf-shapeshifter: 1 - share: 1.67%|Merfolk-gladiator: 8 - share: 1.35%|
+|Spriggan-enchanter: 2 - share: 1.17%|Merfolk-gladiator: 4 - share: 1.21%|Gargoyle-gladiator: 9 - share: 1.17%|Gnoll-earth elementalist: 2 - share: 1.33%|Human-earth elementalist: 1 - share: 1.67%|Vine stalker-shapeshifter: 8 - share: 1.35%|
+|Barachi-hunter: 2 - share: 1.17%|Merfolk-shapeshifter: 4 - share: 1.21%|Vine stalker-shapeshifter: 9 - share: 1.17%|Deep elf-earth elementalist: 2 - share: 1.33%|Demonspawn-monk: 1 - share: 1.67%|Gargoyle-gladiator: 7 - share: 1.18%|
+|Human-alchemist: 2 - share: 1.17%|Kobold-shapeshifter: 3 - share: 0.91%|Djinni-conjurer: 9 - share: 1.17%|Revenant-wanderer: 2 - share: 1.33%|Naga-conjurer: 1 - share: 1.67%|Troll-shapeshifter: 7 - share: 1.18%|
+|Human-conjurer: 2 - share: 1.17%|Human-fire elementalist: 3 - share: 0.91%|Revenant-brigand: 8 - share: 1.04%|Felid-delver: 2 - share: 1.33%|Human-fire elementalist: 1 - share: 1.67%|Demonspawn-gladiator: 7 - share: 1.18%|
+|Human-fire elementalist: 2 - share: 1.17%|Minotaur-monk: 3 - share: 0.91%|Minotaur-monk: 8 - share: 1.04%|Deep elf-conjurer: 2 - share: 1.33%|Felid-delver: 1 - share: 1.67%|Deep elf-shapeshifter: 6 - share: 1.01%|
+|Mountain dwarf-fighter: 2 - share: 1.17%|Revenant-ice elementalist: 3 - share: 0.91%|Troll-shapeshifter: 8 - share: 1.04%|Djinni-conjurer: 2 - share: 1.33%|Felid-wanderer: 1 - share: 1.67%|Minotaur-gladiator: 6 - share: 1.01%|
+|Oni-monk: 2 - share: 1.17%|Poltergeist-enchanter: 3 - share: 0.91%|Demonspawn-gladiator: 8 - share: 1.04%|Draconian-shapeshifter: 2 - share: 1.33%|Felid-hedge wizard: 1 - share: 1.67%|Merfolk-shapeshifter: 6 - share: 1.01%|
+|Draconian-monk: 2 - share: 1.17%|Draconian-conjurer: 3 - share: 0.91%|Deep elf-shapeshifter: 7 - share: 0.91%|Gnoll-wanderer: 2 - share: 1.33%|Vine stalker-conjurer: 1 - share: 1.67%|Poltergeist-alchemist: 6 - share: 1.01%|
+|Demonspawn-monk: 2 - share: 1.17%|Vine stalker-brigand: 3 - share: 0.91%|Octopode-shapeshifter: 7 - share: 0.91%|Coglin-fighter: 2 - share: 1.33%|Demonspawn-ice elementalist: 1 - share: 1.67%|Octopode-wanderer: 6 - share: 1.01%|
+|Djinni-air elementalist: 2 - share: 1.17%|Troll-warper: 2 - share: 0.61%|Octopode-wanderer: 7 - share: 0.91%|Felid-summoner: 2 - share: 1.33%|Tengu-fire elementalist: 1 - share: 1.67%|Gargoyle-berserker: 5 - share: 0.84%|
+|Demonspawn-ice elementalist: 2 - share: 1.17%|Spriggan-enchanter: 2 - share: 0.61%|Draconian-conjurer: 6 - share: 0.78%|Djinni-necromancer: 1 - share: 0.67%|Demonspawn-hexslinger: 1 - share: 1.67%|Demigod-hunter: 5 - share: 0.84%|
+|Minotaur-brigand: 2 - share: 1.17%|Vine stalker-fighter: 2 - share: 0.61%|Draconian-shapeshifter: 6 - share: 0.78%|Djinni-wanderer: 1 - share: 0.67%|Draconian-air elementalist: 1 - share: 1.67%|Mountain dwarf-monk: 5 - share: 0.84%|
+|Barachi-ice elementalist: 2 - share: 1.17%|Barachi-hunter: 2 - share: 0.61%|Merfolk-shapeshifter: 6 - share: 0.78%|Human-alchemist: 1 - share: 0.67%|Deep elf-conjurer: 1 - share: 1.67%|Draconian-shapeshifter: 5 - share: 0.84%|
+|Minotaur-monk: 2 - share: 1.17%|Human-alchemist: 2 - share: 0.61%|Poltergeist-alchemist: 6 - share: 0.78%|Armataur-warper: 1 - share: 0.67%|Oni-forgewright: 1 - share: 1.67%|Djinni-conjurer: 5 - share: 0.84%|
+|Merfolk-gladiator: 2 - share: 1.17%|Gargoyle-berserker: 2 - share: 0.61%|Vine stalker-fighter: 5 - share: 0.65%|Troll-cinder acolyte: 1 - share: 0.67%|Revenant-conjurer: 1 - share: 1.67%|Mountain dwarf-forgewright: 5 - share: 0.84%|
+|Felid-enchanter: 2 - share: 1.17%|Oni-monk: 2 - share: 0.61%|Gargoyle-berserker: 5 - share: 0.65%|Kobold-chaos knight: 1 - share: 0.67%|Demonspawn-earth elementalist: 1 - share: 1.67%|Coglin-hedge wizard: 4 - share: 0.68%|
+|Poltergeist-enchanter: 2 - share: 1.17%|Draconian-monk: 2 - share: 0.61%|Gnoll-earth elementalist: 5 - share: 0.65%|Revenant-brigand: 1 - share: 0.67%|Demonspawn-hedge wizard: 1 - share: 1.67%|Revenant-monk: 4 - share: 0.68%|
+|Draconian-conjurer: 2 - share: 1.17%|Demonspawn-monk: 2 - share: 0.61%|Demigod-hunter: 5 - share: 0.65%|Demonspawn-fire elementalist: 1 - share: 0.67%|Oni-monk: 1 - share: 1.67%|Gargoyle-monk: 4 - share: 0.68%|
+|Mountain dwarf-monk: 2 - share: 1.17%|Coglin-hedge wizard: 2 - share: 0.61%|Mountain dwarf-monk: 5 - share: 0.65%|Deep elf-shapeshifter: 1 - share: 0.67%|Troll-shapeshifter: 1 - share: 1.67%|Draconian-conjurer: 4 - share: 0.68%|
+|Human-gladiator: 2 - share: 1.17%|Djinni-air elementalist: 2 - share: 0.61%|Deep elf-conjurer: 5 - share: 0.65%|Spriggan-hunter: 1 - share: 0.67%|Vine stalker-necromancer: 1 - share: 1.67%|Gnoll-wanderer: 4 - share: 0.68%|
+|Felid-chaos knight: 1 - share: 0.58%|Demonspawn-ice elementalist: 2 - share: 0.61%|Felid-summoner: 5 - share: 0.65%|Formicid-brigand: 1 - share: 0.67%|Naga-alchemist: 1 - share: 1.67%|Revenant-ice elementalist: 4 - share: 0.68%|
+|Djinni-necromancer: 1 - share: 0.58%|Draconian-artificer: 2 - share: 0.61%|Revenant-fighter: 5 - share: 0.65%|Barachi-earth elementalist: 1 - share: 0.67%|Octopode-alchemist: 1 - share: 1.67%|Spriggan-enchanter: 3 - share: 0.51%|
+|Djinni-wanderer: 1 - share: 0.58%|Minotaur-brigand: 2 - share: 0.61%|Mountain dwarf-forgewright: 5 - share: 0.65%|Djinni-earth elementalist: 1 - share: 0.67%|Demonspawn-conjurer: 1 - share: 1.67%|Formicid-hunter: 3 - share: 0.51%|
+|Vine stalker-fighter: 1 - share: 0.58%|Barachi-ice elementalist: 2 - share: 0.61%|Gnoll-wanderer: 5 - share: 0.65%|Formicid-monk: 1 - share: 0.67%|Gnoll-earth elementalist: 1 - share: 1.67%|Demigod-earth elementalist: 3 - share: 0.51%|
+|Armataur-warper: 1 - share: 0.58%|Revenant-monk: 2 - share: 0.61%|Kobold-shapeshifter: 4 - share: 0.52%|Formicid-hunter: 1 - share: 0.67%|Demonspawn-gladiator: 1 - share: 1.67%|Kobold-shapeshifter: 3 - share: 0.51%|
+|Troll-cinder acolyte: 1 - share: 0.58%|Vine stalker-artificer: 2 - share: 0.61%|Human-conjurer: 4 - share: 0.52%|Minotaur-gladiator: 1 - share: 0.67%|Octopode-fighter: 1 - share: 1.67%|Minotaur-brigand: 3 - share: 0.51%|
+|Kobold-chaos knight: 1 - share: 0.58%|Gargoyle-monk: 2 - share: 0.61%|Coglin-hedge wizard: 4 - share: 0.52%|Human-earth elementalist: 1 - share: 0.67%|Barachi-alchemist: 1 - share: 1.67%|Draconian-alchemist: 3 - share: 0.51%|
+|Demonspawn-fire elementalist: 1 - share: 0.58%|Felid-enchanter: 2 - share: 0.61%|Barachi-ice elementalist: 4 - share: 0.52%|Merfolk-warper: 1 - share: 0.67%|Gnoll-wanderer: 1 - share: 1.67%|Draconian-hunter: 3 - share: 0.51%|
+|Gargoyle-berserker: 1 - share: 0.58%|Deep elf-earth elementalist: 2 - share: 0.61%|Revenant-monk: 4 - share: 0.52%|Poltergeist-hedge wizard: 1 - share: 0.67%|Tengu-air elementalist: 1 - share: 1.67%|Vine stalker-brigand: 3 - share: 0.51%|
+|Spriggan-hunter: 1 - share: 0.58%|Felid-delver: 2 - share: 0.61%|Gargoyle-monk: 4 - share: 0.52%|Djinni-hexslinger: 1 - share: 0.67%|Draconian-conjurer: 1 - share: 1.67%|Felid-summoner: 3 - share: 0.51%|
+|Barachi-gladiator: 1 - share: 0.58%|Demigod-hunter: 2 - share: 0.61%|Vine stalker-brigand: 4 - share: 0.52%|Felid-enchanter: 1 - share: 0.67%|Kobold-ice elementalist: 1 - share: 1.67%|Armataur-berserker: 3 - share: 0.51%|
+|Mountain dwarf-warper: 1 - share: 0.58%|Demonspawn-berserker: 2 - share: 0.61%|Tengu-air elementalist: 4 - share: 0.52%|Felid-wanderer: 1 - share: 0.67%||Coglin-hunter: 3 - share: 0.51%|
+|Merfolk-reaver: 1 - share: 0.58%|Mountain dwarf-monk: 2 - share: 0.61%|Coglin-hunter: 4 - share: 0.52%|Felid-hedge wizard: 1 - share: 0.67%||Revenant-fighter: 3 - share: 0.51%|
+|Formicid-brigand: 1 - share: 0.58%|Revenant-conjurer: 2 - share: 0.61%|Formicid-fighter: 4 - share: 0.52%|Vine stalker-conjurer: 1 - share: 0.67%||Gnoll-alchemist: 3 - share: 0.51%|
+|Barachi-earth elementalist: 1 - share: 0.58%|Human-gladiator: 2 - share: 0.61%|Spriggan-enchanter: 3 - share: 0.39%|Demigod-hunter: 1 - share: 0.67%||Deep elf-conjurer: 3 - share: 0.51%|
+|Djinni-earth elementalist: 1 - share: 0.58%|Gargoyle-fighter: 2 - share: 0.61%|Barachi-hunter: 3 - share: 0.39%|Demonspawn-ice elementalist: 1 - share: 0.67%||Formicid-earth elementalist: 3 - share: 0.51%|
+|Formicid-monk: 1 - share: 0.58%|Troll-shapeshifter: 2 - share: 0.61%|Demonspawn-fire elementalist: 3 - share: 0.39%|Tengu-fire elementalist: 1 - share: 0.67%||Troll-warper: 2 - share: 0.34%|
+|Gnoll-ice elementalist: 1 - share: 0.58%|Kobold-brigand: 2 - share: 0.61%|Formicid-hunter: 3 - share: 0.39%|Demonspawn-hexslinger: 1 - share: 0.67%||Barachi-hunter: 2 - share: 0.34%|
+|Formicid-hunter: 1 - share: 0.58%|Oni-shapeshifter: 2 - share: 0.61%|Demigod-earth elementalist: 3 - share: 0.39%|Oni-shapeshifter: 1 - share: 0.67%||Oni-monk: 2 - share: 0.34%|
+|Demigod-earth elementalist: 1 - share: 0.58%|Vine stalker-gladiator: 2 - share: 0.61%|Human-fire elementalist: 3 - share: 0.39%|Vine stalker-gladiator: 1 - share: 0.67%||Draconian-monk: 2 - share: 0.34%|
+|Human-earth elementalist: 1 - share: 0.58%|Deep elf-conjurer: 2 - share: 0.61%|Oni-monk: 3 - share: 0.39%|Draconian-air elementalist: 1 - share: 0.67%||Gargoyle-conjurer: 2 - share: 0.34%|
+|Coglin-hedge wizard: 1 - share: 0.58%|Draconian-shapeshifter: 2 - share: 0.61%|Demonspawn-monk: 3 - share: 0.39%|Oni-forgewright: 1 - share: 0.67%||Vine stalker-artificer: 2 - share: 0.34%|
+|Merfolk-warper: 1 - share: 0.58%|Poltergeist-brigand: 2 - share: 0.61%|Demonspawn-ice elementalist: 3 - share: 0.39%|Merfolk-shapeshifter: 1 - share: 0.67%||Draconian-earth elementalist: 2 - share: 0.34%|
+|Demonspawn-necromancer: 1 - share: 0.58%|Felid-shapeshifter: 2 - share: 0.61%|Minotaur-brigand: 3 - share: 0.39%|Vine stalker-monk: 1 - share: 0.67%||Felid-enchanter: 2 - share: 0.34%|
+|Naga-conjurer: 1 - share: 0.58%|Djinni-conjurer: 2 - share: 0.61%|Draconian-alchemist: 3 - share: 0.39%|Mummy-ice elementalist: 1 - share: 0.67%||Troll-hexslinger: 2 - share: 0.34%|
+|Mountain dwarf-hunter: 1 - share: 0.58%|Human-shapeshifter: 2 - share: 0.61%|Deep elf-earth elementalist: 3 - share: 0.39%|Kobold-delver: 1 - share: 0.67%||Naga-alchemist: 2 - share: 0.34%|
+|Merfolk-hexslinger: 1 - share: 0.58%|Gnoll-reaver: 2 - share: 0.61%|Felid-delver: 3 - share: 0.39%|Revenant-conjurer: 1 - share: 0.67%||Demonspawn-berserker: 2 - share: 0.34%|
+|Djinni-alchemist: 1 - share: 0.58%|Felid-chaos knight: 1 - share: 0.30%|Naga-alchemist: 3 - share: 0.39%|Poltergeist-brigand: 1 - share: 0.67%||Demonspawn-monk: 2 - share: 0.34%|
+|Gnoll-enchanter: 1 - share: 0.58%|Djinni-necromancer: 1 - share: 0.30%|Kobold-brigand: 3 - share: 0.39%|Tengu-berserker: 1 - share: 0.67%||Kobold-brigand: 2 - share: 0.34%|
+|Human-fighter: 1 - share: 0.58%|Djinni-wanderer: 1 - share: 0.30%|Draconian-hunter: 3 - share: 0.39%|Draconian-artificer: 1 - share: 0.67%||Minotaur-shapeshifter: 2 - share: 0.34%|
+|Draconian-artificer: 1 - share: 0.58%|Armataur-warper: 1 - share: 0.30%|Oni-shapeshifter: 3 - share: 0.39%|Revenant-alchemist: 1 - share: 0.67%||Tengu-air elementalist: 2 - share: 0.34%|
+|Djinni-hexslinger: 1 - share: 0.58%|Troll-cinder acolyte: 1 - share: 0.30%|Vine stalker-gladiator: 3 - share: 0.39%|Felid-shapeshifter: 1 - share: 0.67%||Poltergeist-brigand: 2 - share: 0.34%|
+|Gnoll-earth elementalist: 1 - share: 0.58%|Kobold-chaos knight: 1 - share: 0.30%|Draconian-air elementalist: 3 - share: 0.39%|Demonspawn-earth elementalist: 1 - share: 0.67%||Minotaur-reaver: 2 - share: 0.34%|
+|Revenant-monk: 1 - share: 0.58%|Demonspawn-fire elementalist: 1 - share: 0.30%|Felid-shapeshifter: 3 - share: 0.39%|Mountain dwarf-wanderer: 1 - share: 0.67%||Demigod-wanderer: 2 - share: 0.34%|
+|Barachi-berserker: 1 - share: 0.58%|Spriggan-hunter: 1 - share: 0.30%|Demonspawn-fighter: 3 - share: 0.39%|Coglin-hunter: 1 - share: 0.67%||Revenant-gladiator: 2 - share: 0.34%|
+|Gargoyle-conjurer: 1 - share: 0.58%|Barachi-gladiator: 1 - share: 0.30%|Armataur-berserker: 3 - share: 0.39%|Kobold-brigand: 1 - share: 0.67%||Felid-shapeshifter: 2 - share: 0.34%|
+|Draconian-alchemist: 1 - share: 0.58%|Mountain dwarf-warper: 1 - share: 0.30%|Minotaur-wanderer: 3 - share: 0.39%|Djinni-fire elementalist: 1 - share: 0.67%||Gnoll-hedge wizard: 2 - share: 0.34%|
+|Octopode-hedge wizard: 1 - share: 0.58%|Merfolk-reaver: 1 - share: 0.30%|Demonspawn-conjurer: 3 - share: 0.39%|Gargoyle-monk: 1 - share: 0.67%||Human-shapeshifter: 2 - share: 0.34%|
+|Troll-wanderer: 1 - share: 0.58%|Formicid-brigand: 1 - share: 0.30%|Coglin-fighter: 3 - share: 0.39%|Revenant-fighter: 1 - share: 0.67%||Minotaur-hunter: 2 - share: 0.34%|
+|Vine stalker-artificer: 1 - share: 0.58%|Barachi-earth elementalist: 1 - share: 0.30%|Mountain dwarf-gladiator: 3 - share: 0.39%|Demonspawn-hedge wizard: 1 - share: 0.67%||Demonspawn-fighter: 2 - share: 0.34%|
+|Gargoyle-monk: 1 - share: 0.58%|Djinni-earth elementalist: 1 - share: 0.30%|Naga-ice elementalist: 3 - share: 0.39%|Coglin-reaver: 1 - share: 0.67%||Formicid-fighter: 2 - share: 0.34%|
+|Gnoll-warper: 1 - share: 0.58%|Formicid-monk: 1 - share: 0.30%|Gnoll-alchemist: 3 - share: 0.39%|Oni-monk: 1 - share: 0.67%||Vine stalker-fighter: 2 - share: 0.34%|
+|Draconian-earth elementalist: 1 - share: 0.58%|Gnoll-ice elementalist: 1 - share: 0.30%|Formicid-earth elementalist: 3 - share: 0.39%|Troll-shapeshifter: 1 - share: 0.67%||Draconian-brigand: 2 - share: 0.34%|
+|Deep elf-earth elementalist: 1 - share: 0.58%|Formicid-hunter: 1 - share: 0.30%|Troll-warper: 2 - share: 0.26%|Vine stalker-necromancer: 1 - share: 0.67%||Minotaur-wanderer: 2 - share: 0.34%|
+|Merfolk-berserker: 1 - share: 0.58%|Demigod-earth elementalist: 1 - share: 0.30%|Human-alchemist: 2 - share: 0.26%|Naga-alchemist: 1 - share: 0.67%||Mountain dwarf-reaver: 2 - share: 0.34%|
+|Coglin-artificer: 1 - share: 0.58%|Human-earth elementalist: 1 - share: 0.30%|Formicid-brigand: 2 - share: 0.26%|Octopode-alchemist: 1 - share: 0.67%||Troll-monk: 2 - share: 0.34%|
+|Felid-delver: 1 - share: 0.58%|Merfolk-warper: 1 - share: 0.30%|Formicid-monk: 2 - share: 0.26%|Demonspawn-conjurer: 1 - share: 0.67%||Mountain dwarf-cinder acolyte: 2 - share: 0.34%|
+|Felid-wanderer: 1 - share: 0.58%|Demonspawn-necromancer: 1 - share: 0.30%|Human-earth elementalist: 2 - share: 0.26%|Gargoyle-artificer: 1 - share: 0.67%||Demonspawn-conjurer: 2 - share: 0.34%|
+|Felid-hedge wizard: 1 - share: 0.58%|Naga-conjurer: 1 - share: 0.30%|Draconian-monk: 2 - share: 0.26%|Barachi-delver: 1 - share: 0.67%||Felid-delver: 2 - share: 0.34%|
+|Troll-hexslinger: 1 - share: 0.58%|Mountain dwarf-hunter: 1 - share: 0.30%|Djinni-air elementalist: 2 - share: 0.26%|Demonspawn-gladiator: 1 - share: 0.67%||Naga-shapeshifter: 2 - share: 0.34%|
+|Vine stalker-conjurer: 1 - share: 0.58%|Merfolk-hexslinger: 1 - share: 0.30%|Naga-conjurer: 2 - share: 0.26%|Demonspawn-hunter: 1 - share: 0.67%||Oni-shapeshifter: 2 - share: 0.34%|
+|Minotaur-air elementalist: 1 - share: 0.58%|Djinni-alchemist: 1 - share: 0.30%|Draconian-artificer: 2 - share: 0.26%|Oni-gladiator: 1 - share: 0.67%||Naga-gladiator: 2 - share: 0.34%|
+|Demigod-hunter: 1 - share: 0.58%|Gnoll-enchanter: 1 - share: 0.30%|Gargoyle-conjurer: 2 - share: 0.26%|Demonspawn-fighter: 1 - share: 0.67%||Tengu-gladiator: 2 - share: 0.34%|
+|Formicid-alchemist: 1 - share: 0.58%|Human-fighter: 1 - share: 0.30%|Vine stalker-artificer: 2 - share: 0.26%|Octopode-fighter: 1 - share: 0.67%||Poltergeist-chaos knight: 2 - share: 0.34%|
+|Naga-alchemist: 1 - share: 0.58%|Djinni-hexslinger: 1 - share: 0.30%|Draconian-earth elementalist: 2 - share: 0.26%|Barachi-forgewright: 1 - share: 0.67%||Tengu-conjurer: 2 - share: 0.34%|
+|Demonspawn-berserker: 1 - share: 0.58%|Gnoll-earth elementalist: 1 - share: 0.30%|Felid-enchanter: 2 - share: 0.26%|Barachi-alchemist: 1 - share: 0.67%||Merfolk-fighter: 2 - share: 0.34%|
+|Troll-delver: 1 - share: 0.58%|Barachi-berserker: 1 - share: 0.30%|Troll-hexslinger: 2 - share: 0.26%|Vine stalker-berserker: 1 - share: 0.67%||Gargoyle-wanderer: 2 - share: 0.34%|
+|Revenant-artificer: 1 - share: 0.58%|Gargoyle-conjurer: 1 - share: 0.30%|Demonspawn-berserker: 2 - share: 0.26%|Merfolk-gladiator: 1 - share: 0.67%||Barachi-air elementalist: 2 - share: 0.34%|
+|Troll-brigand: 1 - share: 0.58%|Draconian-alchemist: 1 - share: 0.30%|Revenant-conjurer: 2 - share: 0.26%|Draconian-conjurer: 1 - share: 0.67%||Merfolk-monk: 2 - share: 0.34%|
+|Revenant-conjurer: 1 - share: 0.58%|Octopode-hedge wizard: 1 - share: 0.30%|Human-gladiator: 2 - share: 0.26%|Gnoll-air elementalist: 1 - share: 0.67%||Troll-gladiator: 2 - share: 0.34%|
+|Gargoyle-fighter: 1 - share: 0.58%|Troll-wanderer: 1 - share: 0.30%|Vine stalker-berserker: 2 - share: 0.26%|Kobold-ice elementalist: 1 - share: 0.67%||Mountain dwarf-gladiator: 2 - share: 0.34%|
+|Troll-shapeshifter: 1 - share: 0.58%|Gnoll-warper: 1 - share: 0.30%|Minotaur-shapeshifter: 2 - share: 0.26%|||Octopode-shapeshifter: 2 - share: 0.34%|
+|Vine stalker-berserker: 1 - share: 0.58%|Draconian-earth elementalist: 1 - share: 0.30%|Poltergeist-brigand: 2 - share: 0.26%|||Demigod-conjurer: 2 - share: 0.34%|
+|Tengu-fire elementalist: 1 - share: 0.58%|Merfolk-berserker: 1 - share: 0.30%|Minotaur-reaver: 2 - share: 0.26%|||Minotaur-hexslinger: 2 - share: 0.34%|
+|Kobold-brigand: 1 - share: 0.58%|Coglin-artificer: 1 - share: 0.30%|Armataur-conjurer: 2 - share: 0.26%|||Poltergeist-necromancer: 2 - share: 0.34%|
+|Draconian-hunter: 1 - share: 0.58%|Felid-wanderer: 1 - share: 0.30%|Demigod-wanderer: 2 - share: 0.26%|||Coglin-forgewright: 2 - share: 0.34%|
+|Demonspawn-hexslinger: 1 - share: 0.58%|Felid-hedge wizard: 1 - share: 0.30%|Revenant-gladiator: 2 - share: 0.26%|||Djinni-hedge wizard: 2 - share: 0.34%|
+|Spriggan-hexslinger: 1 - share: 0.58%|Troll-hexslinger: 1 - share: 0.30%|Gnoll-hedge wizard: 2 - share: 0.26%|||Naga-ice elementalist: 2 - share: 0.34%|
+|Minotaur-berserker: 1 - share: 0.58%|Vine stalker-conjurer: 1 - share: 0.30%|Human-shapeshifter: 2 - share: 0.26%|||Gnoll-earth elementalist: 2 - share: 0.34%|
+|Armataur-fighter: 1 - share: 0.58%|Minotaur-air elementalist: 1 - share: 0.30%|Minotaur-hunter: 2 - share: 0.26%|||Oni-alchemist: 2 - share: 0.34%|
+|Vine stalker-brigand: 1 - share: 0.58%|Formicid-alchemist: 1 - share: 0.30%|Gnoll-reaver: 2 - share: 0.26%|||Gnoll-hexslinger: 2 - share: 0.34%|
+|Oni-shapeshifter: 1 - share: 0.58%|Naga-alchemist: 1 - share: 0.30%|Djinni-fire elementalist: 2 - share: 0.26%|||Demonspawn-fire elementalist: 2 - share: 0.34%|
+||Troll-delver: 1 - share: 0.30%|Formicid-delver: 2 - share: 0.26%|||Felid-chaos knight: 1 - share: 0.17%|
+||Revenant-artificer: 1 - share: 0.30%|Draconian-brigand: 2 - share: 0.26%|||Troll-cinder acolyte: 1 - share: 0.17%|
+||Troll-brigand: 1 - share: 0.30%|Mountain dwarf-reaver: 2 - share: 0.26%|||Spriggan-hunter: 1 - share: 0.17%|
+||Vine stalker-berserker: 1 - share: 0.30%|Troll-monk: 2 - share: 0.26%|||Barachi-gladiator: 1 - share: 0.17%|
+||Tengu-fire elementalist: 1 - share: 0.30%|Demonspawn-hedge wizard: 2 - share: 0.26%|||Mountain dwarf-warper: 1 - share: 0.17%|
+||Draconian-hunter: 1 - share: 0.30%|Mountain dwarf-cinder acolyte: 2 - share: 0.26%|||Merfolk-reaver: 1 - share: 0.17%|
+||Demonspawn-hexslinger: 1 - share: 0.30%|Naga-shapeshifter: 2 - share: 0.26%|||Formicid-brigand: 1 - share: 0.17%|
+||Spriggan-hexslinger: 1 - share: 0.30%|Naga-gladiator: 2 - share: 0.26%|||Barachi-earth elementalist: 1 - share: 0.17%|
+||Armataur-fighter: 1 - share: 0.30%|Kobold-hunter: 2 - share: 0.26%|||Formicid-monk: 1 - share: 0.17%|
+||Minotaur-shapeshifter: 1 - share: 0.30%|Octopode-alchemist: 2 - share: 0.26%|||Djinni-air elementalist: 1 - share: 0.17%|
+||Draconian-air elementalist: 1 - share: 0.30%|Tengu-gladiator: 2 - share: 0.26%|||Merfolk-warper: 1 - share: 0.17%|
+||Oni-forgewright: 1 - share: 0.30%|Poltergeist-chaos knight: 2 - share: 0.26%|||Demonspawn-necromancer: 1 - share: 0.17%|
+||Vine stalker-monk: 1 - share: 0.30%|Tengu-conjurer: 2 - share: 0.26%|||Mountain dwarf-hunter: 1 - share: 0.17%|
+||Mummy-ice elementalist: 1 - share: 0.30%|Merfolk-fighter: 2 - share: 0.26%|||Merfolk-hexslinger: 1 - share: 0.17%|
+||Mountain dwarf-shapeshifter: 1 - share: 0.30%|Demonspawn-shapeshifter: 2 - share: 0.26%|||Djinni-alchemist: 1 - share: 0.17%|
+||Tengu-fighter: 1 - share: 0.30%|Gargoyle-wanderer: 2 - share: 0.26%|||Gnoll-enchanter: 1 - share: 0.17%|
+||Kobold-delver: 1 - share: 0.30%|Barachi-air elementalist: 2 - share: 0.26%|||Human-fighter: 1 - share: 0.17%|
+||Felid-summoner: 1 - share: 0.30%|Merfolk-monk: 2 - share: 0.26%|||Draconian-artificer: 1 - share: 0.17%|
+||Tengu-air elementalist: 1 - share: 0.30%|Troll-gladiator: 2 - share: 0.26%|||Human-alchemist: 1 - share: 0.17%|
+||Tengu-berserker: 1 - share: 0.30%|Demigod-conjurer: 2 - share: 0.26%|||Barachi-ice elementalist: 1 - share: 0.17%|
+||Revenant-alchemist: 1 - share: 0.30%|Gnoll-air elementalist: 2 - share: 0.26%|||Barachi-berserker: 1 - share: 0.17%|
+||Demonspawn-earth elementalist: 1 - share: 0.30%|Minotaur-hexslinger: 2 - share: 0.26%|||Octopode-hedge wizard: 1 - share: 0.17%|
+||Djinni-artificer: 1 - share: 0.30%|Poltergeist-necromancer: 2 - share: 0.26%|||Troll-wanderer: 1 - share: 0.17%|
+||Gargoyle-necromancer: 1 - share: 0.30%|Coglin-forgewright: 2 - share: 0.26%|||Gnoll-warper: 1 - share: 0.17%|
+||Minotaur-reaver: 1 - share: 0.30%|Djinni-hedge wizard: 2 - share: 0.26%|||Merfolk-berserker: 1 - share: 0.17%|
+||Naga-fighter: 1 - share: 0.30%|Oni-alchemist: 2 - share: 0.26%|||Coglin-artificer: 1 - share: 0.17%|
+||Mountain dwarf-wanderer: 1 - share: 0.30%|Gnoll-hexslinger: 2 - share: 0.26%|||Minotaur-air elementalist: 1 - share: 0.17%|
+||Felid-monk: 1 - share: 0.30%|Felid-chaos knight: 1 - share: 0.13%|||Formicid-alchemist: 1 - share: 0.17%|
+||Armataur-conjurer: 1 - share: 0.30%|Djinni-necromancer: 1 - share: 0.13%|||Revenant-artificer: 1 - share: 0.17%|
+||Demigod-wanderer: 1 - share: 0.30%|Djinni-wanderer: 1 - share: 0.13%|||Revenant-conjurer: 1 - share: 0.17%|
+||Revenant-gladiator: 1 - share: 0.30%|Armataur-warper: 1 - share: 0.13%|||Human-gladiator: 1 - share: 0.17%|
+||Coglin-hunter: 1 - share: 0.30%|Troll-cinder acolyte: 1 - share: 0.13%|||Vine stalker-berserker: 1 - share: 0.17%|
+||Gnoll-hedge wizard: 1 - share: 0.30%|Kobold-chaos knight: 1 - share: 0.13%|||Spriggan-hexslinger: 1 - share: 0.17%|
+||Oni-warper: 1 - share: 0.30%|Spriggan-hunter: 1 - share: 0.13%|||Human-fire elementalist: 1 - share: 0.17%|
+||Poltergeist-alchemist: 1 - share: 0.30%|Barachi-gladiator: 1 - share: 0.13%|||Mountain dwarf-shapeshifter: 1 - share: 0.17%|
+||Oni-fire elementalist: 1 - share: 0.30%|Mountain dwarf-warper: 1 - share: 0.13%|||Tengu-fighter: 1 - share: 0.17%|
+||Tengu-hunter: 1 - share: 0.30%|Merfolk-reaver: 1 - share: 0.13%|||Kobold-delver: 1 - share: 0.17%|
+||Gargoyle-reaver: 1 - share: 0.30%|Barachi-earth elementalist: 1 - share: 0.13%|||Tengu-berserker: 1 - share: 0.17%|
+||Coglin-wanderer: 1 - share: 0.30%|Djinni-earth elementalist: 1 - share: 0.13%|||Djinni-artificer: 1 - share: 0.17%|
+||Minotaur-hunter: 1 - share: 0.30%|Merfolk-warper: 1 - share: 0.13%|||Gargoyle-necromancer: 1 - share: 0.17%|
+||Demonspawn-fighter: 1 - share: 0.30%|Demonspawn-necromancer: 1 - share: 0.13%|||Tengu-hunter: 1 - share: 0.17%|
+||Formicid-fighter: 1 - share: 0.30%|Mountain dwarf-hunter: 1 - share: 0.13%|||Gargoyle-reaver: 1 - share: 0.17%|
+||Djinni-fire elementalist: 1 - share: 0.30%|Merfolk-hexslinger: 1 - share: 0.13%|||Coglin-wanderer: 1 - share: 0.17%|
+||Formicid-delver: 1 - share: 0.30%|Djinni-alchemist: 1 - share: 0.13%|||Gnoll-reaver: 1 - share: 0.17%|
+||Demonspawn-brigand: 1 - share: 0.30%|Gnoll-enchanter: 1 - share: 0.13%|||Formicid-delver: 1 - share: 0.17%|
+||Armataur-berserker: 1 - share: 0.30%|Human-fighter: 1 - share: 0.13%|||Demonspawn-brigand: 1 - share: 0.17%|
+||Draconian-brigand: 1 - share: 0.30%|Djinni-hexslinger: 1 - share: 0.13%|||Mountain dwarf-earth elementalist: 1 - share: 0.17%|
+||Mountain dwarf-earth elementalist: 1 - share: 0.30%|Barachi-berserker: 1 - share: 0.13%|||Barachi-artificer: 1 - share: 0.17%|
+||Barachi-artificer: 1 - share: 0.30%|Octopode-hedge wizard: 1 - share: 0.13%|||Gargoyle-fire elementalist: 1 - share: 0.17%|
+||Gargoyle-fire elementalist: 1 - share: 0.30%|Troll-wanderer: 1 - share: 0.13%|||Oni-cinder acolyte: 1 - share: 0.17%|
+||Minotaur-wanderer: 1 - share: 0.30%|Gnoll-warper: 1 - share: 0.13%|||Minotaur-summoner: 1 - share: 0.17%|
+||Mountain dwarf-reaver: 1 - share: 0.30%|Merfolk-berserker: 1 - share: 0.13%|||Tengu-reaver: 1 - share: 0.17%|
+||Oni-cinder acolyte: 1 - share: 0.30%|Coglin-artificer: 1 - share: 0.13%|||Deep elf-fighter: 1 - share: 0.17%|
+||Troll-monk: 1 - share: 0.30%|Felid-wanderer: 1 - share: 0.13%|||Deep elf-necromancer: 1 - share: 0.17%|
+||Revenant-fighter: 1 - share: 0.30%|Felid-hedge wizard: 1 - share: 0.13%|||Revenant-hedge wizard: 1 - share: 0.17%|
+||Demonspawn-hedge wizard: 1 - share: 0.30%|Vine stalker-conjurer: 1 - share: 0.13%|||Oni-fighter: 1 - share: 0.17%|
+||Mountain dwarf-cinder acolyte: 1 - share: 0.30%|Minotaur-air elementalist: 1 - share: 0.13%|||Mummy-delver: 1 - share: 0.17%|
+||Minotaur-summoner: 1 - share: 0.30%|Formicid-alchemist: 1 - share: 0.13%|||Minotaur-ice elementalist: 1 - share: 0.17%|
+||Demonspawn-conjurer: 1 - share: 0.30%|Troll-delver: 1 - share: 0.13%|||Kobold-hunter: 1 - share: 0.17%|
+||Coglin-reaver: 1 - share: 0.30%|Revenant-artificer: 1 - share: 0.13%|||Gnoll-fire elementalist: 1 - share: 0.17%|
+||Tengu-reaver: 1 - share: 0.30%|Troll-brigand: 1 - share: 0.13%|||Draconian-air elementalist: 1 - share: 0.17%|
+||Deep elf-fighter: 1 - share: 0.30%|Tengu-fire elementalist: 1 - share: 0.13%|||Coglin-fighter: 1 - share: 0.17%|
+||Deep elf-necromancer: 1 - share: 0.30%|Demonspawn-hexslinger: 1 - share: 0.13%|||Oni-air elementalist: 1 - share: 0.17%|
+||Revenant-hedge wizard: 1 - share: 0.30%|Spriggan-hexslinger: 1 - share: 0.13%|||Gnoll-fighter: 1 - share: 0.17%|
+||Oni-fighter: 1 - share: 0.30%|Armataur-fighter: 1 - share: 0.13%|||Vine stalker-gladiator: 1 - share: 0.17%|
+||Mummy-delver: 1 - share: 0.30%|Oni-forgewright: 1 - share: 0.13%|||Demonspawn-shapeshifter: 1 - share: 0.17%|
+||Naga-shapeshifter: 1 - share: 0.30%|Vine stalker-monk: 1 - share: 0.13%|||Gargoyle-artificer: 1 - share: 0.17%|
+|||Mummy-ice elementalist: 1 - share: 0.13%|||Demonspawn-artificer: 1 - share: 0.17%|
+|||Mountain dwarf-shapeshifter: 1 - share: 0.13%|||Naga-air elementalist: 1 - share: 0.17%|
+|||Tengu-fighter: 1 - share: 0.13%|||Demonspawn-wanderer: 1 - share: 0.17%|
+|||Kobold-delver: 1 - share: 0.13%|||Coglin-berserker: 1 - share: 0.17%|
+|||Tengu-berserker: 1 - share: 0.13%|||Coglin-gladiator: 1 - share: 0.17%|
+|||Revenant-alchemist: 1 - share: 0.13%|||Draconian-ice elementalist: 1 - share: 0.17%|
+|||Demonspawn-earth elementalist: 1 - share: 0.13%|||Mountain dwarf-berserker: 1 - share: 0.17%|
+|||Djinni-artificer: 1 - share: 0.13%|||Armataur-wanderer: 1 - share: 0.17%|
+|||Gargoyle-necromancer: 1 - share: 0.13%|||Draconian-wanderer: 1 - share: 0.17%|
+|||Naga-fighter: 1 - share: 0.13%|||Human-necromancer: 1 - share: 0.17%|
+|||Mountain dwarf-wanderer: 1 - share: 0.13%|||Troll-artificer: 1 - share: 0.17%|
+|||Felid-monk: 1 - share: 0.13%|||Oni-hunter: 1 - share: 0.17%|
+|||Oni-warper: 1 - share: 0.13%|||Minotaur-artificer: 1 - share: 0.17%|
+|||Oni-fire elementalist: 1 - share: 0.13%|||Tengu-monk: 1 - share: 0.17%|
+|||Tengu-hunter: 1 - share: 0.13%|||Formicid-ice elementalist: 1 - share: 0.17%|
+|||Gargoyle-reaver: 1 - share: 0.13%|||Gnoll-air elementalist: 1 - share: 0.17%|
+|||Coglin-wanderer: 1 - share: 0.13%|||Draconian-fighter: 1 - share: 0.17%|
+|||Demonspawn-brigand: 1 - share: 0.13%|||Demonspawn-ice elementalist: 1 - share: 0.17%|
+|||Mountain dwarf-earth elementalist: 1 - share: 0.13%|||Armataur-conjurer: 1 - share: 0.17%|
+|||Barachi-artificer: 1 - share: 0.13%|||Merfolk-artificer: 1 - share: 0.17%|
+|||Gargoyle-fire elementalist: 1 - share: 0.13%|||Merfolk-chaos knight: 1 - share: 0.17%|
+|||Oni-cinder acolyte: 1 - share: 0.13%|||Barachi-forgewright: 1 - share: 0.17%|
+|||Minotaur-summoner: 1 - share: 0.13%|||Spriggan-air elementalist: 1 - share: 0.17%|
+|||Coglin-reaver: 1 - share: 0.13%|||Barachi-fighter: 1 - share: 0.17%|
+|||Tengu-reaver: 1 - share: 0.13%|||Oni-ice elementalist: 1 - share: 0.17%|
+|||Deep elf-fighter: 1 - share: 0.13%|||Tengu-summoner: 1 - share: 0.17%|
+|||Deep elf-necromancer: 1 - share: 0.13%|||Kobold-hexslinger: 1 - share: 0.17%|
+|||Revenant-hedge wizard: 1 - share: 0.13%|||Octopode-ice elementalist: 1 - share: 0.17%|
+|||Oni-fighter: 1 - share: 0.13%|||Felid-ice elementalist: 1 - share: 0.17%|
+|||Mummy-delver: 1 - share: 0.13%|||Gnoll-shapeshifter: 1 - share: 0.17%|
+|||Minotaur-ice elementalist: 1 - share: 0.13%|||Human-hunter: 1 - share: 0.17%|
+|||Vine stalker-necromancer: 1 - share: 0.13%|||Draconian-hexslinger: 1 - share: 0.17%|
+|||Gnoll-fire elementalist: 1 - share: 0.13%|||Human-monk: 1 - share: 0.17%|
+|||Oni-air elementalist: 1 - share: 0.13%|||Demigod-artificer: 1 - share: 0.17%|
+|||Gnoll-fighter: 1 - share: 0.13%|||Revenant-earth elementalist: 1 - share: 0.17%|
+|||Gargoyle-artificer: 1 - share: 0.13%|||Gargoyle-cinder acolyte: 1 - share: 0.17%|
+|||Demonspawn-artificer: 1 - share: 0.13%|||Octopode-alchemist: 1 - share: 0.17%|
+|||Naga-air elementalist: 1 - share: 0.13%|||Human-air elementalist: 1 - share: 0.17%|
+|||Demonspawn-wanderer: 1 - share: 0.13%|||Minotaur-cinder acolyte: 1 - share: 0.17%|
+|||Barachi-delver: 1 - share: 0.13%|||Djinni-forgewright: 1 - share: 0.17%|
+|||Coglin-berserker: 1 - share: 0.13%|||Spriggan-delver: 1 - share: 0.17%|
+|||Coglin-gladiator: 1 - share: 0.13%|||Coglin-warper: 1 - share: 0.17%|
+|||Draconian-ice elementalist: 1 - share: 0.13%|||Armataur-delver: 1 - share: 0.17%|
+|||Mountain dwarf-berserker: 1 - share: 0.13%|||Demonspawn-hedge wizard: 1 - share: 0.17%|
+|||Armataur-wanderer: 1 - share: 0.13%|||Djinni-fire elementalist: 1 - share: 0.17%|
+|||Draconian-wanderer: 1 - share: 0.13%|||Demigod-air elementalist: 1 - share: 0.17%|
+|||Human-necromancer: 1 - share: 0.13%|||Poltergeist-ice elementalist: 1 - share: 0.17%|
+|||Draconian-gladiator: 1 - share: 0.13%|||Demonspawn-forgewright: 1 - share: 0.17%|
+|||Octopode-earth elementalist: 1 - share: 0.13%|||Tengu-hedge wizard: 1 - share: 0.17%|
+|||Troll-artificer: 1 - share: 0.13%|||Spriggan-warper: 1 - share: 0.17%|
+|||Oni-hunter: 1 - share: 0.13%|||Minotaur-delver: 1 - share: 0.17%|
+|||Minotaur-artificer: 1 - share: 0.13%|||Kobold-monk: 1 - share: 0.17%|
+|||Tengu-monk: 1 - share: 0.13%|||Human-earth elementalist: 1 - share: 0.17%|
+|||Formicid-artificer: 1 - share: 0.13%|||Demigod-warper: 1 - share: 0.17%|
+|||Formicid-ice elementalist: 1 - share: 0.13%|||Demigod-brigand: 1 - share: 0.17%|
+|||Demonspawn-hunter: 1 - share: 0.13%|||Djinni-ice elementalist: 1 - share: 0.17%|
+|||Oni-gladiator: 1 - share: 0.13%|||Oni-brigand: 1 - share: 0.17%|
+|||Draconian-fighter: 1 - share: 0.13%|||Spriggan-monk: 1 - share: 0.17%|
+|||Octopode-fighter: 1 - share: 0.13%|||Deep elf-ice elementalist: 1 - share: 0.17%|
+|||Merfolk-artificer: 1 - share: 0.13%|||Deep elf-earth elementalist: 1 - share: 0.17%|
+|||Merfolk-chaos knight: 1 - share: 0.13%|||Demonspawn-delver: 1 - share: 0.17%|
+|||Barachi-forgewright: 1 - share: 0.13%||||
+|||Spriggan-air elementalist: 1 - share: 0.13%||||
+|||Barachi-fighter: 1 - share: 0.13%||||
+|||Oni-ice elementalist: 1 - share: 0.13%||||
+|||Tengu-summoner: 1 - share: 0.13%||||
+|||Kobold-hexslinger: 1 - share: 0.13%||||
+|||Barachi-alchemist: 1 - share: 0.13%||||
+|||Octopode-ice elementalist: 1 - share: 0.13%||||
+|||Felid-ice elementalist: 1 - share: 0.13%||||
+|||Gnoll-shapeshifter: 1 - share: 0.13%||||
+|||Human-hunter: 1 - share: 0.13%||||
+|||Draconian-hexslinger: 1 - share: 0.13%||||
+|||Human-monk: 1 - share: 0.13%||||
+|||Demigod-artificer: 1 - share: 0.13%||||
+|||Revenant-earth elementalist: 1 - share: 0.13%||||
+|||Gargoyle-cinder acolyte: 1 - share: 0.13%||||
+|||Human-air elementalist: 1 - share: 0.13%||||
+|||Minotaur-cinder acolyte: 1 - share: 0.13%||||
+|||Djinni-forgewright: 1 - share: 0.13%||||
+|||Spriggan-delver: 1 - share: 0.13%||||
+|||Coglin-warper: 1 - share: 0.13%||||
+|||Merfolk-delver: 1 - share: 0.13%||||
+|||Oni-wanderer: 1 - share: 0.13%||||
+|||Oni-chaos knight: 1 - share: 0.13%||||
+|||Armataur-delver: 1 - share: 0.13%||||
+|||Demigod-air elementalist: 1 - share: 0.13%||||
+|||Poltergeist-ice elementalist: 1 - share: 0.13%||||
+|||Demonspawn-forgewright: 1 - share: 0.13%||||
+|||Tengu-hedge wizard: 1 - share: 0.13%||||
+|||Spriggan-warper: 1 - share: 0.13%||||
+|||Minotaur-delver: 1 - share: 0.13%||||
+|||Kobold-monk: 1 - share: 0.13%||||
+|||Felid-berserker: 1 - share: 0.13%||||
+|||Demigod-warper: 1 - share: 0.13%||||
+|||Demigod-brigand: 1 - share: 0.13%||||
+|||Djinni-ice elementalist: 1 - share: 0.13%||||
+|||Oni-brigand: 1 - share: 0.13%||||
+|||Spriggan-monk: 1 - share: 0.13%||||
+|||Deep elf-ice elementalist: 1 - share: 0.13%||||
+|||Kobold-ice elementalist: 1 - share: 0.13%||||
+|||Poltergeist-hexslinger: 1 - share: 0.13%||||
+|||Demonspawn-delver: 1 - share: 0.13%||||

@@ -1,0 +1,201 @@
+Species
+Top 20(917 games):
+{"count":39,"share":12.074303405572756,"item":"minotaur"},
+{"count":24,"share":7.430340557275541,"item":"revenant"},
+{"count":19,"share":5.88235294117647,"item":"oni"},
+{"count":18,"share":5.572755417956656,"item":"mountain dwarf"},
+{"count":17,"share":5.263157894736842,"item":"troll"},
+{"count":16,"share":4.953560371517028,"item":"armataur"},
+{"count":15,"share":4.643962848297214,"item":"coglin"},
+{"count":14,"share":4.3343653250774,"item":"human"},
+{"count":14,"share":4.3343653250774,"item":"poltergeist"},
+{"count":13,"share":4.024767801857585,"item":"spriggan"},
+{"count":13,"share":4.024767801857585,"item":"gargoyle"},
+{"count":12,"share":3.7151702786377707,"item":"barachi"},
+{"count":11,"share":3.4055727554179565,"item":"merfolk"},
+{"count":11,"share":3.4055727554179565,"item":"vine stalker"},
+{"count":10,"share":3.0959752321981426,"item":"kobold"},
+{"count":10,"share":3.0959752321981426,"item":"felid"},
+{"count":10,"share":3.0959752321981426,"item":"gnoll"},
+{"count":9,"share":2.786377708978328,"item":"formicid"},
+{"count":8,"share":2.476780185758514,"item":"demonspawn"},
+{"count":8,"share":2.476780185758514,"item":"draconian"},
+{"count":7,"share":2.1671826625387,"item":"djinni"},
+{"count":6,"share":1.8575851393188854,"item":"octopode"},
+{"count":5,"share":1.5479876160990713,"item":"deep elf"},
+{"count":5,"share":1.5479876160990713,"item":"demigod"},
+{"count":4,"share":1.238390092879257,"item":"tengu"},
+{"count":3,"share":0.9287925696594427,"item":"naga"},
+{"count":2,"share":0.6191950464396285,"item":"mummy"},
+
+Top 50(917 games):
+{"count":70,"share":12.36749116607774,"item":"minotaur"},
+{"count":49,"share":8.657243816254418,"item":"revenant"},
+{"count":41,"share":7.243816254416961,"item":"mountain dwarf"},
+{"count":33,"share":5.830388692579505,"item":"poltergeist"},
+{"count":31,"share":5.477031802120141,"item":"oni"},
+{"count":29,"share":5.123674911660777,"item":"armataur"},
+{"count":29,"share":5.123674911660777,"item":"troll"},
+{"count":25,"share":4.41696113074205,"item":"gargoyle"},
+{"count":24,"share":4.240282685512367,"item":"coglin"},
+{"count":21,"share":3.7102473498233217,"item":"vine stalker"},
+{"count":20,"share":3.53356890459364,"item":"human"},
+{"count":19,"share":3.356890459363958,"item":"merfolk"},
+{"count":16,"share":2.8268551236749118,"item":"felid"},
+{"count":15,"share":2.65017667844523,"item":"spriggan"},
+{"count":15,"share":2.65017667844523,"item":"barachi"},
+{"count":15,"share":2.65017667844523,"item":"gnoll"},
+{"count":14,"share":2.4734982332155475,"item":"demonspawn"},
+{"count":14,"share":2.4734982332155475,"item":"draconian"},
+{"count":13,"share":2.2968197879858656,"item":"formicid"},
+{"count":13,"share":2.2968197879858656,"item":"deep elf"},
+{"count":12,"share":2.1201413427561837,"item":"kobold"},
+{"count":11,"share":1.9434628975265018,"item":"djinni"},
+{"count":10,"share":1.76678445229682,"item":"demigod"},
+{"count":9,"share":1.5901060070671376,"item":"tengu"},
+{"count":7,"share":1.2367491166077738,"item":"octopode"},
+{"count":7,"share":1.2367491166077738,"item":"naga"},
+{"count":4,"share":0.7067137809187279,"item":"mummy"},
+
+Top 200(917 games):
+{"count":131,"share":11.613475177304965,"item":"minotaur"},
+{"count":77,"share":6.826241134751773,"item":"mountain dwarf"},
+{"count":73,"share":6.471631205673758,"item":"revenant"},
+{"count":72,"share":6.382978723404255,"item":"gargoyle"},
+{"count":64,"share":5.673758865248227,"item":"gnoll"},
+{"count":64,"share":5.673758865248227,"item":"oni"},
+{"count":64,"share":5.673758865248227,"item":"poltergeist"},
+{"count":50,"share":4.432624113475177,"item":"troll"},
+{"count":42,"share":3.723404255319149,"item":"coglin"},
+{"count":41,"share":3.6347517730496453,"item":"armataur"},
+{"count":40,"share":3.546099290780142,"item":"merfolk"},
+{"count":40,"share":3.546099290780142,"item":"demonspawn"},
+{"count":35,"share":3.102836879432624,"item":"draconian"},
+{"count":32,"share":2.8368794326241136,"item":"vine stalker"},
+{"count":31,"share":2.74822695035461,"item":"human"},
+{"count":29,"share":2.5709219858156027,"item":"barachi"},
+{"count":29,"share":2.5709219858156027,"item":"formicid"},
+{"count":28,"share":2.4822695035460995,"item":"octopode"},
+{"count":27,"share":2.393617021276596,"item":"demigod"},
+{"count":25,"share":2.2163120567375887,"item":"felid"},
+{"count":23,"share":2.039007092198582,"item":"djinni"},
+{"count":23,"share":2.039007092198582,"item":"deep elf"},
+{"count":22,"share":1.950354609929078,"item":"spriggan"},
+{"count":21,"share":1.8617021276595744,"item":"kobold"},
+{"count":20,"share":1.773049645390071,"item":"tengu"},
+{"count":20,"share":1.773049645390071,"item":"naga"},
+{"count":5,"share":0.44326241134751776,"item":"mummy"},
+
+15 Runes(917 games):
+{"count":24,"share":14.117647058823529,"item":"gargoyle"},
+{"count":11,"share":6.470588235294119,"item":"revenant"},
+{"count":10,"share":5.88235294117647,"item":"troll"},
+{"count":10,"share":5.88235294117647,"item":"demonspawn"},
+{"count":10,"share":5.88235294117647,"item":"felid"},
+{"count":9,"share":5.294117647058823,"item":"human"},
+{"count":8,"share":4.705882352941177,"item":"vine stalker"},
+{"count":8,"share":4.705882352941177,"item":"barachi"},
+{"count":7,"share":4.117647058823529,"item":"djinni"},
+{"count":7,"share":4.117647058823529,"item":"minotaur"},
+{"count":7,"share":4.117647058823529,"item":"poltergeist"},
+{"count":6,"share":3.5294117647058822,"item":"formicid"},
+{"count":6,"share":3.5294117647058822,"item":"gnoll"},
+{"count":6,"share":3.5294117647058822,"item":"oni"},
+{"count":6,"share":3.5294117647058822,"item":"octopode"},
+{"count":5,"share":2.941176470588235,"item":"deep elf"},
+{"count":5,"share":2.941176470588235,"item":"mountain dwarf"},
+{"count":5,"share":2.941176470588235,"item":"draconian"},
+{"count":4,"share":2.3529411764705883,"item":"kobold"},
+{"count":4,"share":2.3529411764705883,"item":"coglin"},
+{"count":3,"share":1.7647058823529411,"item":"armataur"},
+{"count":3,"share":1.7647058823529411,"item":"merfolk"},
+{"count":2,"share":1.1764705882352942,"item":"tengu"},
+{"count":1,"share":0.5882352941176471,"item":"spriggan"},
+{"count":1,"share":0.5882352941176471,"item":"demigod"},
+{"count":1,"share":0.5882352941176471,"item":"mummy"},
+{"count":1,"share":0.5882352941176471,"item":"naga"},
+
+Zigg Cleared(917 games):
+{"count":9,"share":13.043478260869565,"item":"demonspawn"},
+{"count":7,"share":10.144927536231885,"item":"gargoyle"},
+{"count":7,"share":10.144927536231885,"item":"human"},
+{"count":7,"share":10.144927536231885,"item":"revenant"},
+{"count":5,"share":7.246376811594203,"item":"vine stalker"},
+{"count":4,"share":5.797101449275362,"item":"djinni"},
+{"count":4,"share":5.797101449275362,"item":"deep elf"},
+{"count":4,"share":5.797101449275362,"item":"octopode"},
+{"count":3,"share":4.3478260869565215,"item":"felid"},
+{"count":3,"share":4.3478260869565215,"item":"poltergeist"},
+{"count":2,"share":2.898550724637681,"item":"naga"},
+{"count":2,"share":2.898550724637681,"item":"tengu"},
+{"count":2,"share":2.898550724637681,"item":"draconian"},
+{"count":2,"share":2.898550724637681,"item":"oni"},
+{"count":2,"share":2.898550724637681,"item":"gnoll"},
+{"count":1,"share":1.4492753623188406,"item":"armataur"},
+{"count":1,"share":1.4492753623188406,"item":"mountain dwarf"},
+{"count":1,"share":1.4492753623188406,"item":"merfolk"},
+{"count":1,"share":1.4492753623188406,"item":"troll"},
+{"count":1,"share":1.4492753623188406,"item":"barachi"},
+{"count":1,"share":1.4492753623188406,"item":"kobold"},
+
+No Zigg(917 games):
+{"count":119,"share":12.977099236641221,"item":"minotaur"},
+{"count":71,"share":7.742639040348964,"item":"mountain dwarf"},
+{"count":59,"share":6.4340239912759,"item":"revenant"},
+{"count":57,"share":6.2159214830970555,"item":"gnoll"},
+{"count":55,"share":5.997818974918212,"item":"poltergeist"},
+{"count":53,"share":5.779716466739368,"item":"gargoyle"},
+{"count":51,"share":5.561613958560523,"item":"oni"},
+{"count":40,"share":4.362050163576881,"item":"troll"},
+{"count":37,"share":4.0348964013086155,"item":"coglin"},
+{"count":36,"share":3.925845147219193,"item":"armataur"},
+{"count":36,"share":3.925845147219193,"item":"merfolk"},
+{"count":28,"share":3.0534351145038165,"item":"draconian"},
+{"count":27,"share":2.9443838604143946,"item":"demigod"},
+{"count":26,"share":2.8353326063249726,"item":"demonspawn"},
+{"count":23,"share":2.5081788440567068,"item":"barachi"},
+{"count":23,"share":2.5081788440567068,"item":"formicid"},
+{"count":22,"share":2.399127589967285,"item":"spriggan"},
+{"count":21,"share":2.2900763358778624,"item":"vine stalker"},
+{"count":19,"share":2.0719738276990185,"item":"human"},
+{"count":18,"share":1.9629225736095965,"item":"octopode"},
+{"count":18,"share":1.9629225736095965,"item":"deep elf"},
+{"count":16,"share":1.7448200654307526,"item":"tengu"},
+{"count":15,"share":1.6357688113413305,"item":"felid"},
+{"count":15,"share":1.6357688113413305,"item":"naga"},
+{"count":15,"share":1.6357688113413305,"item":"kobold"},
+{"count":13,"share":1.4176663031624863,"item":"djinni"},
+{"count":4,"share":0.43620501635768816,"item":"mummy"},
+
+
+**Species**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Minotaur: 39 - share: 12.07%|Minotaur: 70 - share: 12.37%|Minotaur: 131 - share: 11.61%|Gargoyle: 24 - share: 14.12%|Demonspawn: 9 - share: 13.04%|Minotaur: 119 - share: 12.98%|
+|Revenant: 24 - share: 7.43%|Revenant: 49 - share: 8.66%|Mountain dwarf: 77 - share: 6.83%|Revenant: 11 - share: 6.47%|Gargoyle: 7 - share: 10.14%|Mountain dwarf: 71 - share: 7.74%|
+|Oni: 19 - share: 5.88%|Mountain dwarf: 41 - share: 7.24%|Revenant: 73 - share: 6.47%|Troll: 10 - share: 5.88%|Human: 7 - share: 10.14%|Revenant: 59 - share: 6.43%|
+|Mountain dwarf: 18 - share: 5.57%|Poltergeist: 33 - share: 5.83%|Gargoyle: 72 - share: 6.38%|Demonspawn: 10 - share: 5.88%|Revenant: 7 - share: 10.14%|Gnoll: 57 - share: 6.22%|
+|Troll: 17 - share: 5.26%|Oni: 31 - share: 5.48%|Gnoll: 64 - share: 5.67%|Felid: 10 - share: 5.88%|Vine stalker: 5 - share: 7.25%|Poltergeist: 55 - share: 6.00%|
+|Armataur: 16 - share: 4.95%|Armataur: 29 - share: 5.12%|Oni: 64 - share: 5.67%|Human: 9 - share: 5.29%|Djinni: 4 - share: 5.80%|Gargoyle: 53 - share: 5.78%|
+|Coglin: 15 - share: 4.64%|Troll: 29 - share: 5.12%|Poltergeist: 64 - share: 5.67%|Vine stalker: 8 - share: 4.71%|Deep elf: 4 - share: 5.80%|Oni: 51 - share: 5.56%|
+|Human: 14 - share: 4.33%|Gargoyle: 25 - share: 4.42%|Troll: 50 - share: 4.43%|Barachi: 8 - share: 4.71%|Octopode: 4 - share: 5.80%|Troll: 40 - share: 4.36%|
+|Poltergeist: 14 - share: 4.33%|Coglin: 24 - share: 4.24%|Coglin: 42 - share: 3.72%|Djinni: 7 - share: 4.12%|Felid: 3 - share: 4.35%|Coglin: 37 - share: 4.03%|
+|Spriggan: 13 - share: 4.02%|Vine stalker: 21 - share: 3.71%|Armataur: 41 - share: 3.63%|Minotaur: 7 - share: 4.12%|Poltergeist: 3 - share: 4.35%|Armataur: 36 - share: 3.93%|
+|Gargoyle: 13 - share: 4.02%|Human: 20 - share: 3.53%|Merfolk: 40 - share: 3.55%|Poltergeist: 7 - share: 4.12%|Naga: 2 - share: 2.90%|Merfolk: 36 - share: 3.93%|
+|Barachi: 12 - share: 3.72%|Merfolk: 19 - share: 3.36%|Demonspawn: 40 - share: 3.55%|Formicid: 6 - share: 3.53%|Tengu: 2 - share: 2.90%|Draconian: 28 - share: 3.05%|
+|Merfolk: 11 - share: 3.41%|Felid: 16 - share: 2.83%|Draconian: 35 - share: 3.10%|Gnoll: 6 - share: 3.53%|Draconian: 2 - share: 2.90%|Demigod: 27 - share: 2.94%|
+|Vine stalker: 11 - share: 3.41%|Spriggan: 15 - share: 2.65%|Vine stalker: 32 - share: 2.84%|Oni: 6 - share: 3.53%|Oni: 2 - share: 2.90%|Demonspawn: 26 - share: 2.84%|
+|Kobold: 10 - share: 3.10%|Barachi: 15 - share: 2.65%|Human: 31 - share: 2.75%|Octopode: 6 - share: 3.53%|Gnoll: 2 - share: 2.90%|Barachi: 23 - share: 2.51%|
+|Felid: 10 - share: 3.10%|Gnoll: 15 - share: 2.65%|Barachi: 29 - share: 2.57%|Deep elf: 5 - share: 2.94%|Armataur: 1 - share: 1.45%|Formicid: 23 - share: 2.51%|
+|Gnoll: 10 - share: 3.10%|Demonspawn: 14 - share: 2.47%|Formicid: 29 - share: 2.57%|Mountain dwarf: 5 - share: 2.94%|Mountain dwarf: 1 - share: 1.45%|Spriggan: 22 - share: 2.40%|
+|Formicid: 9 - share: 2.79%|Draconian: 14 - share: 2.47%|Octopode: 28 - share: 2.48%|Draconian: 5 - share: 2.94%|Merfolk: 1 - share: 1.45%|Vine stalker: 21 - share: 2.29%|
+|Demonspawn: 8 - share: 2.48%|Formicid: 13 - share: 2.30%|Demigod: 27 - share: 2.39%|Kobold: 4 - share: 2.35%|Troll: 1 - share: 1.45%|Human: 19 - share: 2.07%|
+|Draconian: 8 - share: 2.48%|Deep elf: 13 - share: 2.30%|Felid: 25 - share: 2.22%|Coglin: 4 - share: 2.35%|Barachi: 1 - share: 1.45%|Octopode: 18 - share: 1.96%|
+|Djinni: 7 - share: 2.17%|Kobold: 12 - share: 2.12%|Djinni: 23 - share: 2.04%|Armataur: 3 - share: 1.76%|Kobold: 1 - share: 1.45%|Deep elf: 18 - share: 1.96%|
+|Octopode: 6 - share: 1.86%|Djinni: 11 - share: 1.94%|Deep elf: 23 - share: 2.04%|Merfolk: 3 - share: 1.76%||Tengu: 16 - share: 1.74%|
+|Deep elf: 5 - share: 1.55%|Demigod: 10 - share: 1.77%|Spriggan: 22 - share: 1.95%|Tengu: 2 - share: 1.18%||Felid: 15 - share: 1.64%|
+|Demigod: 5 - share: 1.55%|Tengu: 9 - share: 1.59%|Kobold: 21 - share: 1.86%|Spriggan: 1 - share: 0.59%||Naga: 15 - share: 1.64%|
+|Tengu: 4 - share: 1.24%|Octopode: 7 - share: 1.24%|Tengu: 20 - share: 1.77%|Demigod: 1 - share: 0.59%||Kobold: 15 - share: 1.64%|
+|Naga: 3 - share: 0.93%|Naga: 7 - share: 1.24%|Naga: 20 - share: 1.77%|Mummy: 1 - share: 0.59%||Djinni: 13 - share: 1.42%|
+|Mummy: 2 - share: 0.62%|Mummy: 4 - share: 0.71%|Mummy: 5 - share: 0.44%|Naga: 1 - share: 0.59%||Mummy: 4 - share: 0.44%|

@@ -1,0 +1,62 @@
+Shapeshift Early
+Top 20(917 games):
+{"count":7,"item":"","share":38.88888888888889},
+{"count":5,"item":"quill","share":27.77777777777778},
+{"count":2,"item":"yak","share":11.11111111111111},
+{"count":2,"item":"scarab","share":11.11111111111111},
+{"count":1,"item":"scroll","share":5.555555555555555},
+{"count":1,"item":"maw","share":5.555555555555555},
+
+Top 50(917 games):
+{"count":15,"item":"","share":42.857142857142854},
+{"count":7,"item":"quill","share":20},
+{"count":4,"item":"scroll","share":11.428571428571429},
+{"count":3,"item":"scarab","share":8.571428571428571},
+{"count":3,"item":"medusa","share":8.571428571428571},
+{"count":2,"item":"yak","share":5.714285714285714},
+{"count":1,"item":"maw","share":2.857142857142857},
+
+Top 200(917 games):
+{"count":27,"item":"","share":32.142857142857146},
+{"count":18,"item":"quill","share":21.428571428571427},
+{"count":10,"item":"yak","share":11.904761904761903},
+{"count":9,"item":"scroll","share":10.714285714285714},
+{"count":8,"item":"maw","share":9.523809523809524},
+{"count":7,"item":"medusa","share":8.333333333333332},
+{"count":5,"item":"scarab","share":5.952380952380952},
+
+15 Runes(917 games):
+{"count":6,"item":"","share":40},
+{"count":3,"item":"quill","share":20},
+{"count":2,"item":"medusa","share":13.333333333333334},
+{"count":2,"item":"maw","share":13.333333333333334},
+{"count":2,"item":"yak","share":13.333333333333334},
+
+Zigg Cleared(917 games):
+{"count":3,"item":"","share":42.857142857142854},
+{"count":1,"item":"medusa","share":14.285714285714285},
+{"count":1,"item":"maw","share":14.285714285714285},
+{"count":1,"item":"yak","share":14.285714285714285},
+{"count":1,"item":"quill","share":14.285714285714285},
+
+No Zigg(917 games):
+{"count":20,"item":"","share":28.169014084507044},
+{"count":16,"item":"quill","share":22.535211267605636},
+{"count":9,"item":"yak","share":12.676056338028168},
+{"count":9,"item":"scroll","share":12.676056338028168},
+{"count":7,"item":"maw","share":9.859154929577464},
+{"count":5,"item":"scarab","share":7.042253521126761},
+{"count":5,"item":"medusa","share":7.042253521126761},
+
+
+**Shapeshift Early**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|: 7 - share: 38.89%|: 15 - share: 42.86%|: 27 - share: 32.14%|: 6 - share: 40.00%|: 3 - share: 42.86%|: 20 - share: 28.17%|
+|Quill: 5 - share: 27.78%|Quill: 7 - share: 20.00%|Quill: 18 - share: 21.43%|Quill: 3 - share: 20.00%|Medusa: 1 - share: 14.29%|Quill: 16 - share: 22.54%|
+|Yak: 2 - share: 11.11%|Scroll: 4 - share: 11.43%|Yak: 10 - share: 11.90%|Medusa: 2 - share: 13.33%|Maw: 1 - share: 14.29%|Yak: 9 - share: 12.68%|
+|Scarab: 2 - share: 11.11%|Scarab: 3 - share: 8.57%|Scroll: 9 - share: 10.71%|Maw: 2 - share: 13.33%|Yak: 1 - share: 14.29%|Scroll: 9 - share: 12.68%|
+|Scroll: 1 - share: 5.56%|Medusa: 3 - share: 8.57%|Maw: 8 - share: 9.52%|Yak: 2 - share: 13.33%|Quill: 1 - share: 14.29%|Maw: 7 - share: 9.86%|
+|Maw: 1 - share: 5.56%|Yak: 2 - share: 5.71%|Medusa: 7 - share: 8.33%|||Scarab: 5 - share: 7.04%|
+||Maw: 1 - share: 2.86%|Scarab: 5 - share: 5.95%|||Medusa: 5 - share: 7.04%|

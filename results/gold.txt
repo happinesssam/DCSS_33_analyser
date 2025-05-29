@@ -1,0 +1,18 @@
+Gold
+Top 20(917 games):
+{"gold":10380,"goldSpent":5349,"goldGozag":29696,"goldGozagSpent":9612,"goldNoGozag":8546,"goldNoGozagSpent":4945}
+Top 50(917 games):
+{"gold":10718,"goldSpent":5176,"goldGozag":32589,"goldGozagSpent":9023,"goldNoGozag":8784,"goldNoGozagSpent":4836}
+Top 200(917 games):
+{"gold":10325,"goldSpent":5238,"goldGozag":23418,"goldGozagSpent":8513,"goldNoGozag":9176,"goldNoGozagSpent":4951}
+15 Runes(917 games):
+{"gold":18894,"goldSpent":6460,"goldGozag":39434,"goldGozagSpent":9028,"goldNoGozag":13759,"goldNoGozagSpent":5818}
+Zigg Cleared(917 games):
+{"gold":26832,"goldSpent":8134,"goldGozag":47026,"goldGozagSpent":10219,"goldNoGozag":14622,"goldNoGozagSpent":6873}
+No Zigg(917 games):
+{"gold":8994,"goldSpent":5012,"goldGozag":12703,"goldGozagSpent":7664,"goldNoGozag":8771,"goldNoGozagSpent":4853}
+
+**Gold**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|

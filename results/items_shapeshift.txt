@@ -1,0 +1,93 @@
+Shapeshift
+Top 20(917 games):
+{"count":33,"item":"death","share":53.2258064516129},
+{"count":10,"item":"","share":16.129032258064516},
+{"count":6,"item":"statue","share":9.67741935483871},
+{"count":5,"item":"hive","share":8.064516129032258},
+{"count":2,"item":"medusa","share":3.225806451612903},
+{"count":2,"item":"vampire","share":3.225806451612903},
+{"count":2,"item":"aqua","share":3.225806451612903},
+{"count":1,"item":"storm","share":1.6129032258064515},
+{"count":1,"item":"maw","share":1.6129032258064515},
+
+Top 50(917 games):
+{"count":49,"item":"death","share":49.494949494949495},
+{"count":16,"item":"","share":16.161616161616163},
+{"count":8,"item":"statue","share":8.080808080808081},
+{"count":7,"item":"vampire","share":7.07070707070707},
+{"count":6,"item":"storm","share":6.0606060606060606},
+{"count":5,"item":"hive","share":5.05050505050505},
+{"count":2,"item":"medusa","share":2.0202020202020203},
+{"count":2,"item":"aqua","share":2.0202020202020203},
+{"count":1,"item":"maw","share":1.0101010101010102},
+{"count":1,"item":"blade","share":1.0101010101010102},
+{"count":1,"item":"werewolf","share":1.0101010101010102},
+{"count":1,"item":"serpent","share":1.0101010101010102},
+
+Top 200(917 games):
+{"count":78,"item":"death","share":41.48936170212766},
+{"count":37,"item":"","share":19.680851063829788},
+{"count":23,"item":"statue","share":12.23404255319149},
+{"count":10,"item":"storm","share":5.319148936170213},
+{"count":9,"item":"vampire","share":4.787234042553192},
+{"count":7,"item":"hive","share":3.723404255319149},
+{"count":7,"item":"aqua","share":3.723404255319149},
+{"count":4,"item":"maw","share":2.127659574468085},
+{"count":4,"item":"dragon","share":2.127659574468085},
+{"count":3,"item":"werewolf","share":1.5957446808510638},
+{"count":2,"item":"medusa","share":1.0638297872340425},
+{"count":2,"item":"quill","share":1.0638297872340425},
+{"count":1,"item":"blade","share":0.5319148936170213},
+{"count":1,"item":"serpent","share":0.5319148936170213},
+
+15 Runes(917 games):
+{"count":66,"item":"death","share":62.857142857142854},
+{"count":17,"item":"","share":16.19047619047619},
+{"count":8,"item":"statue","share":7.6190476190476195},
+{"count":5,"item":"vampire","share":4.761904761904762},
+{"count":4,"item":"storm","share":3.8095238095238098},
+{"count":3,"item":"hive","share":2.857142857142857},
+{"count":2,"item":"aqua","share":1.9047619047619049},
+
+Zigg Cleared(917 games):
+{"count":32,"item":"death","share":69.56521739130434},
+{"count":8,"item":"","share":17.391304347826086},
+{"count":2,"item":"hive","share":4.3478260869565215},
+{"count":2,"item":"aqua","share":4.3478260869565215},
+{"count":1,"item":"statue","share":2.1739130434782608},
+{"count":1,"item":"storm","share":2.1739130434782608},
+
+No Zigg(917 games):
+{"count":21,"item":"death","share":24.137931034482758},
+{"count":21,"item":"","share":24.137931034482758},
+{"count":14,"item":"statue","share":16.091954022988507},
+{"count":6,"item":"storm","share":6.896551724137931},
+{"count":5,"item":"aqua","share":5.747126436781609},
+{"count":4,"item":"maw","share":4.597701149425287},
+{"count":4,"item":"vampire","share":4.597701149425287},
+{"count":3,"item":"hive","share":3.4482758620689653},
+{"count":3,"item":"werewolf","share":3.4482758620689653},
+{"count":2,"item":"medusa","share":2.2988505747126435},
+{"count":2,"item":"dragon","share":2.2988505747126435},
+{"count":1,"item":"blade","share":1.1494252873563218},
+{"count":1,"item":"quill","share":1.1494252873563218},
+
+
+**Shapeshift**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Death: 33 - share: 53.23%|Death: 49 - share: 49.49%|Death: 78 - share: 41.49%|Death: 66 - share: 62.86%|Death: 32 - share: 69.57%|Death: 21 - share: 24.14%|
+|: 10 - share: 16.13%|: 16 - share: 16.16%|: 37 - share: 19.68%|: 17 - share: 16.19%|: 8 - share: 17.39%|: 21 - share: 24.14%|
+|Statue: 6 - share: 9.68%|Statue: 8 - share: 8.08%|Statue: 23 - share: 12.23%|Statue: 8 - share: 7.62%|Hive: 2 - share: 4.35%|Statue: 14 - share: 16.09%|
+|Hive: 5 - share: 8.06%|Vampire: 7 - share: 7.07%|Storm: 10 - share: 5.32%|Vampire: 5 - share: 4.76%|Aqua: 2 - share: 4.35%|Storm: 6 - share: 6.90%|
+|Medusa: 2 - share: 3.23%|Storm: 6 - share: 6.06%|Vampire: 9 - share: 4.79%|Storm: 4 - share: 3.81%|Statue: 1 - share: 2.17%|Aqua: 5 - share: 5.75%|
+|Vampire: 2 - share: 3.23%|Hive: 5 - share: 5.05%|Hive: 7 - share: 3.72%|Hive: 3 - share: 2.86%|Storm: 1 - share: 2.17%|Maw: 4 - share: 4.60%|
+|Aqua: 2 - share: 3.23%|Medusa: 2 - share: 2.02%|Aqua: 7 - share: 3.72%|Aqua: 2 - share: 1.90%||Vampire: 4 - share: 4.60%|
+|Storm: 1 - share: 1.61%|Aqua: 2 - share: 2.02%|Maw: 4 - share: 2.13%|||Hive: 3 - share: 3.45%|
+|Maw: 1 - share: 1.61%|Maw: 1 - share: 1.01%|Dragon: 4 - share: 2.13%|||Werewolf: 3 - share: 3.45%|
+||Blade: 1 - share: 1.01%|Werewolf: 3 - share: 1.60%|||Medusa: 2 - share: 2.30%|
+||Werewolf: 1 - share: 1.01%|Medusa: 2 - share: 1.06%|||Dragon: 2 - share: 2.30%|
+||Serpent: 1 - share: 1.01%|Quill: 2 - share: 1.06%|||Blade: 1 - share: 1.15%|
+|||Blade: 1 - share: 0.53%|||Quill: 1 - share: 1.15%|
+|||Serpent: 1 - share: 0.53%||||

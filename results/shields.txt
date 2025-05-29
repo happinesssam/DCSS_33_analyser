@@ -1,0 +1,18 @@
+LeveL
+Top 20 (323 games):
+{"usedShield":139,"share":81.76470588235294,"games":170}
+
+Top 50 (566 games):
+{"usedShield":267,"share":81.90184049079755,"games":326}
+
+Top 200 (1128 games):
+{"usedShield":494,"share":79.54911433172302,"games":621}
+
+15 Rune (170 games):
+{"usedShield":44,"share":89.79591836734694,"games":49}
+
+Cleared Zigg (69 games):
+{"usedShield":1,"share":100,"games":1}
+
+No Ziggs (917 games):
+{"usedShield":443,"share":79.81981981981981,"games":555}

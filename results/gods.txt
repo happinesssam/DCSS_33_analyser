@@ -1,0 +1,188 @@
+Gods
+Top 20(917 games):
+{"count":28,"share":8.6687306501548,"item":"gozag"},
+{"count":28,"share":8.6687306501548,"item":"okawaru"},
+{"count":23,"share":7.120743034055728,"item":"vehumet"},
+{"count":21,"share":6.5015479876160995,"item":"hepliaklqana"},
+{"count":20,"share":6.191950464396285,"item":"wu jian"},
+{"count":17,"share":5.263157894736842,"item":"ashenzari"},
+{"count":13,"share":4.024767801857585,"item":"ru"},
+{"count":12,"share":3.7151702786377707,"item":"the shining one"},
+{"count":12,"share":3.7151702786377707,"item":"elyvilon"},
+{"count":12,"share":3.7151702786377707,"item":"dithmenos"},
+{"count":12,"share":3.7151702786377707,"item":"trog"},
+{"count":11,"share":3.4055727554179565,"item":"uskayaw"},
+{"count":11,"share":3.4055727554179565,"item":"jiyva"},
+{"count":10,"share":3.0959752321981426,"item":"yredelemnul"},
+{"count":10,"share":3.0959752321981426,"item":"makhleb"},
+{"count":10,"share":3.0959752321981426,"item":"sif muna"},
+{"count":9,"share":2.786377708978328,"item":"beogh"},
+{"count":8,"share":2.476780185758514,"item":"fedhas"},
+{"count":8,"share":2.476780185758514,"item":"cheibriados"},
+{"count":8,"share":2.476780185758514,"item":""},
+{"count":7,"share":2.1671826625387,"item":"ignis"},
+{"count":7,"share":2.1671826625387,"item":"kikubaaqudgha"},
+{"count":7,"share":2.1671826625387,"item":"nemelex xobeh"},
+{"count":6,"share":1.8575851393188854,"item":"zin"},
+{"count":6,"share":1.8575851393188854,"item":"qazlal"},
+{"count":4,"share":1.238390092879257,"item":"xom"},
+{"count":3,"share":0.9287925696594427,"item":"lugonu"},
+
+Top 50(917 games):
+{"count":47,"share":8.303886925795052,"item":"okawaru"},
+{"count":46,"share":8.12720848056537,"item":"gozag"},
+{"count":41,"share":7.243816254416961,"item":"wu jian"},
+{"count":38,"share":6.713780918727916,"item":"vehumet"},
+{"count":33,"share":5.830388692579505,"item":"hepliaklqana"},
+{"count":28,"share":4.946996466431095,"item":"trog"},
+{"count":27,"share":4.770318021201414,"item":"ashenzari"},
+{"count":23,"share":4.063604240282685,"item":"the shining one"},
+{"count":23,"share":4.063604240282685,"item":"jiyva"},
+{"count":22,"share":3.8869257950530036,"item":"dithmenos"},
+{"count":22,"share":3.8869257950530036,"item":"ru"},
+{"count":20,"share":3.53356890459364,"item":"elyvilon"},
+{"count":20,"share":3.53356890459364,"item":"makhleb"},
+{"count":17,"share":3.0035335689045937,"item":"yredelemnul"},
+{"count":17,"share":3.0035335689045937,"item":"cheibriados"},
+{"count":15,"share":2.65017667844523,"item":"uskayaw"},
+{"count":15,"share":2.65017667844523,"item":"sif muna"},
+{"count":14,"share":2.4734982332155475,"item":"fedhas"},
+{"count":14,"share":2.4734982332155475,"item":"qazlal"},
+{"count":14,"share":2.4734982332155475,"item":"nemelex xobeh"},
+{"count":13,"share":2.2968197879858656,"item":""},
+{"count":13,"share":2.2968197879858656,"item":"beogh"},
+{"count":12,"share":2.1201413427561837,"item":"ignis"},
+{"count":9,"share":1.5901060070671376,"item":"xom"},
+{"count":8,"share":1.4134275618374559,"item":"kikubaaqudgha"},
+{"count":8,"share":1.4134275618374559,"item":"lugonu"},
+{"count":7,"share":1.2367491166077738,"item":"zin"},
+
+Top 200(917 games):
+{"count":105,"share":9.308510638297872,"item":"vehumet"},
+{"count":93,"share":8.24468085106383,"item":"okawaru"},
+{"count":91,"share":8.067375886524824,"item":"gozag"},
+{"count":77,"share":6.826241134751773,"item":"ashenzari"},
+{"count":76,"share":6.73758865248227,"item":"wu jian"},
+{"count":64,"share":5.673758865248227,"item":"hepliaklqana"},
+{"count":57,"share":5.053191489361701,"item":"trog"},
+{"count":53,"share":4.698581560283688,"item":"the shining one"},
+{"count":45,"share":3.9893617021276597,"item":"dithmenos"},
+{"count":39,"share":3.4574468085106385,"item":"makhleb"},
+{"count":39,"share":3.4574468085106385,"item":"jiyva"},
+{"count":38,"share":3.368794326241135,"item":"sif muna"},
+{"count":38,"share":3.368794326241135,"item":"ru"},
+{"count":37,"share":3.280141843971631,"item":"cheibriados"},
+{"count":36,"share":3.1914893617021276,"item":"yredelemnul"},
+{"count":32,"share":2.8368794326241136,"item":"qazlal"},
+{"count":30,"share":2.6595744680851063,"item":""},
+{"count":28,"share":2.4822695035460995,"item":"uskayaw"},
+{"count":26,"share":2.304964539007092,"item":"elyvilon"},
+{"count":21,"share":1.8617021276595744,"item":"nemelex xobeh"},
+{"count":19,"share":1.6843971631205674,"item":"beogh"},
+{"count":16,"share":1.4184397163120568,"item":"fedhas"},
+{"count":15,"share":1.3297872340425532,"item":"xom"},
+{"count":15,"share":1.3297872340425532,"item":"ignis"},
+{"count":14,"share":1.2411347517730498,"item":"zin"},
+{"count":12,"share":1.0638297872340425,"item":"lugonu"},
+{"count":11,"share":0.975177304964539,"item":"kikubaaqudgha"},
+{"count":1,"share":0.08865248226950355,"item":"the shining one (penitent)"},
+
+15 Runes(917 games):
+{"count":34,"share":20,"item":"gozag"},
+{"count":29,"share":17.058823529411764,"item":"wu jian"},
+{"count":23,"share":13.529411764705882,"item":"the shining one"},
+{"count":16,"share":9.411764705882353,"item":"vehumet"},
+{"count":10,"share":5.88235294117647,"item":"sif muna"},
+{"count":9,"share":5.294117647058823,"item":"cheibriados"},
+{"count":8,"share":4.705882352941177,"item":"jiyva"},
+{"count":6,"share":3.5294117647058822,"item":"makhleb"},
+{"count":6,"share":3.5294117647058822,"item":"ashenzari"},
+{"count":5,"share":2.941176470588235,"item":"okawaru"},
+{"count":4,"share":2.3529411764705883,"item":"hepliaklqana"},
+{"count":4,"share":2.3529411764705883,"item":"dithmenos"},
+{"count":3,"share":1.7647058823529411,"item":""},
+{"count":2,"share":1.1764705882352942,"item":"kikubaaqudgha"},
+{"count":2,"share":1.1764705882352942,"item":"yredelemnul"},
+{"count":2,"share":1.1764705882352942,"item":"zin"},
+{"count":1,"share":0.5882352941176471,"item":"uskayaw"},
+{"count":1,"share":0.5882352941176471,"item":"ignis"},
+{"count":1,"share":0.5882352941176471,"item":"qazlal"},
+{"count":1,"share":0.5882352941176471,"item":"ru"},
+{"count":1,"share":0.5882352941176471,"item":"nemelex xobeh"},
+{"count":1,"share":0.5882352941176471,"item":"lugonu"},
+{"count":1,"share":0.5882352941176471,"item":"the shining one (penitent)"},
+
+Zigg Cleared(917 games):
+{"count":26,"share":37.68115942028986,"item":"gozag"},
+{"count":15,"share":21.73913043478261,"item":"vehumet"},
+{"count":9,"share":13.043478260869565,"item":"wu jian"},
+{"count":4,"share":5.797101449275362,"item":"makhleb"},
+{"count":4,"share":5.797101449275362,"item":"sif muna"},
+{"count":3,"share":4.3478260869565215,"item":"hepliaklqana"},
+{"count":3,"share":4.3478260869565215,"item":"jiyva"},
+{"count":3,"share":4.3478260869565215,"item":"cheibriados"},
+{"count":2,"share":2.898550724637681,"item":"dithmenos"},
+
+No Zigg(917 games):
+{"count":85,"share":9.269356597600872,"item":"okawaru"},
+{"count":74,"share":8.069792802617231,"item":"vehumet"},
+{"count":71,"share":7.742639040348964,"item":"ashenzari"},
+{"count":58,"share":6.324972737186478,"item":"hepliaklqana"},
+{"count":52,"share":5.670665212649945,"item":"gozag"},
+{"count":52,"share":5.670665212649945,"item":"trog"},
+{"count":46,"share":5.0163576881134135,"item":"wu jian"},
+{"count":45,"share":4.907306434023991,"item":"the shining one"},
+{"count":39,"share":4.252998909487459,"item":"dithmenos"},
+{"count":33,"share":3.598691384950927,"item":"ru"},
+{"count":32,"share":3.4896401308615053,"item":"yredelemnul"},
+{"count":31,"share":3.380588876772083,"item":"sif muna"},
+{"count":30,"share":3.271537622682661,"item":""},
+{"count":29,"share":3.162486368593239,"item":"cheibriados"},
+{"count":28,"share":3.0534351145038165,"item":"qazlal"},
+{"count":28,"share":3.0534351145038165,"item":"makhleb"},
+{"count":27,"share":2.9443838604143946,"item":"jiyva"},
+{"count":25,"share":2.7262813522355507,"item":"uskayaw"},
+{"count":23,"share":2.5081788440567068,"item":"elyvilon"},
+{"count":20,"share":2.1810250817884405,"item":"nemelex xobeh"},
+{"count":19,"share":2.0719738276990185,"item":"beogh"},
+{"count":16,"share":1.7448200654307526,"item":"fedhas"},
+{"count":14,"share":1.5267175572519083,"item":"xom"},
+{"count":13,"share":1.4176663031624863,"item":"ignis"},
+{"count":9,"share":0.9814612868047983,"item":"zin"},
+{"count":9,"share":0.9814612868047983,"item":"kikubaaqudgha"},
+{"count":8,"share":0.8724100327153763,"item":"lugonu"},
+{"count":1,"share":0.10905125408942204,"item":"the shining one (penitent)"},
+
+
+**Gods**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Gozag: 28 - share: 8.67%|Okawaru: 47 - share: 8.30%|Vehumet: 105 - share: 9.31%|Gozag: 34 - share: 20.00%|Gozag: 26 - share: 37.68%|Okawaru: 85 - share: 9.27%|
+|Okawaru: 28 - share: 8.67%|Gozag: 46 - share: 8.13%|Okawaru: 93 - share: 8.24%|Wu jian: 29 - share: 17.06%|Vehumet: 15 - share: 21.74%|Vehumet: 74 - share: 8.07%|
+|Vehumet: 23 - share: 7.12%|Wu jian: 41 - share: 7.24%|Gozag: 91 - share: 8.07%|The shining one: 23 - share: 13.53%|Wu jian: 9 - share: 13.04%|Ashenzari: 71 - share: 7.74%|
+|Hepliaklqana: 21 - share: 6.50%|Vehumet: 38 - share: 6.71%|Ashenzari: 77 - share: 6.83%|Vehumet: 16 - share: 9.41%|Makhleb: 4 - share: 5.80%|Hepliaklqana: 58 - share: 6.32%|
+|Wu jian: 20 - share: 6.19%|Hepliaklqana: 33 - share: 5.83%|Wu jian: 76 - share: 6.74%|Sif muna: 10 - share: 5.88%|Sif muna: 4 - share: 5.80%|Gozag: 52 - share: 5.67%|
+|Ashenzari: 17 - share: 5.26%|Trog: 28 - share: 4.95%|Hepliaklqana: 64 - share: 5.67%|Cheibriados: 9 - share: 5.29%|Hepliaklqana: 3 - share: 4.35%|Trog: 52 - share: 5.67%|
+|Ru: 13 - share: 4.02%|Ashenzari: 27 - share: 4.77%|Trog: 57 - share: 5.05%|Jiyva: 8 - share: 4.71%|Jiyva: 3 - share: 4.35%|Wu jian: 46 - share: 5.02%|
+|The shining one: 12 - share: 3.72%|The shining one: 23 - share: 4.06%|The shining one: 53 - share: 4.70%|Makhleb: 6 - share: 3.53%|Cheibriados: 3 - share: 4.35%|The shining one: 45 - share: 4.91%|
+|Elyvilon: 12 - share: 3.72%|Jiyva: 23 - share: 4.06%|Dithmenos: 45 - share: 3.99%|Ashenzari: 6 - share: 3.53%|Dithmenos: 2 - share: 2.90%|Dithmenos: 39 - share: 4.25%|
+|Dithmenos: 12 - share: 3.72%|Dithmenos: 22 - share: 3.89%|Makhleb: 39 - share: 3.46%|Okawaru: 5 - share: 2.94%||Ru: 33 - share: 3.60%|
+|Trog: 12 - share: 3.72%|Ru: 22 - share: 3.89%|Jiyva: 39 - share: 3.46%|Hepliaklqana: 4 - share: 2.35%||Yredelemnul: 32 - share: 3.49%|
+|Uskayaw: 11 - share: 3.41%|Elyvilon: 20 - share: 3.53%|Sif muna: 38 - share: 3.37%|Dithmenos: 4 - share: 2.35%||Sif muna: 31 - share: 3.38%|
+|Jiyva: 11 - share: 3.41%|Makhleb: 20 - share: 3.53%|Ru: 38 - share: 3.37%|: 3 - share: 1.76%||: 30 - share: 3.27%|
+|Yredelemnul: 10 - share: 3.10%|Yredelemnul: 17 - share: 3.00%|Cheibriados: 37 - share: 3.28%|Kikubaaqudgha: 2 - share: 1.18%||Cheibriados: 29 - share: 3.16%|
+|Makhleb: 10 - share: 3.10%|Cheibriados: 17 - share: 3.00%|Yredelemnul: 36 - share: 3.19%|Yredelemnul: 2 - share: 1.18%||Qazlal: 28 - share: 3.05%|
+|Sif muna: 10 - share: 3.10%|Uskayaw: 15 - share: 2.65%|Qazlal: 32 - share: 2.84%|Zin: 2 - share: 1.18%||Makhleb: 28 - share: 3.05%|
+|Beogh: 9 - share: 2.79%|Sif muna: 15 - share: 2.65%|: 30 - share: 2.66%|Uskayaw: 1 - share: 0.59%||Jiyva: 27 - share: 2.94%|
+|Fedhas: 8 - share: 2.48%|Fedhas: 14 - share: 2.47%|Uskayaw: 28 - share: 2.48%|Ignis: 1 - share: 0.59%||Uskayaw: 25 - share: 2.73%|
+|Cheibriados: 8 - share: 2.48%|Qazlal: 14 - share: 2.47%|Elyvilon: 26 - share: 2.30%|Qazlal: 1 - share: 0.59%||Elyvilon: 23 - share: 2.51%|
+|: 8 - share: 2.48%|Nemelex xobeh: 14 - share: 2.47%|Nemelex xobeh: 21 - share: 1.86%|Ru: 1 - share: 0.59%||Nemelex xobeh: 20 - share: 2.18%|
+|Ignis: 7 - share: 2.17%|: 13 - share: 2.30%|Beogh: 19 - share: 1.68%|Nemelex xobeh: 1 - share: 0.59%||Beogh: 19 - share: 2.07%|
+|Kikubaaqudgha: 7 - share: 2.17%|Beogh: 13 - share: 2.30%|Fedhas: 16 - share: 1.42%|Lugonu: 1 - share: 0.59%||Fedhas: 16 - share: 1.74%|
+|Nemelex xobeh: 7 - share: 2.17%|Ignis: 12 - share: 2.12%|Xom: 15 - share: 1.33%|The shining one (penitent): 1 - share: 0.59%||Xom: 14 - share: 1.53%|
+|Zin: 6 - share: 1.86%|Xom: 9 - share: 1.59%|Ignis: 15 - share: 1.33%|||Ignis: 13 - share: 1.42%|
+|Qazlal: 6 - share: 1.86%|Kikubaaqudgha: 8 - share: 1.41%|Zin: 14 - share: 1.24%|||Zin: 9 - share: 0.98%|
+|Xom: 4 - share: 1.24%|Lugonu: 8 - share: 1.41%|Lugonu: 12 - share: 1.06%|||Kikubaaqudgha: 9 - share: 0.98%|
+|Lugonu: 3 - share: 0.93%|Zin: 7 - share: 1.24%|Kikubaaqudgha: 11 - share: 0.98%|||Lugonu: 8 - share: 0.87%|
+|||The shining one (penitent): 1 - share: 0.09%|||The shining one (penitent): 1 - share: 0.11%|

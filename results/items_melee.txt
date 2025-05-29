@@ -1,0 +1,322 @@
+Melee
+Top 20(917 games):
+{"count":58,"item":"staff","share":19.141914191419144},
+{"count":49,"item":"broad axe","share":16.17161716171617},
+{"count":44,"item":"unarmed","share":14.521452145214523},
+{"count":30,"item":"quick blade","share":9.900990099009901},
+{"count":16,"item":"double sword","share":5.2805280528052805},
+{"count":11,"item":"demon blade","share":3.6303630363036308},
+{"count":10,"item":"eveningstar","share":3.3003300330033},
+{"count":7,"item":"demon whip","share":2.31023102310231},
+{"count":6,"item":"war axe","share":1.9801980198019802},
+{"count":6,"item":"partisan","share":1.9801980198019802},
+{"count":6,"item":"demon trident","share":1.9801980198019802},
+{"count":6,"item":"lance","share":1.9801980198019802},
+{"count":5,"item":"dagger","share":1.65016501650165},
+{"count":4,"item":"executioner's axe","share":1.3201320132013201},
+{"count":4,"item":"rapier","share":1.3201320132013201},
+{"count":3,"item":"scimitar","share":0.9900990099009901},
+{"count":3,"item":"eudemon blade","share":0.9900990099009901},
+{"count":2,"item":"longbow","share":0.6600660066006601},
+{"count":2,"item":"pair of quick bla","share":0.6600660066006601},
+{"count":2,"item":"headbutt","share":0.6600660066006601},
+{"count":2,"item":"lajatang","share":0.6600660066006601},
+{"count":2,"item":"falchion","share":0.6600660066006601},
+{"count":2,"item":"sacred scourge","share":0.6600660066006601},
+{"count":2,"item":"labrys","share":0.6600660066006601},
+{"count":2,"item":"spear","share":0.6600660066006601},
+{"count":2,"item":"katana","share":0.6600660066006601},
+{"count":2,"item":"triple sword","share":0.6600660066006601},
+{"count":1,"item":"battleaxe","share":0.33003300330033003},
+{"count":1,"item":"trident","share":0.33003300330033003},
+{"count":1,"item":"great sword","share":0.33003300330033003},
+{"count":1,"item":"giant club","share":0.33003300330033003},
+{"count":1,"item":"stingers","share":0.33003300330033003},
+{"count":1,"item":"bardiche","share":0.33003300330033003},
+{"count":1,"item":"long sword","share":0.33003300330033003},
+{"count":1,"item":"bo","share":0.33003300330033003},
+{"count":1,"item":"greatsling","share":0.33003300330033003},
+{"count":1,"item":"morningstar","share":0.33003300330033003},
+{"count":1,"item":"trishula","share":0.33003300330033003},
+{"count":1,"item":"giant spiked club","share":0.33003300330033003},
+{"count":1,"item":"short sword","share":0.33003300330033003},
+{"count":1,"item":"cutlass","share":0.33003300330033003},
+{"count":1,"item":"flail","share":0.33003300330033003},
+
+Top 50(917 games):
+{"count":100,"item":"broad axe","share":18.552875695732837},
+{"count":90,"item":"staff","share":16.697588126159555},
+{"count":83,"item":"unarmed","share":15.398886827458256},
+{"count":37,"item":"quick blade","share":6.8645640074211505},
+{"count":24,"item":"double sword","share":4.452690166975881},
+{"count":22,"item":"eveningstar","share":4.081632653061225},
+{"count":19,"item":"demon blade","share":3.525046382189239},
+{"count":15,"item":"demon trident","share":2.782931354359926},
+{"count":14,"item":"demon whip","share":2.5974025974025974},
+{"count":10,"item":"partisan","share":1.855287569573284},
+{"count":10,"item":"executioner's axe","share":1.855287569573284},
+{"count":10,"item":"lance","share":1.855287569573284},
+{"count":8,"item":"war axe","share":1.4842300556586272},
+{"count":7,"item":"dagger","share":1.2987012987012987},
+{"count":7,"item":"eudemon blade","share":1.2987012987012987},
+{"count":6,"item":"scimitar","share":1.1131725417439702},
+{"count":6,"item":"rapier","share":1.1131725417439702},
+{"count":6,"item":"triple sword","share":1.1131725417439702},
+{"count":6,"item":"morningstar","share":1.1131725417439702},
+{"count":4,"item":"sacred scourge","share":0.7421150278293136},
+{"count":4,"item":"labrys","share":0.7421150278293136},
+{"count":4,"item":"spear","share":0.7421150278293136},
+{"count":4,"item":"trishula","share":0.7421150278293136},
+{"count":3,"item":"pair of quick bla","share":0.5565862708719851},
+{"count":3,"item":"lajatang","share":0.5565862708719851},
+{"count":3,"item":"bardiche","share":0.5565862708719851},
+{"count":3,"item":"great mace","share":0.5565862708719851},
+{"count":2,"item":"longbow","share":0.3710575139146568},
+{"count":2,"item":"battleaxe","share":0.3710575139146568},
+{"count":2,"item":"great sword","share":0.3710575139146568},
+{"count":2,"item":"stingers","share":0.3710575139146568},
+{"count":2,"item":"headbutt","share":0.3710575139146568},
+{"count":2,"item":"falchion","share":0.3710575139146568},
+{"count":2,"item":"katana","share":0.3710575139146568},
+{"count":2,"item":"bo","share":0.3710575139146568},
+{"count":2,"item":"giant spiked club","share":0.3710575139146568},
+{"count":2,"item":"short sword","share":0.3710575139146568},
+{"count":2,"item":"cutlass","share":0.3710575139146568},
+{"count":1,"item":"trident","share":0.1855287569573284},
+{"count":1,"item":"giant club","share":0.1855287569573284},
+{"count":1,"item":"long sword","share":0.1855287569573284},
+{"count":1,"item":"greatsling","share":0.1855287569573284},
+{"count":1,"item":"flail","share":0.1855287569573284},
+{"count":1,"item":"shillelagh","share":0.1855287569573284},
+{"count":1,"item":"arbalest","share":0.1855287569573284},
+{"count":1,"item":"hand cannon","share":0.1855287569573284},
+{"count":1,"item":"kick","share":0.1855287569573284},
+
+Top 200(917 games):
+{"count":195,"item":"staff","share":18.43100189035917},
+{"count":185,"item":"broad axe","share":17.485822306238184},
+{"count":155,"item":"unarmed","share":14.650283553875237},
+{"count":64,"item":"quick blade","share":6.049149338374291},
+{"count":50,"item":"eveningstar","share":4.725897920604915},
+{"count":38,"item":"double sword","share":3.5916824196597354},
+{"count":37,"item":"demon trident","share":3.497164461247637},
+{"count":31,"item":"demon blade","share":2.9300567107750473},
+{"count":26,"item":"partisan","share":2.4574669187145557},
+{"count":20,"item":"demon whip","share":1.890359168241966},
+{"count":17,"item":"rapier","share":1.606805293005671},
+{"count":16,"item":"war axe","share":1.5122873345935728},
+{"count":16,"item":"executioner's axe","share":1.5122873345935728},
+{"count":16,"item":"lance","share":1.5122873345935728},
+{"count":15,"item":"dagger","share":1.4177693761814745},
+{"count":11,"item":"eudemon blade","share":1.0396975425330812},
+{"count":10,"item":"sacred scourge","share":0.945179584120983},
+{"count":10,"item":"scimitar","share":0.945179584120983},
+{"count":10,"item":"triple sword","share":0.945179584120983},
+{"count":10,"item":"morningstar","share":0.945179584120983},
+{"count":8,"item":"lajatang","share":0.7561436672967864},
+{"count":8,"item":"trishula","share":0.7561436672967864},
+{"count":8,"item":"giant spiked club","share":0.7561436672967864},
+{"count":7,"item":"labrys","share":0.6616257088846881},
+{"count":7,"item":"bardiche","share":0.6616257088846881},
+{"count":6,"item":"spear","share":0.5671077504725899},
+{"count":6,"item":"bo","share":0.5671077504725899},
+{"count":6,"item":"short sword","share":0.5671077504725899},
+{"count":6,"item":"flail","share":0.5671077504725899},
+{"count":5,"item":"battleaxe","share":0.4725897920604915},
+{"count":5,"item":"pair of quick bla","share":0.4725897920604915},
+{"count":5,"item":"great mace","share":0.4725897920604915},
+{"count":4,"item":"trident","share":0.3780718336483932},
+{"count":4,"item":"kick","share":0.3780718336483932},
+{"count":4,"item":"mace","share":0.3780718336483932},
+{"count":3,"item":"longbow","share":0.28355387523629494},
+{"count":3,"item":"katana","share":0.28355387523629494},
+{"count":3,"item":"long sword","share":0.28355387523629494},
+{"count":3,"item":"dire flail","share":0.28355387523629494},
+{"count":3,"item":"triple crossbow","share":0.28355387523629494},
+{"count":2,"item":"great sword","share":0.1890359168241966},
+{"count":2,"item":"stingers","share":0.1890359168241966},
+{"count":2,"item":"headbutt","share":0.1890359168241966},
+{"count":2,"item":"falchion","share":0.1890359168241966},
+{"count":2,"item":"cutlass","share":0.1890359168241966},
+{"count":2,"item":"knife","share":0.1890359168241966},
+{"count":1,"item":"giant club","share":0.0945179584120983},
+{"count":1,"item":"greatsling","share":0.0945179584120983},
+{"count":1,"item":"shillelagh","share":0.0945179584120983},
+{"count":1,"item":"arbalest","share":0.0945179584120983},
+{"count":1,"item":"hand cannon","share":0.0945179584120983},
+{"count":1,"item":"whip","share":0.0945179584120983},
+{"count":1,"item":"glaive","share":0.0945179584120983},
+{"count":1,"item":"lochaber axe","share":0.0945179584120983},
+{"count":1,"item":"orcbow","share":0.0945179584120983},
+{"count":1,"item":"tailslap","share":0.0945179584120983},
+
+15 Runes(917 games):
+{"count":43,"item":"staff","share":25.903614457831324},
+{"count":35,"item":"unarmed","share":21.084337349397593},
+{"count":25,"item":"broad axe","share":15.060240963855422},
+{"count":8,"item":"quick blade","share":4.819277108433735},
+{"count":6,"item":"eveningstar","share":3.614457831325301},
+{"count":5,"item":"eudemon blade","share":3.0120481927710845},
+{"count":4,"item":"double sword","share":2.4096385542168677},
+{"count":4,"item":"demon blade","share":2.4096385542168677},
+{"count":4,"item":"executioner's axe","share":2.4096385542168677},
+{"count":3,"item":"triple sword","share":1.8072289156626504},
+{"count":3,"item":"sacred scourge","share":1.8072289156626504},
+{"count":2,"item":"great sword","share":1.2048192771084338},
+{"count":2,"item":"labrys","share":1.2048192771084338},
+{"count":2,"item":"katana","share":1.2048192771084338},
+{"count":2,"item":"rapier","share":1.2048192771084338},
+{"count":2,"item":"lance","share":1.2048192771084338},
+{"count":2,"item":"kick","share":1.2048192771084338},
+{"count":2,"item":"giant spiked club","share":1.2048192771084338},
+{"count":2,"item":"demon trident","share":1.2048192771084338},
+{"count":2,"item":"trishula","share":1.2048192771084338},
+{"count":1,"item":"pair of quick bla","share":0.6024096385542169},
+{"count":1,"item":"partisan","share":0.6024096385542169},
+{"count":1,"item":"bo","share":0.6024096385542169},
+{"count":1,"item":"hand cannon","share":0.6024096385542169},
+{"count":1,"item":"mace","share":0.6024096385542169},
+{"count":1,"item":"flail","share":0.6024096385542169},
+{"count":1,"item":"triple crossbow","share":0.6024096385542169},
+{"count":1,"item":"dagger","share":0.6024096385542169},
+
+Zigg Cleared(917 games):
+{"count":32,"item":"staff","share":47.05882352941176},
+{"count":7,"item":"unarmed","share":10.294117647058822},
+{"count":5,"item":"quick blade","share":7.352941176470589},
+{"count":4,"item":"broad axe","share":5.88235294117647},
+{"count":2,"item":"demon blade","share":2.941176470588235},
+{"count":2,"item":"katana","share":2.941176470588235},
+{"count":2,"item":"lance","share":2.941176470588235},
+{"count":2,"item":"kick","share":2.941176470588235},
+{"count":1,"item":"partisan","share":1.4705882352941175},
+{"count":1,"item":"eveningstar","share":1.4705882352941175},
+{"count":1,"item":"eudemon blade","share":1.4705882352941175},
+{"count":1,"item":"bo","share":1.4705882352941175},
+{"count":1,"item":"double sword","share":1.4705882352941175},
+{"count":1,"item":"triple sword","share":1.4705882352941175},
+{"count":1,"item":"giant spiked club","share":1.4705882352941175},
+{"count":1,"item":"rapier","share":1.4705882352941175},
+{"count":1,"item":"mace","share":1.4705882352941175},
+{"count":1,"item":"flail","share":1.4705882352941175},
+{"count":1,"item":"demon trident","share":1.4705882352941175},
+{"count":1,"item":"trishula","share":1.4705882352941175},
+
+No Zigg(917 games):
+{"count":160,"item":"broad axe","share":18.757327080890974},
+{"count":136,"item":"staff","share":15.943728018757328},
+{"count":118,"item":"unarmed","share":13.833528722157093},
+{"count":51,"item":"quick blade","share":5.978898007033997},
+{"count":42,"item":"eveningstar","share":4.9237983587338805},
+{"count":33,"item":"demon trident","share":3.8686987104337636},
+{"count":31,"item":"double sword","share":3.6342321219226257},
+{"count":27,"item":"demon blade","share":3.1652989449003512},
+{"count":24,"item":"partisan","share":2.813599062133646},
+{"count":19,"item":"demon whip","share":2.2274325908558033},
+{"count":16,"item":"war axe","share":1.875732708089097},
+{"count":15,"item":"rapier","share":1.7584994138335288},
+{"count":14,"item":"dagger","share":1.6412661195779603},
+{"count":13,"item":"executioner's axe","share":1.5240328253223916},
+{"count":12,"item":"lance","share":1.406799531066823},
+{"count":10,"item":"sacred scourge","share":1.1723329425556859},
+{"count":10,"item":"scimitar","share":1.1723329425556859},
+{"count":9,"item":"morningstar","share":1.0550996483001172},
+{"count":8,"item":"triple sword","share":0.9378663540445485},
+{"count":7,"item":"lajatang","share":0.8206330597889802},
+{"count":7,"item":"trishula","share":0.8206330597889802},
+{"count":6,"item":"spear","share":0.7033997655334115},
+{"count":6,"item":"bardiche","share":0.7033997655334115},
+{"count":6,"item":"labrys","share":0.7033997655334115},
+{"count":6,"item":"short sword","share":0.7033997655334115},
+{"count":5,"item":"giant spiked club","share":0.5861664712778429},
+{"count":5,"item":"eudemon blade","share":0.5861664712778429},
+{"count":4,"item":"battleaxe","share":0.4689331770222743},
+{"count":4,"item":"pair of quick bla","share":0.4689331770222743},
+{"count":4,"item":"flail","share":0.4689331770222743},
+{"count":4,"item":"great mace","share":0.4689331770222743},
+{"count":3,"item":"bo","share":0.3516998827667058},
+{"count":3,"item":"trident","share":0.3516998827667058},
+{"count":3,"item":"mace","share":0.3516998827667058},
+{"count":2,"item":"longbow","share":0.23446658851113714},
+{"count":2,"item":"great sword","share":0.23446658851113714},
+{"count":2,"item":"stingers","share":0.23446658851113714},
+{"count":2,"item":"headbutt","share":0.23446658851113714},
+{"count":2,"item":"falchion","share":0.23446658851113714},
+{"count":2,"item":"long sword","share":0.23446658851113714},
+{"count":2,"item":"cutlass","share":0.23446658851113714},
+{"count":2,"item":"kick","share":0.23446658851113714},
+{"count":2,"item":"dire flail","share":0.23446658851113714},
+{"count":2,"item":"knife","share":0.23446658851113714},
+{"count":2,"item":"triple crossbow","share":0.23446658851113714},
+{"count":1,"item":"giant club","share":0.11723329425556857},
+{"count":1,"item":"katana","share":0.11723329425556857},
+{"count":1,"item":"greatsling","share":0.11723329425556857},
+{"count":1,"item":"shillelagh","share":0.11723329425556857},
+{"count":1,"item":"arbalest","share":0.11723329425556857},
+{"count":1,"item":"whip","share":0.11723329425556857},
+{"count":1,"item":"glaive","share":0.11723329425556857},
+{"count":1,"item":"lochaber axe","share":0.11723329425556857},
+{"count":1,"item":"orcbow","share":0.11723329425556857},
+{"count":1,"item":"tailslap","share":0.11723329425556857},
+
+
+**Melee**
+
+|Top 20 (323 games)|Top 50 (566 games)|Top 200 (1128 games)|15 Runes (170 games)|Zigg Cleared (69 games)|No Zigg (917 games)|
+|:-|:-|:-|:-|:-|:-|
+|Staff: 58 - share: 19.14%|Broad axe: 100 - share: 18.55%|Staff: 195 - share: 18.43%|Staff: 43 - share: 25.90%|Staff: 32 - share: 47.06%|Broad axe: 160 - share: 18.76%|
+|Broad axe: 49 - share: 16.17%|Staff: 90 - share: 16.70%|Broad axe: 185 - share: 17.49%|Unarmed: 35 - share: 21.08%|Unarmed: 7 - share: 10.29%|Staff: 136 - share: 15.94%|
+|Unarmed: 44 - share: 14.52%|Unarmed: 83 - share: 15.40%|Unarmed: 155 - share: 14.65%|Broad axe: 25 - share: 15.06%|Quick blade: 5 - share: 7.35%|Unarmed: 118 - share: 13.83%|
+|Quick blade: 30 - share: 9.90%|Quick blade: 37 - share: 6.86%|Quick blade: 64 - share: 6.05%|Quick blade: 8 - share: 4.82%|Broad axe: 4 - share: 5.88%|Quick blade: 51 - share: 5.98%|
+|Double sword: 16 - share: 5.28%|Double sword: 24 - share: 4.45%|Eveningstar: 50 - share: 4.73%|Eveningstar: 6 - share: 3.61%|Demon blade: 2 - share: 2.94%|Eveningstar: 42 - share: 4.92%|
+|Demon blade: 11 - share: 3.63%|Eveningstar: 22 - share: 4.08%|Double sword: 38 - share: 3.59%|Eudemon blade: 5 - share: 3.01%|Katana: 2 - share: 2.94%|Demon trident: 33 - share: 3.87%|
+|Eveningstar: 10 - share: 3.30%|Demon blade: 19 - share: 3.53%|Demon trident: 37 - share: 3.50%|Double sword: 4 - share: 2.41%|Lance: 2 - share: 2.94%|Double sword: 31 - share: 3.63%|
+|Demon whip: 7 - share: 2.31%|Demon trident: 15 - share: 2.78%|Demon blade: 31 - share: 2.93%|Demon blade: 4 - share: 2.41%|Kick: 2 - share: 2.94%|Demon blade: 27 - share: 3.17%|
+|War axe: 6 - share: 1.98%|Demon whip: 14 - share: 2.60%|Partisan: 26 - share: 2.46%|Executioner's axe: 4 - share: 2.41%|Partisan: 1 - share: 1.47%|Partisan: 24 - share: 2.81%|
+|Partisan: 6 - share: 1.98%|Partisan: 10 - share: 1.86%|Demon whip: 20 - share: 1.89%|Triple sword: 3 - share: 1.81%|Eveningstar: 1 - share: 1.47%|Demon whip: 19 - share: 2.23%|
+|Demon trident: 6 - share: 1.98%|Executioner's axe: 10 - share: 1.86%|Rapier: 17 - share: 1.61%|Sacred scourge: 3 - share: 1.81%|Eudemon blade: 1 - share: 1.47%|War axe: 16 - share: 1.88%|
+|Lance: 6 - share: 1.98%|Lance: 10 - share: 1.86%|War axe: 16 - share: 1.51%|Great sword: 2 - share: 1.20%|Bo: 1 - share: 1.47%|Rapier: 15 - share: 1.76%|
+|Dagger: 5 - share: 1.65%|War axe: 8 - share: 1.48%|Executioner's axe: 16 - share: 1.51%|Labrys: 2 - share: 1.20%|Double sword: 1 - share: 1.47%|Dagger: 14 - share: 1.64%|
+|Executioner's axe: 4 - share: 1.32%|Dagger: 7 - share: 1.30%|Lance: 16 - share: 1.51%|Katana: 2 - share: 1.20%|Triple sword: 1 - share: 1.47%|Executioner's axe: 13 - share: 1.52%|
+|Rapier: 4 - share: 1.32%|Eudemon blade: 7 - share: 1.30%|Dagger: 15 - share: 1.42%|Rapier: 2 - share: 1.20%|Giant spiked club: 1 - share: 1.47%|Lance: 12 - share: 1.41%|
+|Scimitar: 3 - share: 0.99%|Scimitar: 6 - share: 1.11%|Eudemon blade: 11 - share: 1.04%|Lance: 2 - share: 1.20%|Rapier: 1 - share: 1.47%|Sacred scourge: 10 - share: 1.17%|
+|Eudemon blade: 3 - share: 0.99%|Rapier: 6 - share: 1.11%|Sacred scourge: 10 - share: 0.95%|Kick: 2 - share: 1.20%|Mace: 1 - share: 1.47%|Scimitar: 10 - share: 1.17%|
+|Longbow: 2 - share: 0.66%|Triple sword: 6 - share: 1.11%|Scimitar: 10 - share: 0.95%|Giant spiked club: 2 - share: 1.20%|Flail: 1 - share: 1.47%|Morningstar: 9 - share: 1.06%|
+|Pair of quick bla: 2 - share: 0.66%|Morningstar: 6 - share: 1.11%|Triple sword: 10 - share: 0.95%|Demon trident: 2 - share: 1.20%|Demon trident: 1 - share: 1.47%|Triple sword: 8 - share: 0.94%|
+|Headbutt: 2 - share: 0.66%|Sacred scourge: 4 - share: 0.74%|Morningstar: 10 - share: 0.95%|Trishula: 2 - share: 1.20%|Trishula: 1 - share: 1.47%|Lajatang: 7 - share: 0.82%|
+|Lajatang: 2 - share: 0.66%|Labrys: 4 - share: 0.74%|Lajatang: 8 - share: 0.76%|Pair of quick bla: 1 - share: 0.60%||Trishula: 7 - share: 0.82%|
+|Falchion: 2 - share: 0.66%|Spear: 4 - share: 0.74%|Trishula: 8 - share: 0.76%|Partisan: 1 - share: 0.60%||Spear: 6 - share: 0.70%|
+|Sacred scourge: 2 - share: 0.66%|Trishula: 4 - share: 0.74%|Giant spiked club: 8 - share: 0.76%|Bo: 1 - share: 0.60%||Bardiche: 6 - share: 0.70%|
+|Labrys: 2 - share: 0.66%|Pair of quick bla: 3 - share: 0.56%|Labrys: 7 - share: 0.66%|Hand cannon: 1 - share: 0.60%||Labrys: 6 - share: 0.70%|
+|Spear: 2 - share: 0.66%|Lajatang: 3 - share: 0.56%|Bardiche: 7 - share: 0.66%|Mace: 1 - share: 0.60%||Short sword: 6 - share: 0.70%|
+|Katana: 2 - share: 0.66%|Bardiche: 3 - share: 0.56%|Spear: 6 - share: 0.57%|Flail: 1 - share: 0.60%||Giant spiked club: 5 - share: 0.59%|
+|Triple sword: 2 - share: 0.66%|Great mace: 3 - share: 0.56%|Bo: 6 - share: 0.57%|Triple crossbow: 1 - share: 0.60%||Eudemon blade: 5 - share: 0.59%|
+|Battleaxe: 1 - share: 0.33%|Longbow: 2 - share: 0.37%|Short sword: 6 - share: 0.57%|Dagger: 1 - share: 0.60%||Battleaxe: 4 - share: 0.47%|
+|Trident: 1 - share: 0.33%|Battleaxe: 2 - share: 0.37%|Flail: 6 - share: 0.57%|||Pair of quick bla: 4 - share: 0.47%|
+|Great sword: 1 - share: 0.33%|Great sword: 2 - share: 0.37%|Battleaxe: 5 - share: 0.47%|||Flail: 4 - share: 0.47%|
+|Giant club: 1 - share: 0.33%|Stingers: 2 - share: 0.37%|Pair of quick bla: 5 - share: 0.47%|||Great mace: 4 - share: 0.47%|
+|Stingers: 1 - share: 0.33%|Headbutt: 2 - share: 0.37%|Great mace: 5 - share: 0.47%|||Bo: 3 - share: 0.35%|
+|Bardiche: 1 - share: 0.33%|Falchion: 2 - share: 0.37%|Trident: 4 - share: 0.38%|||Trident: 3 - share: 0.35%|
+|Long sword: 1 - share: 0.33%|Katana: 2 - share: 0.37%|Kick: 4 - share: 0.38%|||Mace: 3 - share: 0.35%|
+|Bo: 1 - share: 0.33%|Bo: 2 - share: 0.37%|Mace: 4 - share: 0.38%|||Longbow: 2 - share: 0.23%|
+|Greatsling: 1 - share: 0.33%|Giant spiked club: 2 - share: 0.37%|Longbow: 3 - share: 0.28%|||Great sword: 2 - share: 0.23%|
+|Morningstar: 1 - share: 0.33%|Short sword: 2 - share: 0.37%|Katana: 3 - share: 0.28%|||Stingers: 2 - share: 0.23%|
+|Trishula: 1 - share: 0.33%|Cutlass: 2 - share: 0.37%|Long sword: 3 - share: 0.28%|||Headbutt: 2 - share: 0.23%|
+|Giant spiked club: 1 - share: 0.33%|Trident: 1 - share: 0.19%|Dire flail: 3 - share: 0.28%|||Falchion: 2 - share: 0.23%|
+|Short sword: 1 - share: 0.33%|Giant club: 1 - share: 0.19%|Triple crossbow: 3 - share: 0.28%|||Long sword: 2 - share: 0.23%|
+|Cutlass: 1 - share: 0.33%|Long sword: 1 - share: 0.19%|Great sword: 2 - share: 0.19%|||Cutlass: 2 - share: 0.23%|
+|Flail: 1 - share: 0.33%|Greatsling: 1 - share: 0.19%|Stingers: 2 - share: 0.19%|||Kick: 2 - share: 0.23%|
+||Flail: 1 - share: 0.19%|Headbutt: 2 - share: 0.19%|||Dire flail: 2 - share: 0.23%|
+||Shillelagh: 1 - share: 0.19%|Falchion: 2 - share: 0.19%|||Knife: 2 - share: 0.23%|
+||Arbalest: 1 - share: 0.19%|Cutlass: 2 - share: 0.19%|||Triple crossbow: 2 - share: 0.23%|
+||Hand cannon: 1 - share: 0.19%|Knife: 2 - share: 0.19%|||Giant club: 1 - share: 0.12%|
+||Kick: 1 - share: 0.19%|Giant club: 1 - share: 0.09%|||Katana: 1 - share: 0.12%|
+|||Greatsling: 1 - share: 0.09%|||Greatsling: 1 - share: 0.12%|
+|||Shillelagh: 1 - share: 0.09%|||Shillelagh: 1 - share: 0.12%|
+|||Arbalest: 1 - share: 0.09%|||Arbalest: 1 - share: 0.12%|
+|||Hand cannon: 1 - share: 0.09%|||Whip: 1 - share: 0.12%|
+|||Whip: 1 - share: 0.09%|||Glaive: 1 - share: 0.12%|
+|||Glaive: 1 - share: 0.09%|||Lochaber axe: 1 - share: 0.12%|
+|||Lochaber axe: 1 - share: 0.09%|||Orcbow: 1 - share: 0.12%|
+|||Orcbow: 1 - share: 0.09%|||Tailslap: 1 - share: 0.12%|
+|||Tailslap: 1 - share: 0.09%||||
