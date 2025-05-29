@@ -10,7 +10,7 @@ node index.js analyse all no_challenges
 node index.js downloadPlayersList X
 
 ** To download an parse a specific player **
-node index.js playerName
+node index.js downloadPlayer playerName
 
 There are a few other arguements if you look at the bottom of index.js
 
