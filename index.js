@@ -230,9 +230,10 @@ async function getAnalysis(description, func, output, params, no_challenges=fals
   morgues = morgueData.getMorguesNoZig();if(no_challenges) morgues = filterMorguesForChallenges(morgues);
   results.push({title:"No Zigg", count:morgues.length, result:func( morgues, params)}); 
   
+  //Code to build the reddit tables
   let result = description + "\n";
   for(let i=0;i<results.length;i++){
-    result += results[i].title +  "(" + morgues.length + " games):\n";
+    result += results[i].title +  ":\n";
     result += arToString(results[i].result) + "\n";
   }
 
