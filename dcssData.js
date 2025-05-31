@@ -185,7 +185,7 @@ export const jobsData = {
   },
   "shapeshifter": {
     "name": "shapeshifter",
-    "short": "ss"
+    "short": "sh"
   },
   "delver": {
     "name": "delver",
@@ -193,7 +193,7 @@ export const jobsData = {
   },
   "wanderer": {
     "name": "wanderer",
-    "short": "wr"
+    "short": "wn"
   },
   "artificer": {
     "name": "artificer",
